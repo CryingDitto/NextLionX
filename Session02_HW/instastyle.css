@@ -1,0 +1,296 @@
+.container{
+    display: flex;
+    background-color: white;
+    width: 350px;
+    height: 850px;;
+
+    margin:1px;
+
+    
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    font-family: 'Nanum Gothic', sans-serif;
+
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+
+}
+
+.time{
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+
+    font-size: small;
+    font-weight: 600;
+    padding: 0 2%;
+
+}
+.header_icons{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+.header_icons img{
+    width: 20px;
+    height: 20px;
+    display: flex;
+
+    margin: 0 1%;
+}
+
+
+.topbar {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 5%;
+    align-items: center;
+}
+.back_icon{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 30%;
+
+    margin:0 2%;
+}
+.ID{
+    display: flex;
+    width:40%;
+    justify-content: center;
+    font-weight: 600;
+    
+}
+.notifications{
+    display: flex;
+    width: 30%;
+    justify-content: flex-end;
+
+}
+.notiimage{
+
+    width: 70%;
+    display: flex;
+    justify-content: flex-end
+}
+.moremenu{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+    margin:0 2%;
+
+}
+
+
+.profile{
+    display:flex;
+    flex-direction: row;
+    
+    align-items: center;
+    
+}
+.profilephoto{
+    width:30%;
+    display: flex;
+    justify-content: center;
+
+}
+.info{
+    width:70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: small;
+}
+
+#posts > .number{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+#followers > .number{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-weight: 600;
+    
+    margin-bottom: 0px;
+}
+#followings > .number{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-weight: 600;
+    
+    margin-bottom: 0px;
+}
+#posts > .hangul{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 2px;
+}
+#followers > .hangul{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 2px;
+}
+#followings > .hangul{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 2px;
+}
+
+.profile2{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+
+    font-size: small;
+}
+.profile2 > #profilename{
+    font-weight: 700;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 1%;
+}
+.follow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:40%;
+    height:30px;
+
+    background-color:cornflowerblue;
+    color: white;
+    border-radius: 0.5em;
+    
+}
+.message{    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:40%;
+    height: 30px;
+
+    
+    border: 1px solid lightgrey;
+    border-radius: 0.5em;
+
+}
+.addfriend{
+    
+    display: flex;
+    justify-content: center;
+
+    padding: 0.35em;
+
+    border-radius: 0.5em;
+    border: 1px solid lightgrey;
+}
+
+
+.story {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    margin:1%;
+
+}
+.story1{
+    
+    display: flex;
+    flex-direction: column;
+    margin: 0 1%;
+}
+.story_new{
+    
+    display: flex;
+    flex-direction: column;
+    margin: 0 2%;
+}
+.storyname{
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+
+}
+
+
+.iconbar{
+    display: flex;
+
+    /* justify-content: space-evenly; */
+    padding:2% 0;
+    border-bottom: 1px solid lightgray;
+}
+.icon{
+    display: flex;
+}
+#grid{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: center;
+}
+#tagged{
+    width:50%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+.palette{
+    display: flex;
+    flex-direction: column;
+}
+.ptrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ptimage{
+    width:115px;
+    height:115px;
+}
+
+.bottom{
+
+    display:fixed;
+    top:690px;
+}
+.bottommenu{
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+
+    padding:1%;
+
+    border-top: 1px solid lightgray;
+}
+
+.doubleborder {
+
+    border:3px double gray;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+
