@@ -1,0 +1,322 @@
+.orange{
+        color:rgb(252, 47, 10);
+}
+
+.whitebold{
+    /* color:white; */
+    font-weight: 800;
+}
+.entire{
+    /* background-color: black; */
+    /* color:white; */
+    flex:1;
+    width: 500px;
+    font-family: 'Gothic A1', sans-serif;
+
+    border: 3px solid white;
+    border-radius: 5%;
+
+    padding-bottom: 50px;
+}
+.icons{
+    width: 40px;
+    height: 40px;
+}
+.iconsmall{    
+    width: 30px;
+    height: 30px;
+}
+
+.head{
+    display: flex;
+    flex-direction: column;
+    padding:3%;
+    
+}
+.head1{
+    display: flex;
+    font-size: medium;
+    align-items: flex-end;
+
+}
+.head2{
+    display: flex;
+    flex-direction: row;  
+    align-items: center;
+    
+    font-size:x-large;  
+}
+#schoolName {
+    width:70%;
+}
+.iconbox{
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    
+    align-items: center;
+    
+}
+
+
+.head3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 3% auto;
+
+    width:500px; 
+    overflow-x:auto; 
+    white-space:nowrap;
+}
+.head3box{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 3%;
+
+
+    /* width:500px; 
+    overflow-x:auto; 
+    white-space:nowrap; */
+
+    /* display:inline-block; */
+
+    
+}
+.head3inbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* align-items: center; */
+
+    width: 300px;
+    height: 200px;
+    border: 2px solid lightcoral;
+    /* rgb(252, 47, 10) */
+    border-radius: 10%;
+    margin-right: 3%;
+
+}
+#inbox2{
+    border-color: lightskyblue;
+}
+.head3up{
+    display: flex;
+    flex-direction: row;
+    /* margin: 5% 2%; */
+
+    height:40%;
+}
+.timetable{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    width: 30%;
+    padding:5% 3%;
+} 
+.title{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: flex-end;
+    
+    width:70%;
+    padding:5% 3%;
+    
+}
+.whitebold > span{
+    font-size: large;
+}
+.head3down{
+    display: flex;
+    flex-direction: row;
+    height:60%;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: flex-start;
+    align-items: flex-end;
+
+    padding:0 3%;
+    width:30%;
+}
+.className{
+    display: flex;
+    flex-direction: column;
+
+    padding:0 3%;
+    width:70%;
+}
+.subtitle{
+    font-size: small;
+    font-weight: 600;
+}
+#subtitle1{
+    color:rgb(252, 47, 10);
+}
+#subtitle2{    
+    color:lightskyblue;
+}
+.todo{
+    display: flex;
+    
+}
+.todo > span{
+    display:flex;
+    align-items: center;
+    background-color: lightskyblue;
+    border-radius: 20px;
+    padding: 2% 3%;
+    margin:0 3%;
+    height:20%
+}
+
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    margin-bottom: 3%;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    width:17%;
+    justify-content: center;
+    align-items: center;
+
+    font-size: medium;
+}
+.iconbg{    
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 170, 155);
+
+    border-radius: 50%;
+    overflow: hidden;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.ad{
+    margin: 3%;
+
+}
+#adimg{
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+
+
+.bottom{
+    margin:3%;
+    /* display: flex; */
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+    padding: 3%;
+}
+.bottom1{
+    display: flex;
+    flex-direction: row;
+    margin: 2% 0;
+}
+#board{
+    display: flex;
+    width: 70%;
+    font-size: large;
+    align-items: center;
+
+}
+#more{
+    display: flex;
+    justify-content: flex-end;
+    width: 30%;
+}
+
+.bottom2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+    margin: 3% 0;
+}
+.bulletin{
+    font-weight: 600;
+    font-size: medium;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-right: 2%;
+}
+.message{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.boardtext{
+    width:96%;
+    display: flex;
+    flex-direction: row;
+}
+.newbox{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    width:4%;
+    height:18px;
+    background-color: lightcoral;
+    border-radius: 5px;
+}
+.newletter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    font-size: small;
+    font-weight: 600;
+
+}
+
+
+/* 하단 바 고정 */
+#footer{
+    position: fixed;
+    background-color:lightcoral;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 500px;
+    height: 40px;
+    padding: 2% 0;
+    margin: 1px 11px; 
+}
+.bottombar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: space-around;
+    padding:0;
+
+    margin:0;
+    /* margin-top:1%; */
+}
+.barbox{
+    display: flex;
+    /* justify-content: ; */
+    align-items: center;
+    padding:0;
+    margin:0;
+}
