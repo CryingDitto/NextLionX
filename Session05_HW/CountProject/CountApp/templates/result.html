@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+    
+    <title>Result</title>
+
+</head>
+<body>
+    <!-- <p>당신이 입력한 내용: {{input_text}}</p>
+    <p>글자수: {{total_len}}</p>
+    <p>공백제외: {{no_blank_len}} </p> -->
+
+
+    <div class="form_area">
+
+        <form action="{% url 'result' %}" method="POST"> {% csrf_token %}
+
+            <div class="top">
+                <span class="title">🐯당신의 결과!🦁</span>
+                
+                <button class="goback" type = "button" onclick = "location.href='count'">글자 수 세러가기</button>
+                <!-- <input class="submit" type="submit" value="제출" /> -->
+            </div>
+
+            <br>
+
+
+            <div class="container">
+                <div class="textbox">
+                    <textarea name="text" readonly>{{input_text}}</textarea>
+
+                </div>
+                <!-- <textarea name = "text" cols = "100px" rows ="20px">텍스트를 입력하세요.</textarea> -->
+                <!-- <input class="input_text" type="text" name="text"> -->
+
+                <!-- <br /> -->
+                <div class="resultarea">
+                    <div class="resultbox">
+                        <div class="black">공백 포함</div>
+                        <div class="bytebox">
+                            <span class="blue">{{total_len}}</span>
+                            <div class="grey">
+                                <span>{{total_byte}} </span>
+                                <span>byte</span> 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="resultbox">
+                        <div class="black">공백 제외</div>
+                        <div class="bytebox">
+                            <span class="blue">{{no_blank_len}}</span>
+                            <div class="grey">
+                                <span> {{no_blank_byte}} </span>
+                                <span>byte</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="resultbox">
+                        <div class="black">단어 수</div>
+                        <div class="bytebox">
+                            <span class="blue">{{word_len}}</span>                            
+                        </div>
+                    </div>
+                    <div class="shortcutkeys">단축키 안내</div>
+                </div>
+            </div>
+
+
+        </form>
+
+</body>
+</html>
