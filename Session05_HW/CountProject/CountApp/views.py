@@ -25,4 +25,8 @@ def countbyte(text):
     return len(text.encode())
 
 def countword(text):
-    return len(text.split(' '))
+    if len(text)>0:
+        length = len(text.split(' '))
+    else:
+        length=0
+    return length
