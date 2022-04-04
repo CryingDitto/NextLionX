@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Document details</title>
+</head>
+<body>
+    
+    <div class="header">글 상세 페이지</div>
+    <br>
+
+    <!-- category -->
+    <div class="category">
+        <!-- <div class="category_detail">category</div> -->
+        <div class="category_detail">
+            {{article.category}}
+        </div>
+    </div>
+    <!-- title -->
+    <div class = "titlepart">
+        <!-- <h3>제목</h3> -->
+        <div class="title">{{article.title}}</div>
+        <div class="datepart">
+            <div class="datewritten">작성일</div> 
+            <div class="datebar">||</div>
+            <div class="date">{{article.date}}</div>
+        </div>
+        
+    </div>
+    
+    <!-- content -->
+    <div class="contentbox">
+        <div class="content_header">내용</div>
+        <div class="content">{{article.content}}</div>
+    </div>
+
+    <br>
+    <a href="{% url 'list' %}">글 목록</a>
+</body>
+</html>

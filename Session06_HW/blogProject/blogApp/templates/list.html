@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="../static/style.css">
+    
+    <title>Category List</title>
+</head>
+<body>
+ 
+    <div class="header">카테고리 목록</div>
+
+    <div class="list">
+        <ul>
+            {% for category in articles_category %}
+            <li>
+                <a href="{% url 'category' category %}">{{category}}</a>
+
+                
+            </li>
+            {% endfor %}
+
+
+
+        </ul>
+        <div class="posts">
+            <div class="post_num">{{articles_hobby_num}}</div>
+            <div class="post_num">{{articles_food_num}}</div>
+            <div class="post_num">{{articles_programming_num}}</div>
+        </div>
+    </div>
+
+
+    <a href="{% url 'new' %}">글 쓰러 가기</a>
+</body>
+</html>
