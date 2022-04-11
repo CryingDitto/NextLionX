@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {% load static %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Nanum+Gothic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href= {% static 'style.css' %}>
+    <title>Edit</title>
+</head>
+<body>
+    
+    
+
+    <form action="" method = "POST">
+        {% csrf_token %}
+            <div class="head fontGrape xxlf row">
+                <div class="title"> Edit To-do Item </div>
+
+                <button type='submit' class="w-btn-outline w-btn-green2-outline">Edit</button>
+
+            </div>
+
+        <!-- <div class="col"> -->
+            <div class="row">
+                <label for="title" class="fontGrape xlf name">Title</label>
+                <input class="textinput" type="text" name="title" id="title" value={{post.title}}>
+            </div>
+            
+            <br>
+            <div class="row">
+                <label for="content" class="fontGrape xlf name">Content</label>
+                <textarea class="textinput" name="content" id="content" cols="30" rows="10">{{post.content}}</textarea>
+            
+            </div>
+            
+            
+            <div class="row">
+                <label for="deadline" class="fontGrape xlf name">Deadline</label>
+                <p><input class="dateinput" type="date" name="deadline" id="deadline" value={{post.deadline}}></p>
+            
+            
+            </div>
+            
+            
+            
+
+
+        <!-- </div> -->
+    </form>
+
+</body>
+</html>

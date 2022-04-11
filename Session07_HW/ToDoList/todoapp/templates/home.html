@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {% load static %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Nanum+Gothic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href= {% static 'style.css' %}>
+    <title>To-do List</title>
+</head>
+<body>
+    
+    <div class="row">
+        <div class="head fontGrape xxlf">To-do List</div>
+
+    </div>
+    
+
+    <div class="content">
+        <ul>
+            {% for post in posts %}
+                <div class="row full">
+
+                    <div class="col summary">
+                        <li class="fontGrape xxlf"><a href="{% url 'detail' post.pk %}"> {{post.title}} </a></li>
+                        
+                        <div class="minicontent"> {{post.content}} </div>
+
+                    </div>
+                    
+                    <div class="deadline">
+                        <!-- Not a number -->
+                        <!-- {{ post.deadline | timeuntil }} -->
+                        D-{{post.d_day}}
+                    
+                    </div>
+                </div>        
+                
+        
+            {% endfor %}
+
+        </ul>
+    </div>
+    <div>
+        <a href="{% url 'new' %}" class="w-btn-outline w-btn-green2-outline">New To-dos</a>
+    </div>
+
+
+   
+</body>
+</html>
