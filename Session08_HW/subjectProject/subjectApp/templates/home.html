@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% load static %}
+    <link rel="stylesheet" href = "{% static 'style.css'%}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300&family=Sunflower:wght@300&display=swap" rel="stylesheet">
+
+
+    <title>Home</title>
+</head>
+<body>
+
+    
+    <div class="head"> 과목 조회 </div>
+    <div class="row">
+        <div class = 'left col'>
+            <div class = "row titlebutton">
+                <div class='xxl'>모든 전공</div>
+                <a class="w-btn-outline w-btn-indigo-outline" href="{% url 'addMajor' %}">전공 추가</a>
+            </div>
+            
+
+            <div class="row titlebutton">
+                <div class="col majorlist">
+                    {% for major in majors %}
+                    
+                        <div class="link-left">
+                            <li> <a class="l" href="{% url 'major' major.pk %}">{{major.name}} </a></li>
+                        </div>                        
+                    
+                    {% endfor %}
+                </div>
+
+                <div class="col majorlist">
+
+                    {% for major in majors %}
+                    
+                        <div class="row">
+                            <div class="link">
+                                <a class="minibutton w-btn-gray-outline rm" href="{% url 'editMajor' major.pk  %}">수정</a>
+                            </div>
+                            <div class="link">
+                                <a class="minibutton w-btn-gray-outline" href="{% url 'deleteMajor' major.pk  %}">삭제</a>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+                    
+
+                
+                
+            </div>
+            
+
+
+
+        </div>
+        
+        <div class="right">
+
+            <div class = "row titlebutton">
+                <div class='xxl'>모든 과목</div>
+                <a class="w-btn-outline w-btn-indigo-outline" href="{% url 'addSubject' %}">과목 추가</a>
+
+            </div>
+            
+            <ol class="container">
+                {% for subject in subjects %}
+                <div class="box">
+                    <li class="box2">
+                        <div class="box-content">
+                            <span class="bold xl">
+                                {{subject.subject_name}}
+                            </span>
+                            <span> | {{subject.major}} | </span>
+                            <span>{{subject.prof_name}} </span>
+                            <div class="memos">
+                                {% comment %} <a href="#"> {% endcomment %}
+                                {{subject.memo|linebreaks}}
+                                {% comment %} </a> {% endcomment %}
+                            </div>
+            
+                        </div>
+                    </li>
+            
+                </div>
+                {%endfor%}
+            </ol>
+
+        </div>
+    </div>
+</body>
+</html>

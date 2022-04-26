@@ -1,0 +1,279 @@
+body{
+
+    font-family: 'Gothic A1',
+    sans-serif;
+    
+}
+a{
+    color:rgba(0, 0, 0, 1);
+    text-decoration: none;
+    
+}
+a:visited{
+    color:rgb(35, 87, 184);
+}
+a:hover{
+    color:#f199bc;
+    font-weight: 600;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* font */
+.bold{
+    font-weight: 600;
+}
+.xxl{
+    font-size: xx-large;
+}
+.xl{
+    font-size: x-large;
+}
+.l{
+    font-size: large;
+}
+.m{
+    font-size: medium;
+}
+
+/* home */
+.head{
+    font-size: 45px;
+    height:60px;
+    margin:1%;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    font-family: 'Sunflower',
+    sans-serif;
+    
+}
+.left{
+    margin:0 40px;
+    width:300px;
+}
+
+.title{
+    font-size: large;
+
+}
+.titlebutton{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.majorlist{
+    margin-top:20px;
+}
+.link-left {
+    /* major list */
+    margin-right: 10px;
+    margin-bottom: 25px;
+    margin-top:10px;
+}
+
+.link {
+    /* major delete buttons */
+    justify-content: end;
+    margin-top:10px;
+    margin-bottom: 25px;
+}
+
+
+
+.container{
+    padding: 0;
+}
+.box{
+    border:3px solid dodgerblue;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+    padding: 10px;
+    padding-top: 20px;
+
+    
+}
+.box2{
+    display: flex;
+    align-items: center;
+        
+
+}
+
+
+/* addSubject.html */
+.input {
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+
+    margin: 100px auto;
+}
+
+.labelbox{
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: row;
+    justify-content:space-between;
+    font-size: larger;
+
+    margin:5px 0;
+
+    
+}
+.label{
+    display: flex;
+    font-size: larger;
+    margin: 0 10px;
+    align-items: center;
+}
+.info{
+    display: flex;
+    align-items: center;
+}
+
+/* for all forms */
+form {
+    padding: 10px;
+    border: 3px solid #6aafe6;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.foot-button {
+    display: flex;
+    flex-direction: row;
+
+    width: 20%;
+
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+/* major.html*/
+.majorname{
+    width: 50%;
+    margin-right: 30px;
+}
+.subject{
+    margin:1%;
+    /* margin-top:10px; */
+}
+.subject-box {
+    border: 3px solid dodgerblue;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+    padding: 20px;
+
+
+}
+.subject-left{
+    margin-right: 30px;
+    width:50%;
+    align-items: center;
+
+}
+.subject-right{
+
+    align-items: center;
+}
+.homebutton {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+.editbutton {
+    margin-right: 10px;
+}
+
+
+/* buttons */
+
+.w-btn-outline {
+    position: relative;
+    padding: 15px 15px;
+    border-radius: 15px;
+    font-family: "paybooc-Light", sans-serif;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+}
+.w-btn-outline:hover {
+    letter-spacing: 2px;
+    transform: scale(1.2);
+    cursor: pointer;
+}
+.minibutton{
+    position: relative;
+    padding: 10px 10px;
+    border-radius: 15px;
+    font-family: "paybooc-Light",
+    sans-serif;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.25s;
+    
+}
+.rm{
+    margin-right: 10px;
+}
+
+.w-btn-indigo-outline{
+    border: 3px solid rgb(0, 85, 165);
+    color: #0985be;
+}
+.w-btn-indigo-outline:hover {
+    color: #1b3c6d;
+    background: rgb(188, 223, 253);
+}
+
+.w-btn-blue-outline {
+    border: 3px solid #6aafe6;
+    color: #6e6e6e;
+}
+
+.w-btn-pink-outline {
+    border: 3px solid #f199bc;
+    color: #6e6e6e;
+}
+
+.w-btn-gray-outline {
+    border: 3px solid #a3a1a1;
+    color: #6e6e6e;
+}
+
+.w-btn-blue-outline:hover {
+    background-color: #6aafe6;
+    color: white;
+    /* #d4dfe6; */
+}
+
+.w-btn-pink-outline:hover {
+    background-color: #f199bc;
+    color:white;
+     /* #d4dfe6; */
+}
+
+.w-btn-gray-outline:hover {
+    background-color: #a3a1a1;
+    color: #e3dede;
+}
+

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'style.css'%}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@300&family=Sunflower:wght@300&display=swap" rel="stylesheet">
+
+
+    <title>{{major_name}} 과목</title>
+</head>
+<body>
+
+
+    <div class="row head">
+        <div class="majorname"> {{major_name}} 수업 </div>
+        <div>
+            <a href="{% url 'home' %}" class='w-btn-outline w-btn-pink-outline homebutton m'>메인</a>
+        </div>
+
+    </div>
+
+
+    <div class="subject col">
+        {% for subject in subjects %}
+
+        <div class="subject-box row">
+            <div class="subject-left">
+                <span class="xl bold">{{subject.subject_name}}</span>
+                <span class="l"> | {{subject.major}} | </span>
+                <span class="l">{{subject.prof_name}} </span>
+                <div>{{subject.memo}}</div>
+            </div>
+            
+            <div class="subject-right row">
+                <a href="{% url 'editSubject' subject.pk %}" class='editbutton w-btn-outline w-btn-blue-outline'>수정</a>
+                <a href="{% url 'deleteSubject' subject.pk %}" class='deletebutton w-btn-outline w-btn-gray-outline '>삭제</a>
+            </div>
+        </div>
+        
+        {% endfor %}
+    </div>
+    
+    
+</body>
+</html>
