@@ -1,0 +1,178 @@
+body{
+    /* font-family: 'East Sea Dokdo', cursive; */
+    font-family: 'IBM Plex Sans KR', sans-serif;
+
+    margin:10px;
+}
+
+/* input decorations */
+label{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 40px;
+    font-weight: 600;
+}
+input{
+    width:250px;
+    height:32px;
+    margin-left: 10px;
+    padding: 0 10px;
+
+    font-size: 15px;
+    border:none;
+    border-bottom: 2px solid slateblue;
+    background-color:rgb(238, 235, 255);
+
+}
+input:focus{
+    outline: 1px solid slateblue;
+}
+/* link decorations */
+a:link{
+    color:black;
+    text-decoration: none;
+}
+a:visited {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:hover{
+    color:lightpink;
+    text-decoration: underline;
+
+}
+
+/* font */
+.headfont{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+/* font size */
+.xl{
+    font-size: x-large;
+}
+.l{
+    font-size: large;
+}
+.m{
+    font-size: medium;
+}
+
+.mr{
+    margin-right: 3px;
+}
+
+.posts{
+    display: flex;
+    flex-direction: column;
+
+    margin: 10px;
+    padding:10px;
+
+    border: 2px solid slateblue;
+    border-radius: 10px;
+
+    justify-content: space-between;
+
+}
+.upbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.downbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.post-title{
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 50px;
+}
+
+/* createPost.html */
+#title{
+    margin-left: 88px;
+}
+#content{
+    margin-left: 54px;
+}
+
+
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+}
+.link{
+    margin:0 10px;
+    padding:10px;
+    border-radius: 10px;
+    border: 3px;
+    border-style:outset;
+}
+.b-create{
+    border-color: slateblue;
+}
+.b-create:hover{
+    color:white;
+    background-color: slateblue;
+}
+.b-main{
+    border-color: lightpink;
+}
+.b-main:hover{
+    color: white;
+    background-color: lightpink;
+}
+.b-edit{
+    border-color: dodgerblue;
+}
+.b-edit:hover{
+    color:white;
+    background-color: dodgerblue;
+}
+.b-del{
+    border-color:lightgray;
+}
+.b-del:hover{
+    color:white;
+    background: lightgray;
+}
+
+.detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.detail-content{
+    width:50%;
+    display: flex;
+
+    align-items: center;
+    background-color: aliceblue;
+    margin:5px;
+    padding:10px;
+    border-radius: 10px;
+
+}
+.detail-event-time{
+    width:50%;
+    background-color:lavender;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
