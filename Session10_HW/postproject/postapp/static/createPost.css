@@ -1,0 +1,23 @@
+
+/* createPost.html */
+#title {
+    margin-left: 88px;
+}
+
+#content {
+    margin-left: 54px;
+}
+
+.buttonrow{
+    display: flex;
+    justify-content: flex-end;
+
+    align-items: flex-end;
+    margin:10px;
+    margin-right: 0;
+}
+
+input{
+    border-color:dodgerblue;
+    background-color: rgb(206, 231, 255);
+}
