@@ -1,0 +1,107 @@
+{% extends 'base.html' %}
+
+{% block css %}
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'detail.css' %}"> 
+
+{% endblock %}
+
+{% block pagetitle %}
+    <title>Post Detail</title>
+{% endblock %}
+
+
+{% block title %}
+    <div class="post-title">{{post.title}}</div>
+{% endblock title %}
+
+{% block date %}
+    <div>
+        <div class="upbox">
+            <span class="mr">생성</span>
+            {{post.create_date|date:'Y.m.d h:i A'}}
+        </div>
+        <div class="downbox">
+            <span class="mr">수정</span>
+            {{post.update_date|date:'Y.m.d h:i A'}}
+        </div>
+    </div>
+{% endblock date %}
+
+{% block buttons %}
+
+    {% comment %} can edit/delete only when the user is logged in & the author of the post is the user {% endcomment %}
+    {% if user.is_authenticated and post.author.pk == user.pk %}
+        <div class="button"><a href="{% url 'editPost' post.pk %}" class="link b-edit">Edit</a></div>
+        
+        <div class="button"><a href="{% url 'delete' post.pk %}" class="link b-del">Delete</a></div>
+        
+    {% endif %}
+
+
+{% endblock buttons %}
+
+
+{%block content%}
+    <!-- event -->
+    <div class="section-title xl">
+        Event
+    </div>
+    <div class="detail">
+        
+        <div class="detail-content">
+
+            {{post.content}}
+
+        </div>
+
+        <div class="detail-event-time">
+            <p>Event date/time</p>
+            <p>{{post.event_time|date:'Y.m.d h:i A'}}</p>
+
+        </div>
+    </div>
+
+    <!-- comment -->
+    <div class="section-title xl">
+        Comments
+    </div>
+    <div class="detail-comment">
+
+        <div class="comment-input">
+            <form method="POST">
+            {% csrf_token %}
+            <input type="text" name="content" class="commentarea" placeholder="댓글을 입력해주세요.">
+            <button type="submit" class="b-create link">Comment</button>
+
+            </form>
+        </div>
+        
+        <div class="comment-output">
+            {% for comment in post.comments.all %}
+            <li> 
+                <div class="comment-content"> {{ comment.content }} </div>
+                <div class="comment-author"> {{ comment.author }} </div>
+                <div class="comment-date"> {{ comment.update_date|date:'Y.m.d h:i A' }}</div>
+                <div class='button'>
+                    {% comment %} can delete the comment only when the user is logged in & the author of the comment is the user {% endcomment %}
+                    {% if user.is_authenticated and comment.author.pk == user.pk %}
+                        <a href="{% url 'delete_comment' post.pk comment.pk %}" class="link b-del">삭제</a>
+                    
+                    {% endif %}
+                </div>
+            </li>
+            
+            {% endfor %}
+
+        </div>
+
+        <!-- related_name으로 post모델에서 comment모델로 접근 가능 -->
+        
+    </div>
+{%endblock content%}
+
+
+    
+
+    

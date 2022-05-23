@@ -1,0 +1,37 @@
+.posts {
+    display: flex;
+    flex-direction: column;
+
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+
+    border: 2px solid slateblue;
+    border-radius: 10px;
+
+    justify-content: space-between;
+
+}
+.posts:hover {
+
+    background-color: rgb(230, 226, 255);
+}
+.upbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.downbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-title {
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 50px;
+}
+

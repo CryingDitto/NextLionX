@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block css %}
+{% load static %} <link rel="stylesheet" href="{% static 'signup.css' %}">
+{% endblock css %}
+{% block pagetitle %}<title>Sign up</title>{% endblock pagetitle %}
+
+{% block title %}Sign up{% endblock title %}
+{% block date %}{% endblock date %}
+
+{% block buttons %}{% endblock buttons %}
+
+{% block content %}
+
+<section id = 'signup'>
+    <form method='POST'>
+        {% csrf_token %}
+
+        {% if error_msg %}
+            <div class="error-msg">{{error_msg}}</div>
+        {% endif %}
+
+        <div class="box">
+            <div class="leftbox">
+
+                <div class="leftupbox">
+                    <label for="ID">Username:</label>
+                    <input type="text" id="ID" name="username" placeholder="Enter your ID.">
+                </div>
+                
+                <div class="leftdownbox">
+                    <label for="PW">Password:</label>
+                    <input type="password" id="PW" name="password" placeholder="Enter your password.">
+                </div>
+            </div>
+            
+            
+            <button class="rightbox link b-signup">Sign Up</button>
+        </div>
+        
+    </form>
+</section>
+
+
+
+{% endblock content %}

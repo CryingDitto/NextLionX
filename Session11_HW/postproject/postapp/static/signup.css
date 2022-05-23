@@ -1,0 +1,22 @@
+.error-msg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+
+}
+.leftbox{
+    display:flex;
+    flex-direction: column;
+}

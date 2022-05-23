@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% block css %}
+{% load static %} <link rel="stylesheet" href="{% static 'createPost.css' %}">
+{% endblock css %}
+{% block pagetitle %}<title>Edit the Post</title>{% endblock pagetitle %}
+    
+
+{% block title %}
+Edit the Post
+{% endblock title %}
+{% block date %}{% endblock date %}
+{% block buttons %}
+    {% comment %} <a href="{% url 'main' %}" class="link b-main">Main</a> {% endcomment %}
+{% endblock buttons %}
+{% block content %}
+
+    <form method="POST">
+        {% csrf_token %}
+
+        <!-- label의 for가 input의 id와 연결 -->
+        <!-- input의 name이 views.py의 key로 연결 request.POST['key']  -->
+
+        <div class="title">
+            <label for="title">Title</label>
+            <input id = "title" name = "title" type="text" value = {{post.title}}>
+
+        </div>
+        
+
+        <div class="content">
+            <label for="content">Content</label>
+            <input id="content" name="content" type="text" value={{post.content}}>
+
+        </div>
+        
+        <div class="datetime">
+            <label for="datetime">Event Date</label>
+            <input id="datetime" name="eventtime" type="datetime-local" value="{{post.event_time|date:'Y-m-d'}}T{{post.event_time|date:'H:i'}}">
+        </div>
+
+        <div class="buttonrow">
+            <button type="submit" class="link b-edit">Edit Post</button>
+        </div>
+        
+
+    </form>
+{% endblock %}
