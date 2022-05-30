@@ -101,27 +101,28 @@ li{
     position: absolute;
     background-color: black;
     height: 18%; width:4%;
+    top:29.8%
 
 }
 .cd{
     left: 28.5%;
-    top:30%;
+
 }
 .de{
 
     left:35%;
-    top: 30%;
+
 }
 .fg{
     left: 48%;
-    top: 30%;
+
 
 }
 .gh{
     left: 54.5%;
-    top: 30%;
+
 }
 .hj{
     left: 61%;
-    top: 30%;
+
 }
