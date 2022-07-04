@@ -1,0 +1,128 @@
+{% extends 'base.html' %} {% block content %}
+<div>
+  <div>
+    <div class="post_title">{{ post.title }}</div>
+    <div class="post_content">{{ post.content }}</div>
+  </div>
+  <a href="{% url 'home' %}">홈으로</a>
+
+  {% if user.is_authenticated and post.author.pk == user.pk %}
+  <a href="{% url 'edit' post.pk %}">수정하기</a>
+  <a href="{% url 'delete' post.pk %}">삭제하기</a>
+  {% endif %} {% for comment in post.comments.all %}
+  <li>{{ comment.content }}</li>
+
+  {% if user.is_authenticated and comment.author.pk == user.pk %}
+  <a href="{% url 'delete_comment' post.pk comment.pk %}">댓글삭제</a>
+  {% endif %} {% endfor %}
+
+  {% if user.is_authenticated %}
+  <form method="POST">
+    {% csrf_token %}
+    <input type="text" name="content" placeholder="댓글을 입력하세요" />
+    <button type="submit">댓글 쓰기</button>
+  </form>
+
+  <button id="like-button" onclick="like()">좋아요</button>
+  <button id="scrap-button" onclick="scrap()">스크랩</button>
+  <!-- <button id="like-button" onclick="alert('좋아요 버튼이 눌렸어요')">좋아요</button> -->
+  {% endif %}
+  <div id="like-count">좋아요 {{post.likes.count}}개  </div>
+
+  {% if user.is_authenticated and post.author.pk == user.pk %}
+  <div id="scrap-count">스크랩 {{post.scraps.count}}회</div>
+  {% endif %}
+</div>
+
+
+<!-- <script>
+  const likeBtn = document.getElementById('like-button')
+
+  likeBtn.onclick = () => {
+    alert('좋아요 버튼이 눌렸어요')
+  }
+
+</script> -->
+
+<!-- <script>
+  const like = () => {
+    fetch('/like', {
+      method: "POST",
+      body: JSON.stringify({ post_pk: "{{post.pk}}" })
+    })
+      .then(response => response.json())
+      .then(res => document.getElementById("like-count").innerHTML = '좋아요' + res.like_count + '개')
+      .catch(err => console.error(err))
+  }
+
+</script> -->
+<script>
+
+  
+</script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+  const likeBtn = document.getElementById("like-button");
+  const scrapBtn = document.getElementById("scrap-button");
+
+  if ({{my_like}}){
+    likeBtn.classList.add("clicked");
+  }else{
+    likeBtn.classList.remove("clicked");
+  }
+
+  if ({{my_scrap}}){
+    scrapBtn.classList.add("clicked");
+  }else{
+    scrapBtn.classList.remove("clicked");
+  }
+
+  const like = () => {
+    axios.post('/like', { post_pk: "{{post.pk}}" })
+      .then(res => {
+        document.getElementById("like-count").innerHTML = "좋아요 " + res.data.like_count + '개'
+
+        if (res.data.my_like >= 1 && !likeBtn.classList.contains("clicked")){
+          likeBtn.classList.add("clicked");
+        }
+        if (res.data.my_like == 0 && likeBtn.classList.contains("clicked")){
+          likeBtn.classList.remove("clicked");
+        }
+      
+      
+      })
+      /*
+      .then(res => {
+        console.log(res.data.is_like)
+        if (res.data.is_like){
+            document.getElementById("like-count").style.color = 'red';
+        }
+        else {
+          document.getElementById("like-count").style.color = 'black';
+        }
+      })
+      */
+  }
+
+  const scrap = () =>{
+    axios.post('/scrap',{ post_pk: "{{post.pk}}" })
+    .then(res => {
+      document.getElementById("scrap-count").innerHTML = "스크랩 "+ res.data.scrap_count +'회'
+      if (res.data.my_scrap >= 1 && !scrapBtn.classList.contains("clicked")){
+          scrapBtn.classList.add("clicked");
+      }
+      if (res.data.my_scrap == 0 && scrapBtn.classList.contains("clicked")){
+          scrapBtn.classList.remove("clicked");
+      }
+    })
+  }
+
+</script>
+
+{% comment %} <script>
+  commentLikesBtn = document.getElementById("like-button")
+  commentLikesBtn.innerHTML = `<i class="emptyHeart far fa-heart"></i>
+<i class="redHeart fas fa-heart red hide"></i>`
+
+</script> {% endcomment %}
+{% endblock content %}

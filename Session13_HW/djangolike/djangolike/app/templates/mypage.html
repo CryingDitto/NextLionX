@@ -1,0 +1,37 @@
+{% extends 'base.html' %} {% block content %}
+<div>
+  좋아요 누른 글
+  <div>
+    {% comment %} <p>좋아요 누른 글만 표시합시다.</p> {% endcomment %}
+
+    {% for like_post in like_list %}
+      <p id='like-post'>{{like_post.post.title}}<p>
+    {%endfor%}
+    
+
+  </div>
+</div>
+<div>
+  찜하기 누른 글
+  <div>
+    {% comment %} <p>찜하기 누른 글만 표시합시다.</p> {% endcomment %}
+
+    {% for scrap_post in scrap_list%}
+      <p id='scrap-post'>{{scrap_post.post.title}}<p>
+    {%endfor%}
+  </div>
+  
+</div>
+
+
+<script>
+
+  {% comment %} const like_post = () => {
+    axios.post('/mypage', { user_pk: "{{user.pk}}" })
+      .then(res => document.getElementById("like-count").innerHTML = "좋아요 " + res.data.like_count + '개')
+
+  } {% endcomment %}
+
+</script>
+
+{% endblock content %}
