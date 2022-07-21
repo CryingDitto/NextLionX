@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+
+{% block title %}Sign up{% endblock title %}
+
+{% block static %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'accounts/signup.css' %}">
+{% endblock static %}
+
+{% block header %}회원가입{% endblock %}
+{% block content %}
+<div>
+    <form method="post" action="">
+        {% csrf_token %}
+        <div class = 'forms'>
+            {{ form.as_p }}
+            <input type="submit" value="회원가입" />
+
+        </div>
+        
+    </form>
+
+</div>
+
+
+
+{% endblock %}

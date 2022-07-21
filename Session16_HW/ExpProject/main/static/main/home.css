@@ -1,0 +1,35 @@
+
+.header{
+    display: flex;
+    
+
+    margin: 10px auto;
+}
+.title{
+}
+
+.menu{
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+}
+
+li{
+    border-top: 1px slategray solid;
+    border-bottom: 1px slategray solid;
+}
+
+.postbox ul li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 2%;
+}
+.post-info{
+    font-size: x-larger;
+}
+.row{
+    justify-content: space-between;
+    font-size: x-large;
+}

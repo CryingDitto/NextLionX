@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock title %}
+
+{% block static %}
+<!--이 곳에 static에 해당하는 코드 (css파일 연결 등) 작성-->
+{% load static %}
+<link rel="stylesheet" href="{% static 'main/home.css'%}" />
+{% endblock %}
+
+{% block header %}구인 게시판{% endblock %}
+
+
+{% block post %}
+    <a href="{% url 'main:new' %}">글 쓰러 가기</a>
+{% endblock %}
+{% block content %}
+<div class="title">글 목록</div>
+<div class="postbox">
+    <ul>
+        {% for post in posts %}
+        
+        <li>
+            <div class="post-info">{{post.category}}</div>
+            <a href="{% url 'main:detail' post.pk %}"> {{post.title}}</a>
+            <div class="row">
+                <div class="post-info">{{post.author}}</div>
+                <div class="post-info">{{post.created_dt}}</div>
+
+            </div>
+        </li>
+        
+        {% endfor %}
+    </ul>
+</div>
+
+
+{% endblock %}

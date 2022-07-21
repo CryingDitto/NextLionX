@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block title %}Post Details{% endblock title %}
+{% block static %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'main/detail.css' %}">
+{% endblock %}
+
+{% block header %}모집 요건{% endblock %}
+{% block content %}
+
+<div class = "container">
+    <div class="container2">
+
+        <div class="titlebox">
+            <div class="post-category">{{post.category}}</div>
+            <div class="post-title">{{post.title}}</div>
+        
+            <div class="post-info">
+                <div class="author">{{post.author}}</div>
+                <div class="create-dt">{{post.created_dt}}</div>
+            </div>
+        
+        </div>
+        
+        <div class="contentbox">
+        
+            <div class="post-content">{{post.content}}</div>
+        </div>
+
+
+        <div class="buttonarea">
+            <!-- <a href="{% url 'main:home' %}">Home</a> -->
+
+            {% if user.is_authenticated and post.author.pk == user.pk %}
+                <a href="{% url 'main:edit' post.pk %}">Edit</a>
+            {% endif %}
+        </div>
+
+
+        <br><br><br>
+        <div class = commentarea>
+            <div class="post-category">댓글</div>
+            <div class="mycomment">
+                {% if user.is_authenticated %}
+                <form method="POST">
+                    {% csrf_token %}
+                    <input type="text" name="content" placeholder="댓글을 입력하세요." />
+                    <button class="w-btn-outline w-btn-blue-outline" type="submit">
+                        댓글 쓰기
+                    </button>
+                </form>
+                {% endif %}
+
+            </div>
+            
+            <div class="comments_list">
+                
+                {% for comment in post.comments.all %}
+                <li>
+                    <div class="commentbox_up">
+                        <div class="upleft">
+                            <div>{{comment.author}}</div>
+                            <div class="date">{{comment.created_dt}}</div>
+                        </div>
+                        <div class="upright">
+                            {% if user.is_authenticated and user.pk == comment.author.pk %}
+                            <a href="{% url 'main:delete_comment' post.pk comment.pk %}">삭제</a>
+                            {% endif %}
+
+                        </div>
+                    </div>
+                    <div class="commentbox_down">{{comment.content}}</div>
+                    
+                </li>
+                    
+
+                {% endfor %}
+            </div>
+
+        </div>
+        
+
+    </div>
+    
+
+
+</div>
+
+
+{% endblock %}

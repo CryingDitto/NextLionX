@@ -1,0 +1,108 @@
+
+
+.titlebox{
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-between;
+
+}
+
+.post-category{
+
+    border-bottom: 1px solid rgb(66, 66, 66);
+
+}
+.post-title{
+
+    margin:20px 0;
+
+
+}
+
+.contentbox{
+    margin: 10px;
+}
+
+.post-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: x-large;
+
+    margin:10px 5px;
+}
+
+.mycomment{
+    margin: 3% 0;
+    
+}
+.mycomment form{
+    display: flex;  
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mycomment input {
+
+    width:85%;
+    height:35px;
+    margin-right: 3%;
+    font-size: large;
+    font-family: 'LeferiBaseType-RegularA';
+}
+.mycomment button{
+
+    font-family: 'LeferiBaseType-RegularA';
+    height: 35px;
+    width:15%;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    padding: 2px 3px;
+}
+
+.comments_list{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+
+}
+.commentbox_up{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.upleft{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.upright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    width:10%;
+}
+.date{
+    font-size: large;
+}
+
+li{
+    list-style: none;
+    margin: 2% 0;
+    
+}
+
+.commentbox_down{
+    font-size: large;
+}

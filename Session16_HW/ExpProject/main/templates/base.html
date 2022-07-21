@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %} {% endblock title %}</title>
+
+    <link rel="stylesheet" href="{% static 'base.css'%}" />
+    {% block static %} {% endblock %}
+
+</head>
+<body>
+
+    <div class="header">
+        <div>
+            <h3>
+            {% block header %} {% endblock %}
+            </h3>        
+        </div>
+        
+
+        <div class="menu">
+            
+            {% block main %}<a href="{% url 'main:home' %}">메인</a>{% endblock %}
+        
+            {% if user.is_authenticated %}
+            <!-- 이미 인증이 되어 있다면 로그아웃뿐 -->
+            {% block post %} {% endblock %}
+            <!-- <a href="{% url 'main:new' %}">글 쓰러 가기</a> -->
+            <a href="{% url 'accounts:logout' %}">로그아웃</a>
+            {% else %}
+            <!-- 인증이 안 되어 있으면 로그인이나 회원가입 해야 함 -->
+            <a href="{% url 'accounts:signup' %}">회원가입</a>
+            <a href="{% url 'accounts:login' %}">로그인</a>
+            {% endif %}
+        </div>
+    </div>
+
+
+
+    {% block content %}
+    {% endblock %}  
+</body>
+</html>

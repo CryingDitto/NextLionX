@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Edit Post{% endblock title %}
+
+{% block static %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'main/new.css' %}">
+
+{% endblock %}
+
+
+{% block header %}
+<div class="title">글 수정</div>
+{% endblock %}
+{% block main %}{% endblock %}
+
+{% block content %}
+<form action="" method = "POST">
+    {% csrf_token %}
+
+    <div class = 'forms'>
+
+        <div class="titlebox row">
+            <label for="title" class="name">Title</label>
+        
+            <input class="titleinput" type="text" id="title" name="title" value={{post.title}}>
+        
+        </div>
+        
+        <div class="selectbox row">
+            <label for="category" class="name">Category</label>
+            <select id="category" name="category" class="categoryinput">
+                {% if post.category == '과외' %}
+                    <option value="과외" selected>과외</option>
+                    <option value="실험">실험</option>
+                    <option value="심부름">심부름</option>
+                {% elif post.category == '실험' %}
+                    <option value="과외">과외</option>
+                    <option value="실험" selected>실험</option>
+                    <option value="심부름">심부름</option>
+                {% else %}
+                    <option value="과외">과외</option>
+                    <option value="실험">실험</option>
+                    <option value="심부름" selected>심부름</option>
+                {% endif %}
+
+            </select>
+        </div>
+
+        <div class="contentbox row">
+            <label for="content" class="name">Content</label>
+            <input type="text" id="content" name="content" class="textbox" value={{post.content}}>
+        </div>
+
+        <div class="buttonarea">
+            <button type="submit">수정하기</button>
+        </div>
+        
+
+    </div>
+    
+
+    
+
+    <!-- <div>
+        <label for="gender">Gender</label>
+        <input type="radio" id="gender" name="gender" value="여자">
+        <input type="radio" id="gender" name="gender" value="남자">
+    </div>
+
+    <div>
+        <label for="handed">Which hand?</label>
+        <input type="radio" id="handed" name="handed" value="왼손잡이">
+        <input type="radio" id="handed" name="handed" value="오른손잡이">
+    </div> -->
+    
+</form>
+{% endblock %}
