@@ -6,14 +6,31 @@
 ## 구현한 기능 (Apps)
 ### main 
 - 메인 화면
+    - 안내용 모달
+    ![modal](https://user-images.githubusercontent.com/101262081/183332311-0c94c7b2-8489-4c00-8acb-7c0b852c660a.jpg)
+
     - 게시글 제목, 작성자, 작성 날짜, 게시글 카테고리 보여줌
+        - 로그인 안 한 경우
+        ![main wo login](https://user-images.githubusercontent.com/101262081/183332098-b5b9b1f6-b419-4b01-98c4-a74a617e7798.jpg)
+        - 로그인 한 경우
+        ![main with login](https://user-images.githubusercontent.com/101262081/183332187-74ee4723-3a60-4548-8197-4d88d1d74135.jpg)
+
+
 - 게시글 상세
-    - 게시글의 내용을 볼 수 있고, 댓글을 달 수 있음
-    - 게시글 작성자의 경우 댓글 아래에 신청서 정보를 볼 수 있음
+    - 게시글의 내용을 볼 수 있고, 댓글 작성/삭제 가능
+    - 게시글의 일 신청 가능
+    ![남의 글](https://user-images.githubusercontent.com/101262081/183332503-9630d68c-c7b1-410e-900c-b7a2bd18057c.jpg)
+
+    
+    - 게시글 작성자의 경우 게시글 수정, 삭제 가능. 또한 댓글 아래에 신청서 정보를 볼 수 있음
+    ![자기 글](https://user-images.githubusercontent.com/101262081/183332345-5fcf6576-981a-42f1-8742-b8b6ba489d32.jpg)
+    ![신청목록](https://user-images.githubusercontent.com/101262081/183332372-ce787cd8-005b-4d0d-8f1b-3ad2202ec66b.jpg)
+
+    
 - 게시글 작성
     - 카테고리(실험/알바/과외), 제목, 일 설명을 적은 뒤 게시물을 만들 수 있음.
-- 게시글 수정
-- 게시글 삭제
+    ![게시물 작성](https://user-images.githubusercontent.com/101262081/183332484-661efa88-2df7-4a29-9e58-e5864c6a41ba.jpg)
+
 
 ### accounts 
 - 회원가입
@@ -27,8 +44,13 @@
 - 실험/알바/과외 신청
     - 신청자의 이름, 이메일, 성별, 나이, 손잡이 등의 정보는 등록된 내용을 기반으로 전달
     - 신청자는 1개 이상, 최대 3개의 날짜만 입력해 제출하면 됨.
+    ![register](https://user-images.githubusercontent.com/101262081/183335199-f85b2537-33dc-451e-8cc6-4bf03cb7494f.jpg)
+
+    
 - 담당자 승인 및 날짜 확정
     - 승인 시 확정 날짜를 적어줌.
+    ![image](https://user-images.githubusercontent.com/101262081/183335340-c9bac206-f6e6-41d0-98dc-9e32e34c6521.png)
+
 
 
 ### 나아갈 지점
