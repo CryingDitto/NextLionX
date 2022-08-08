@@ -8,10 +8,10 @@ admin.site.register(Category)
 class CommentInline(admin.TabularInline):
     # TabularInline은 같은 admin page에서 다른 model을 수정할 수 있는 권한을 부여한다.
     model = Comment
+# class CategoryInline(admin.TabularInline):
+#     model = Category
 
 
-class CategoryInline(admin.TabularInline):
-    model = Comment
 
 @admin.register(Post)
 # 데코레이터. admin.site.register(Post,PostAdmin)와 동일하다.
@@ -28,7 +28,8 @@ class PostAdmin(admin.ModelAdmin):
     search_fields = ['title', 'author', 'category']
     # title과 author, category를 검색 가능
     inlines = [
-        CommentInline, CategoryInline,
+        CommentInline, 
+        # CategoryInline,
     ]
     # 이제 Post 모델에서 연관된 Comment를 확인 및 수정할 수 있다.
 

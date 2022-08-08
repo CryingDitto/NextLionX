@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+
+{% block title %}Edit Personal Info{% endblock title %}
+
+{% block static %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'main/new.css' %}">
+{% endblock static %}
+
+{% block header %}Edit {{user.username}}'s Info{% endblock %}
+{% block content %}
+<form action="" method="POST">
+    {% csrf_token %}
+
+    <div class='forms'>
+
+        <div class="titlebox row">
+            <label for="name" class="name">Name</label>
+            <input class="titleinput" type="text" id="name" name="name" value={{user.name}}>
+
+        </div>
+        <div class="titlebox row">
+            <label for="email" class="name">Email</label>
+            <input class="titleinput" type="text" id="email" name="email" value={{user.email}}>
+        </div>
+        <div class="titlebox row">
+            <label for="age" class="name">Age</label>
+            <input class="titleinput" type="text" id="age" name="age" value={{user.age}}>
+        </div>
+
+        <div class="selectbox row">
+            <label for="gender" class="name">Gender</label>
+            <select id="gender" name="gender" class="categoryinput">
+                <option value="" selected>Select Gender</option>
+                <option value="Female">Female</option>
+                <option value="Male">Male</option>
+                
+            </select>
+        </div>
+
+        <div class="selectbox row">
+            <label for="handed" class="name">Handed</label>
+            <select id="handed" name="handed" class="categoryinput">
+                <option value="" selected>Select Preferred Hand</option>
+                <option value="Right">Right</option>
+                <option value="Left">Left</option>
+        
+            </select>
+        </div>
+
+
+
+        <div class="buttonarea">
+            <button type="submit">수정하기</button>
+        </div>
+
+
+    </div>
+
+
+</form>
+
+
+{% endblock %}

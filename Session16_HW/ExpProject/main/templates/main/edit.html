@@ -12,8 +12,11 @@
 {% block header %}
 <div class="title">글 수정</div>
 {% endblock %}
-{% block main %}{% endblock %}
+{% block main %}<a href="{% url 'main:home' %}">메인</a>{% endblock %}
 
+{% block post %}
+<a href="{% url 'main:new' %}">글 쓰러 가기</a>
+{% endblock %}
 {% block content %}
 <form action="" method = "POST">
     {% csrf_token %}

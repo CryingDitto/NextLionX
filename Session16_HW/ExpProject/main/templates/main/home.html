@@ -8,20 +8,59 @@
 <link rel="stylesheet" href="{% static 'main/home.css'%}" />
 {% endblock %}
 
-{% block header %}구인 게시판{% endblock %}
+{% block header %}
+구인 게시판
+{% endblock %}
 
 
 {% block post %}
     <a href="{% url 'main:new' %}">글 쓰러 가기</a>
 {% endblock %}
+
 {% block content %}
-<div class="title">글 목록</div>
+
+<div class="modal-container">
+    <!-- 배경 위에 얹어지는 실제 모달 컨테이너 -->
+    <div class="modal">
+        <!-- 모달 상단 헤더 -->
+        <div class="modal-header">
+            <!-- 상단 제목 -->
+            <p class="modal-title">NOTICE</p>
+            <!-- 닫기 버튼 -->
+            <button class="modal-close">
+                <img src="../../static/img/close-x.svg" alt="close" />
+            </button>
+        </div>
+        <!-- 모달 내용 -->
+        <article class="modal-body">
+            🔓 모든 게시물은 로그인 없이 열람할 수 있습니다.<br>
+            ✍️ 게시글, 댓글 작성은 로그인 후 가능합니다.<br>
+            🔏 실험/알바/과외 신청 역시 로그인 후 가능합니다.<br>
+            🗂️ 마이페이지에서 신청한 알바 목록을 확인할 수 있습니다.
+        </article>
+        <!-- 오늘 하루 보지 않기 버튼 -->
+        <button class="modal-stop-button">
+            ✔️오늘 하루 보지 않기
+        </button>
+    </div>
+</div>
+
+<!-- <div class="notice">
+    <button class="modal-open">안내 사항</button>
+</div> -->
+
+<div class="title">
+    <div class="titletext">글 목록</div> 
+    <button class="modal-open">안내 사항</button>
+</div>
 <div class="postbox">
     <ul>
         {% for post in posts %}
-        
+
         <li>
-            <div class="post-info">{{post.category}}</div>
+            <div class="post-info">
+                <div class="category">{{post.category}}</div>
+            </div>
             <a href="{% url 'main:detail' post.pk %}"> {{post.title}}</a>
             <div class="row">
                 <div class="post-info">{{post.author}}</div>
@@ -29,10 +68,14 @@
 
             </div>
         </li>
-        
+
         {% endfor %}
     </ul>
 </div>
 
 
+
+
+<script type="module" src="../../static/js/main.js"></script>
 {% endblock %}
+

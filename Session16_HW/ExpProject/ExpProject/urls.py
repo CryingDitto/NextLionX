@@ -22,6 +22,7 @@ urlpatterns = [
     # path('', main.views.home, name = 'home'),
     path('main/', include("main.urls")),
     path('accounts/', include("accounts.urls")),
+    path('register/', include("register.urls")),
 
     # /로 시작되는 url이면, main하위에 있는 url을 불러온다.
     # accounts/로 시작되는 url이면 accounts 하위에 있는 url을 불러온다.

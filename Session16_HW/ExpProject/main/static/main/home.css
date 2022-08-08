@@ -1,3 +1,4 @@
+@import "./modal.css";
 
 .header{
     display: flex;
@@ -6,17 +7,25 @@
     margin: 10px auto;
 }
 .title{
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+}
+.titletext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.menu{
-    display: flex;
-    width: 50%;
-    justify-content: space-evenly;
-}
+
+
 
 li{
-    border-top: 1px slategray solid;
     border-bottom: 1px slategray solid;
+}
+li:first-child{
+    border-top: 1px slategray solid;
 }
 
 .postbox ul li {
@@ -27,9 +36,34 @@ li{
     padding: 2%;
 }
 .post-info{
-    font-size: x-larger;
+    margin-bottom: 3px;
+    /* display: inline-block; */
 }
 .row{
     justify-content: space-between;
     font-size: x-large;
+}
+
+.category{
+    display: inline-block;
+    text-align: center;
+    
+    font-size: 0.7em;
+    
+    padding: 0px 3px;
+    padding-top: 7px;
+
+    border: solid 2px paleturquoise;
+    border-radius: 10px;
+    background-color: rgb(199, 236, 236);
+}
+
+.btn {
+    height: 36px;
+    min-width: 64px;
+    padding: 0 16px;
+    border-radius: 4px;
+    outline: 0;
+    border-style: none;
+    cursor: pointer;
 }

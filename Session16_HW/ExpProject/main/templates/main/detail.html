@@ -7,6 +7,12 @@
 {% endblock %}
 
 {% block header %}모집 요건{% endblock %}
+{% block main %}<a href="{% url 'main:home' %}">메인</a>{% endblock %}
+
+{% block post %}
+<a href="{% url 'main:new' %}">글 쓰러 가기</a>
+{% endblock %}
+
 {% block content %}
 
 <div class = "container">
@@ -31,9 +37,13 @@
 
         <div class="buttonarea">
             <!-- <a href="{% url 'main:home' %}">Home</a> -->
+            {% if user.is_authenticated and post.author.pk != user.pk %}
+                <a href="{% url 'register:enroll' post.pk %}">Register</a>
 
+            {% endif %}
             {% if user.is_authenticated and post.author.pk == user.pk %}
                 <a href="{% url 'main:edit' post.pk %}">Edit</a>
+                <a href="{% url 'main:delete' post.pk %}">Delete</a>
             {% endif %}
         </div>
 
@@ -78,6 +88,32 @@
                 {% endfor %}
             </div>
 
+        </div>
+
+        <div class="enrolls">
+            {% if user.is_authenticated and post.author.pk == user.pk %}
+                {% for enroll in enrolled %}
+                    <div class = "person">{{enroll.person}}</div>
+
+                    <div class = "times">
+                        {{enroll.time1}}
+                        {{enroll.time2}}
+                        {{enroll.time3}}
+                    </div>
+
+                    <div class="msg">{{enroll.msg}}</div>
+
+                    {% if enroll.finalTime %}
+                        <div class = "finalTime">Confirmed Time: </div>
+                        <div class = "finalTime">{{enroll.finalTime}}</div>
+
+                    {% else %}
+                        <div class = "finalTime">Participant is waiting for your confirmation.</div>
+                    {% endif %}
+
+                    <a href="{% url 'register:confirm' post.pk enroll.pk %}">Confirm Final Time</a>
+                {% endfor %}
+            {% endif %}
         </div>
         
 

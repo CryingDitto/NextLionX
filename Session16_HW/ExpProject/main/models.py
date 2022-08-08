@@ -1,6 +1,5 @@
-from operator import truediv
-from tkinter import CASCADE
-from unicodedata import category
+
+from datetime import datetime
 from django.db import models
 from accounts.models import Profile
 
@@ -38,7 +37,7 @@ class Post(models.Model):
         verbose_name_plural = 'posts'        # 별칭의 복수형 명칭
         
         # 모델 객체 리스트 출력시 정렬 기준. -: 내림차순.
-        ordering = ('-created_dt', 'author') # created_dt 기준으로 내림차순 후 author 기준으로 오름차순.
+        ordering = ('-updated_dt', 'author') # created_dt 기준으로 내림차순 후 author 기준으로 오름차순.
 
         
 
@@ -57,3 +56,26 @@ class Comment(models.Model):
 
     def __str__(self):
         return f'{self.author}-{self.content}'
+
+
+# class Register(models.Model):
+#     post = models.ForeignKey(
+#         Post, on_delete=models.CASCADE, related_name="registers")
+#     person = models.ForeignKey(
+#         Profile, on_delete=models.CASCADE, related_name="my_registers"
+#     )
+#     created_dt = models.DateTimeField(auto_now_add=True)
+
+#     time1 = models.DateTimeField(null=False, default=datetime.now)
+#     time2 = models.DateTimeField(null=True)
+#     time3 = models.DateTimeField(null=True)
+
+#     finalTime = models.DateTimeField(null=True)
+
+#     msg = models.TextField(null=True)
+
+#     class Meta:
+#         ordering = ('post', 'created_dt')
+
+#     def __str__(self):
+#         return f'{self.post}-{self.person} register'

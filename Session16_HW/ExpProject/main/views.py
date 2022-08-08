@@ -1,4 +1,7 @@
 from django.shortcuts import render, redirect
+
+from accounts.models import Profile
+from register.models import Register
 from .models import Post, Comment, Category
 
 # Create your views here.
@@ -29,6 +32,8 @@ def new(request):
 
 def detail(request, post_pk):
     post = Post.objects.get(pk=post_pk)
+    enrolled = Register.objects.filter(post=post)
+
 
     if request.method == "POST":
         Comment.objects.create(
@@ -37,23 +42,27 @@ def detail(request, post_pk):
             author = request.user,
         )
         return redirect('main:detail', post.pk)
-    return render(request, 'main/detail.html', {'post': post})
+    return render(request, 'main/detail.html', {'post': post, 'enrolled':enrolled})
 
 
 def edit(request, post_pk):
     post = Post.objects.get(pk=post_pk)
-
+    
     if request.method == 'POST':
+
         Post.objects.filter(pk=post_pk).update(
             title = request.POST['title'],
             content = request.POST['content'],
-            category = request.POST['category'],
+            category = post.category,
         )
         return redirect('main:detail', post_pk)
     return render(request, 'main/edit.html',{'post': post})
 
 def delete(request, post_pk):
-    Post.objects.get(pk=post_pk).delete()
+    curPost = Post.objects.get(pk=post_pk)
+
+    Comment.objects.filter(post=curPost).delete()
+    curPost.delete()
     return redirect('main:home')
 
 def delete_comment(request, post_pk, comment_pk):
@@ -63,5 +72,3 @@ def delete_comment(request, post_pk, comment_pk):
 
 
 # mypage 내글 모아보기
-# 실험, 알바 신청 페이지
-

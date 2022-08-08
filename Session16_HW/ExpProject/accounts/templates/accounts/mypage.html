@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+
+{% block title %}My Page{% endblock title %}
+
+{% block static %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'main/new.css' %}">
+<link rel="stylesheet" href="{% static 'accounts/mypage.css' %}">
+{% endblock static %}
+
+{% block main %}<a href="{% url 'main:home' %}">메인</a>{% endblock %}
+
+{% block post %}
+<a href="{% url 'main:new' %}">글 쓰러 가기</a>
+{% endblock %}
+
+{% block header %}
+
+<div>{{user.name}}'s Page</div>
+<div>
+    <a href="{% url 'accounts:mypage_edit' %}">Edit</a>
+
+</div>
+
+{% endblock %}
+{% block content %}
+<div class="form">
+
+    <div class="forms">
+
+
+        <div class="titlebox row">
+            <div>Name</div>
+            <div>{{user.name}}</div>
+        </div>
+
+        <div class="titlebox row">
+            <div>Email</div>
+            <div>{{user.email}}</div>
+        </div>
+        
+        <div class="titlebox row">
+            <div>Age</div>
+            <div>{{user.age}}</div>
+        </div>
+
+        
+        <div class="selectbox row">
+            <div>Gender</div>
+            <div>{{user.gender}}</div>
+        </div>
+
+        <div class="selectbox row">
+            <div>Handed</div>
+            <div>{{user.handed}}</div>
+        </div>
+
+
+        <br><br>
+        <div>Registered Works</div>
+        <div>
+        
+            {% if enrolled != null %}
+            {% for work in enrolled %}
+            <li>
+                <div class="box">
+                    <div class="inboxleft">게시글</div>
+                    <div class="inboxright"><a href="{% url 'main:detail' work.post.pk %}">{{work.post.title}}</a></div>
+                </div>
+
+        
+                <div class="box">
+                    <div class="inboxleft">담당자</div>
+                    <div class="inboxright">{{work.post.author}}</div>
+
+                </div>
+
+
+                <div class="box">
+                    <div class="inboxleft">신청한 시간</div>
+
+                    <div class="inboxright">
+                        <div>{{work.time1}}</div> 
+
+                        {% if work.time2 != null %}
+                            <div>{{work.time2}}</div>
+                        {% else %}
+                            <div>없음</div>
+                        {% endif %}
+                        {% if work.time3 != null %}
+                            <div>{{work.time3}}</div>
+                        {% else %}
+                            <div>없음</div>
+                        {% endif %}
+                    </div>
+                    <!-- <div class="inboxright">{{work.time2}}</div>
+                    <div class="inboxright">{{work.time3}}</div> -->
+                </div>
+                <div class="box">
+                    <div class="inboxleft">메시지</div>
+                    {% if work.msg != null %}
+                        <div class="inboxright">{{work.msg}}</div>
+                    {% else %}
+                        <div class="inboxright">없음</div>
+                    {% endif %}
+                </div>
+                    
+        
+                <div class="box">
+                    <div class="inboxleft">확정 시간</div>
+                    {% if work.finalTime %}
+                        <div class="inboxright" >{{work.finalTime}}</div>
+                    {% else %}
+                        The Post owner will fix the schedule soon.
+                    {% endif %}
+                </div>
+        
+            </li>
+        
+            {% endfor %}
+            {% else %} <!-- enrolled work가 없을 때-->
+            <div>No enrolled works. Register a new work!</div>
+            {% endif %}
+        </div>
+
+    </div>
+
+
+
+
+
+</div>
+
+
+
+{% endblock %}

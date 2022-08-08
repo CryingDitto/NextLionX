@@ -20,14 +20,36 @@ body {
 
 }
 
+/* 인터넷 될 때 폰트 돌아오는지 확인해보기 */
+a{
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}
+
+a:visited{
+    color:coral;
+}
+a:hover {
+    color: plum;
+    text-decoration: dotted;
+}
+
+
+
 .header{
     display: flex;
     justify-content: space-between;
     align-items: center;
 
     margin-bottom: 15px;
+}
 
-
+.menu {
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
 }
 .container{
     display: flex;
@@ -71,6 +93,13 @@ select{
     font-family: 'LeferiBaseType-RegularA';
 }
 
+
+/* datetime */
+.datetime-local{
+    font-family: 'LeferiBaseType-RegularA';
+    width:100px;
+}
+
 /* buttons */
 .w-btn-outline {
     position: relative;
@@ -94,3 +123,4 @@ select{
     /* color: #d4dfe6; */
     color: white;
 }
+

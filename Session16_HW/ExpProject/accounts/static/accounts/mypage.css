@@ -1,0 +1,29 @@
+.box{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inboxleft{
+    display: flex;
+
+    margin-right: 5px;
+    flex-direction: column;
+    
+}
+.inboxright{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+li{
+    list-style-type: "📃";
+    padding: 5px 0px 5px 5px;
+    margin-bottom:5px;
+    border-bottom:2px solid #efefef;
+}

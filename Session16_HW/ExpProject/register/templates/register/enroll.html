@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}Create Post{% endblock title %}
+
+{% block static %}
+{% load static %}
+<link rel="stylesheet" href="{% static 'main/new.css' %}">
+
+{% endblock %}
+
+
+{% block header %}
+<div class="title">Register</div>
+{% endblock %}
+
+{% block main %}<a href="{% url 'main:home' %}">Home</a>{% endblock %}
+
+{% block content %}
+
+<form action="" method = "POST">
+    {% csrf_token %}
+
+    <div class = 'forms'>
+
+        <div class="titlebox row">
+            <label for="msg" class="name">Title</label>
+            <div class="titleinput">{{post.title}}</div>
+        
+        </div>
+
+        <div class = "titlebox row">Select your preferred date and time.</div>
+        <div class="row">
+            <label for="time1">Date & Time 1</label>
+            <input type="datetime-local" id="time1" name="time1">
+        </div>
+
+        <div class="row">
+            <label for="time2">Date & Time 2</label>
+            <input type="datetime-local" id="time2" name="time2">
+        </div>
+        <div class="row">
+            <label for="time3">Date & Time 3</label>
+            <input type="datetime-local" id="time3" name="time3">
+
+        </div>
+
+        <div class="titlebox row">
+            <label for="msg" class="name">Message to the Post Owner</label>
+        
+            <input class="titleinput" type="text" id="msg" name="msg" placeholder="Any message you want to ask?">
+        
+        </div>
+        
+
+        <div class="buttonarea">
+            <button type="submit">신청하기</button>
+        </div>
+        
+
+    </div>
+    
+
+    
+
+    <!-- <div>
+        <label for="gender">Gender</label>
+        <input type="radio" id="gender" name="gender" value="여자">
+        <input type="radio" id="gender" name="gender" value="남자">
+    </div>
+
+    <div>
+        <label for="handed">Which hand?</label>
+        <input type="radio" id="handed" name="handed" value="왼손잡이">
+        <input type="radio" id="handed" name="handed" value="오른손잡이">
+    </div> -->
+    
+</form>
+{% endblock %}

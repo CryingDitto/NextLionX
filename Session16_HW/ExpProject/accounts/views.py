@@ -1,4 +1,6 @@
 from django.shortcuts import render, redirect
+
+from register.models import Register
 from .models import Profile
 from django.contrib import auth
 from django.contrib.auth.forms import UserCreationForm
@@ -11,7 +13,7 @@ from django.contrib.auth.decorators import login_required
 class CreateUserForm(UserCreationForm):
     class Meta:
         model = Profile
-        fields = ['username', 'email', 'age','gender', 'handed', 'password1', 'password2']
+        fields = ['username', 'name', 'email', 'age','gender', 'handed', 'password1', 'password2']
 
 
 def signup(request):
@@ -43,3 +45,24 @@ def login(request):
 def logout(request):
     auth.logout(request)
     return redirect("main:home")
+
+def mypage(request):
+    user = Profile.objects.get(pk=request.user.pk)
+    enrolled = Register.objects.filter(person = user)
+
+    return render(request, 'accounts/mypage.html', {'enrolled':enrolled})
+
+def mypage_edit(request):
+    user = Profile.objects.get(pk=request.user.pk)
+
+    if request.method == "POST":
+        Profile.objects.filter(pk = request.user.pk).update(
+            name=request.POST['name'],
+            email=request.POST['email'],
+            age=request.POST['age'],
+            gender=request.POST['gender'],
+            handed=request.POST['handed'],
+            
+        )
+        return redirect('accounts:mypage')
+    return render(request, 'accounts/mypage_edit.html', {'user': user})
