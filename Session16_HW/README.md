@@ -7,12 +7,15 @@
 ### main 
 - 메인 화면
     - 안내용 모달
+        - 기능에 대한 간단한 설명을 첫 화면에서 제시함
+        - 오늘은 더 이상 보지 않기를 누르면 쿠키가 생성되어 하루 동안 모달이 보이지 않음
+        - 메인 화면에서 안내 사항을 누를 경우 다시 모달의 내용을 확인할 수 있음
     ![modal](https://user-images.githubusercontent.com/101262081/183332311-0c94c7b2-8489-4c00-8acb-7c0b852c660a.jpg)
 
     - 게시글 제목, 작성자, 작성 날짜, 게시글 카테고리 보여줌
-        - 로그인 안 한 경우
+        - 로그인 안 한 경우 (회원가입, 로그인 메뉴)
         ![main wo login](https://user-images.githubusercontent.com/101262081/183332098-b5b9b1f6-b419-4b01-98c4-a74a617e7798.jpg)
-        - 로그인 한 경우
+        - 로그인 한 경우 (글 쓰러 가기, 마이페이지, 로그아웃 메뉴)
         ![main with login](https://user-images.githubusercontent.com/101262081/183332187-74ee4723-3a60-4548-8197-4d88d1d74135.jpg)
 
 
@@ -38,7 +41,11 @@
 - 마이페이지
     - 개인정보 (이메일, 성별, 나이, 손잡이 등등) 보여줌
     - 신청한 알바(게시글)의 제목과 자신이 신청한 시간을 보여줌
+    ![mypage](https://user-images.githubusercontent.com/101262081/183336213-acdc38b1-fe0d-4d67-89c7-bba6b82c8150.jpg)
+    ![신청 목록](https://user-images.githubusercontent.com/101262081/183336222-36b008d1-44f6-4392-b6ef-dc0834cea4a8.jpg)
+
 - 마이페이지 수정
+    - 기존에 등록한 정보 수정 가능
 
 ### register
 - 실험/알바/과외 신청
