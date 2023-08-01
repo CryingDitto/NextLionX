@@ -75,6 +75,10 @@ a:hover {
     display: flex;
     flex-direction: column;
 }
+.sb{
+
+    justify-content: space-between;
+}
 
 select{
 
@@ -124,3 +128,15 @@ select{
     color: white;
 }
 
+
+.button{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 3px aliceblue solid;
+
+    padding:5px;
+    padding-top: 13px;
+    
+}

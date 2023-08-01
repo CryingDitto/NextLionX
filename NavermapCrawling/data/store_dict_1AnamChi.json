@@ -1,0 +1,209 @@
+{
+    "안암 중식": {
+        "용초수": {
+            "name": "용초수",
+            "tel": "02-922-7991",
+            "star": "4.32/5",
+            "addr": "서울 성북구 인촌로27길 20\n6안암역 2번 출구에서141m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_181%2F1456377845990Q22Qx_JPEG%2F176175545424908_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/32875309?c=14141694.5637872,4504907.0797451,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "수저가": {
+            "name": "수저가",
+            "tel": "0507-1397-6878",
+            "star": "4.59/5",
+            "addr": "서울 성북구 안암로 89-3 1층\n6안암역 3번 출구에서283m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_183%2F1616509455491nPeXC_JPEG%2FvOWhZd-0oxG4RPvjGBhCqiN9.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/1644340985?c=14141694.5637872,4504907.0797451,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "더씨": {
+            "name": "더씨",
+            "tel": "02-928-1259",
+            "star": "4.29/5",
+            "addr": "서울 성북구 개운사길 8 2층\n6안암역 2번 출구에서52m",
+            "foodtype": "중식당",
+            "menu": [
+                "탕수육(소)",
+                "새콤달콤 깐풍기(소)",
+                "새콤달콤 깐풍기(대)",
+                "깐쇼새우(8마리(소))"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "42,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170911_9%2F15051188591589sKtj_JPEG%2FSALiY74OMFessLnvFgTeOUL3.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/18240904?c=14141694.5637872,4504907.0797451,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "중경식객 고려대점": {
+            "name": "중경식객 고려대점",
+            "tel": "02-929-7789",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로24길 36 2층\n6안암역 3번 출구에서204m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_12%2F159175114359099XJk_JPEG%2FdW2CFRmNBMfafF2E0pX4klAK.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/1171085460?c=14141694.5637872,4504907.0797451,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "사랑마라탕": {
+            "name": "사랑마라탕",
+            "tel": "010-2467-9827",
+            "star": "4.1/5",
+            "addr": "서울 성북구 개운사길 21-3 101호\n6안암역 1번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171201_99%2F15121165488008QvMA_JPEG%2FKjA22o_Poa84PvqI-R38vGui.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/1811629947?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "북경양꼬치": {
+            "name": "북경양꼬치",
+            "tel": "02-953-5880",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24길 3-36\n6안암역 3번 출구에서63m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_48%2F1441037851986s1qg9_JPEG%2F126576587558914_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/20152271?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "니뽕내뽕 고려대점": {
+            "name": "니뽕내뽕 고려대점",
+            "tel": "070-7722-2848",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "중식당",
+            "menu": [
+                "탄산세트",
+                "차뽕",
+                "크뽕",
+                "로뽕"
+            ],
+            "price": [
+                "27,900원",
+                "8,500원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220418_277%2F1650257346973R0sxr_JPEG%2Fcommon.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/36650062?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "미각 고대본점": {
+            "name": "미각 고대본점",
+            "tel": "02-927-8858",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_271%2F15477299479591unMa_JPEG%2Fz7jXCBrQhmbbAZ1e53oueVYc.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/128124996?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "넘버85": {
+            "name": "넘버85",
+            "tel": "02-929-7050",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170106_15%2F14836934361460WjSJ_JPEG%2FuserRegistration_609e7a38716940c296e25b619cb003e1_image.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/36357811?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "언니네반점": {
+            "name": "언니네반점",
+            "tel": "02-953-7878",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 42\n6안암역 2번 출구에서261m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190109_62%2F1547004076447dlEpH_JPEG%2FEjsshRB-VZgCwz5BuWXi4UYH.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/678416961?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "팔선생 홍릉점": {
+            "name": "팔선생 홍릉점",
+            "tel": "02-969-8189",
+            "star": "4.3/5",
+            "addr": "서울 동대문구 회기로 34\n6고려대역 3번 출구에서394m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_205%2F1441026246948M2U4y_JPEG%2FSUBMIT_1373974531114_11712181.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/11712181?c=14138970.2307570,4520910.2917204,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "24시 짜장마을": {
+            "name": "24시 짜장마을",
+            "tel": "050-7964-0500",
+            "star": "4.31/5",
+            "addr": "서울 동대문구 안암로 160-1\n6고려대역 6번 출구에서61m",
+            "foodtype": "중식당",
+            "menu": [
+                "짜장면",
+                "짬뽕",
+                "간짜장",
+                "굴짬뽕"
+            ],
+            "price": [
+                "6,500원",
+                "7,500원",
+                "7,500원",
+                "10,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170915_98%2F1505436575514FBuvA_JPEG%2FuN7j76MPpn2Kypj4iEMW6F8V.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/13116274?c=14134067.1637851,4521501.8886220,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "취화루": {
+            "name": "취화루",
+            "tel": "0504-1400-2177",
+            "star": "4.45/5",
+            "addr": "서울 성북구 종암로 83 해원빌딩\n6고려대역 2번 출구에서844m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150918_61%2F14425583260503CNkz_JPEG%2FSUBMIT_1442558319687_20030285.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/20030285?c=14133985.2994315,4522742.7030266,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "오늘은면발땡기는날": {
+            "name": "오늘은면발땡기는날",
+            "tel": "02-921-9555",
+            "star": "4.26/5",
+            "addr": "서울 동대문구 제기로7길 37\n6고려대역 5번 출구에서152m",
+            "foodtype": "중식당",
+            "menu": [
+                "짜장면",
+                "짬뽕",
+                "탕짜면",
+                "불짜장"
+            ],
+            "price": [
+                "6,000원",
+                "7,000원",
+                "9,500원",
+                "7,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190118_178%2F1547809034378uzLBA_JPEG%2FILlfCTrhwqofHrJ0gdB1t95A.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/18043508?c=14134797.0411584,4523387.0517515,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "중국관": {
+            "name": "중국관",
+            "tel": "02-962-3514",
+            "star": "4.25/5",
+            "addr": "서울 동대문구 고산자로56길 17\n6고려대역 4번 출구에서306m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMDdfMTYg%2FMDAxNjAyMDQ0Mjk3OTM3.PYXpuZVU7o2im99woFf9oE47LolEuxcrHYjQT_RixVMg.RPlqk3svPb4g8VWImI2sesE4RR95u544JsSaIqSIdUkg.JPEG.pca2765%2F26.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%A4%91%EC%8B%9D/place/38008651?c=14134342.0895315,4521460.5025815,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

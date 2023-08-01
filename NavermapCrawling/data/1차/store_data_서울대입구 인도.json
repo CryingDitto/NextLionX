@@ -1,0 +1,44 @@
+{
+    "서울대입구 인도 매장정보": [
+        {
+            "name": "옷살",
+            "tel": "0507-1350-6527",
+            "star": "4.58/5",
+            "addr": "서울 관악구 관악로 164 대우디오슈페리움1단지 지하 1층 104,105호\n2서울대입구역 2번 출구에서102m",
+            "foodtype": "인도음식",
+            "menu": [
+                "버터 맛살라 커리",
+                "티카 맛살라 커리",
+                "시금치 커리",
+                "키마 커리"
+            ],
+            "price": [
+                "14,900원",
+                "14,900원",
+                "14,900원",
+                "14,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210715_245%2F1626332739800rfm4H_JPEG%2FQmPdgl2uiUHfh-5Yw2ciiFP_.jpg"
+        },
+        {
+            "name": "아마 샤로수길점",
+            "tel": "0507-1478-9302",
+            "star": "4.64/5",
+            "addr": "서울 관악구 관악로14길 11 3충\n2서울대입구역 2번 출구에서244m",
+            "foodtype": "인도음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201214_237%2F1607940322914Kw8WY_JPEG%2FPsetCLhrmDjT86Lwf1NxWKg6.jpg"
+        },
+        {
+            "name": "옷살",
+            "tel": "0507-1378-6527",
+            "star": [],
+            "addr": "서울 관악구 관악로 164 지하1층 비101, 비102호\n2서울대입구역 2번 출구에서102m",
+            "foodtype": "인도음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210716_144%2F1626402038646yRomq_PNG%2FVJz2n7MeaPhIL5YWJNlF-VTZ.png"
+        }
+    ]
+}

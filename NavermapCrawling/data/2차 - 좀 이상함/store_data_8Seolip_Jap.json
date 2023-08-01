@@ -1,0 +1,104 @@
+{
+    "서울대입구 일식 매장정보": [
+        {
+            "name": "킷사서울",
+            "tel": "02-878-7444",
+            "star": "4.37/5",
+            "addr": "서울 관악구 남부순환로226길 31 2층 킷사서울\n2서울대입구역 1번 출구에서260m",
+            "foodtype": "일식당",
+            "menu": [
+                "부타동",
+                "쇼유에비사케동",
+                "아부리동",
+                "카라이 스키야키"
+            ],
+            "price": [
+                "12,000원",
+                "14,500원",
+                "18,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190702_79%2F1562051764640ibolr_JPEG%2FJPUI77-6y3QA33HYZsjFVpnH.jpg"
+        },
+        {
+            "name": "동경산책",
+            "tel": "0507-1343-0666",
+            "star": "4.49/5",
+            "addr": "서울 관악구 관악로14길 30 2층\n2서울대입구역 2번 출구에서343m",
+            "foodtype": "일식당",
+            "menu": [
+                "사케롤 정식",
+                "마제루롤 정식",
+                "아나고사케동",
+                "스키야키 나베정식"
+            ],
+            "price": [
+                "변동",
+                "변동",
+                "변동",
+                "변동"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180806_274%2F1533527099663EbLjL_JPEG%2F7_J0ErS4okX-blRTxHxtiG6a.jpg"
+        },
+        {
+            "name": "텐동요츠야",
+            "tel": "0507-1409-7974",
+            "star": "4.34/5",
+            "addr": "서울 관악구 관악로14길 35 1층\n2서울대입구역 2번 출구에서344m",
+            "foodtype": "일식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160813_64%2F1471084693615JjrcY_JPEG%2F176763596832322_1.jpeg"
+        },
+        {
+            "name": "낙원의소바",
+            "tel": "0507-1438-3018",
+            "star": "4.41/5",
+            "addr": "서울 관악구 관악로 164 1층 건물뒷편\n2서울대입구역 1번 출구에서148m",
+            "foodtype": "돈가스",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210827_222%2F1629997883215qeaj0_JPEG%2F0AJJLneNG6xvxqxgX3VR0kUN.jpg"
+        },
+        {
+            "name": "멘쇼우라멘",
+            "tel": "0507-1486-1577",
+            "star": "4.41/5",
+            "addr": "서울 관악구 남부순환로230길 25\n2서울대입구역 1번 출구에서345m",
+            "foodtype": "일본식라면",
+            "menu": [
+                "돈코츠라멘",
+                "매운돈코츠라멘",
+                "쿠로라멘",
+                "탄탄멘"
+            ],
+            "price": [
+                "7,500원",
+                "8,500원",
+                "8,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181001_291%2F1538357931163757jf_JPEG%2Fo6wgF4eKHSDFSdwx6g48Rvqo.jpg"
+        },
+        {
+            "name": "삼백돈 돈가츠 본점",
+            "tel": "0507-1409-6443",
+            "star": [],
+            "addr": "서울 관악구 남부순환로230길 48\n2서울대입구역 1번 출구에서459m",
+            "foodtype": "돈가스",
+            "menu": [
+                "안심 돈가츠",
+                "삼백돈 돈가츠",
+                "등심 돈가츠",
+                "특등심 돈가츠"
+            ],
+            "price": [
+                "13,000원",
+                "15,000원",
+                "11,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211130_126%2F16382361369064FADm_JPEG%2Fnaver_img1.jpg"
+        }
+    ]
+}

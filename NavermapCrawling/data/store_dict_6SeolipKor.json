@@ -1,0 +1,2213 @@
+{
+    "서울대입구 한식": {
+        "십원집": {
+            "name": "십원집",
+            "tel": "02-873-0057",
+            "star": "4.45/5",
+            "addr": "서울 관악구 봉천로 521\n2서울대입구역 1번 출구에서346m",
+            "foodtype": "돼지고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191209_254%2F1575876617160HTdOz_JPEG%2FMqA5xZfVpFjL2a44cS0M8LyE.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18699371?c=14131847.4086108,4506394.7962756,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "온돌 서울대입구점": {
+            "name": "온돌 서울대입구점",
+            "tel": "02-873-8712",
+            "star": [],
+            "addr": "서울 관악구 봉천로 534\n2서울대입구역 1번 출구에서442m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "온set 부채살 (2인추천)",
+                "소고기 된장전골",
+                "온set 황제늑간살 (2인추천)",
+                "온set 꽃등심스테이크(2인추천)"
+            ],
+            "price": [
+                "42,900원",
+                "7,500원",
+                "44,900원",
+                "54,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200422_206%2F1587541875431WDeFd_JPEG%2FoQouOcPFhA3XsifRmdX_Ws59.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/514296312?c=14131847.4086108,4506394.7962756,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "청기와타운 서울대점": {
+            "name": "청기와타운 서울대점",
+            "tel": "02-3285-1474",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1838 1층\n2서울대입구역 1번 출구에서84m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "수원왕갈비",
+                "빗살로스(생/양념)",
+                "안창살",
+                "LA양념갈비"
+            ],
+            "price": [
+                "25,000원",
+                "27,000원",
+                "21,000원",
+                "23,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220307_284%2F1646647468456vujSp_PNG%2FKakaoTalk_20210914_102523221.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1761847145?c=14131531.8289864,4506297.6529304,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안녕부산": {
+            "name": "안녕부산",
+            "tel": "02-6407-0718",
+            "star": "4.2/5",
+            "addr": "서울 관악구 관악로14길 45 1층\n2서울대입구역 1번 출구에서378m",
+            "foodtype": "곱창,막창,양",
+            "menu": [
+                "양념대창(중-300g)",
+                "불닭대창(중-400g)",
+                "돼지곰탕",
+                "수육백반"
+            ],
+            "price": [
+                "31,000원",
+                "31,000원",
+                "8,000원",
+                "11,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200117_229%2F1579251929417sUeu5_JPEG%2FBuoKd6pTatCn6NEnD4FTS5rp.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1862909287?c=14131632.4618061,4506059.2803027,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "산골": {
+            "name": "산골",
+            "tel": "02-874-3292",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로 211\n2서울대입구역 6번 출구에서302m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200903_2%2F1599137523576F8rVh_JPEG%2F80pckcJzQqIPko5CaqcbCMdp.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1148669490?c=14131546.4229716,4506782.3966648,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "생각보다맛있는집본점": {
+            "name": "생각보다맛있는집본점",
+            "tel": "0507-1318-7818",
+            "star": "4.33/5",
+            "addr": "서울 관악구 관악로 211 봉천중앙시장\n2서울대입구역 6번 출구에서287m",
+            "foodtype": "칼국수,만두",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190415_130%2F1555317832607uPETE_JPEG%2FReNm67iqKFSQKjM2qHtXSKK8.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13540769?c=14131556.0298437,4506752.9228201,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "정숙성": {
+            "name": "정숙성",
+            "tel": "0507-1370-6668",
+            "star": "4.72/5",
+            "addr": "서울 관악구 남부순환로226길 31 1층 정숙성\n2서울대입구역 1번 출구에서260m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "正熟 돈마호크(210g) [한정수량]",
+                "돈대갈비(200g) [한정수량]",
+                "목살(200g☆)",
+                "正熟 목살(180g) [한정수량]"
+            ],
+            "price": [
+                "15,000원",
+                "13,000원",
+                "14,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210607_170%2F16230317703988ekrz_JPEG%2FFdkZV_Msu78d2uwINADSUvH9.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1959742624?c=14131556.0298437,4506752.9228201,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "쭈앤쭈 서울대본점": {
+            "name": "쭈앤쭈 서울대본점",
+            "tel": "0507-1487-7998",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 11 1층 쭈앤쭈\n2서울대입구역 2번 출구에서244m",
+            "foodtype": "한식",
+            "menu": [
+                "눈꽃석쇠쭈꾸미",
+                "석삼이세트",
+                "석만이세트",
+                "철만이세트"
+            ],
+            "price": [
+                "13,000원",
+                "36,000원",
+                "31,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210610_24%2F1623290713124d7Bv3_JPEG%2FjcWTPpxjJF19xbQNgQlDUfSD.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1999378240?c=14131556.0298437,4506752.9228201,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "남도반주": {
+            "name": "남도반주",
+            "tel": "0507-1304-9446",
+            "star": "4.79/5",
+            "addr": "서울 관악구 관악로14가길 6 지하1층\n2서울대입구역 1번 출구에서474m",
+            "foodtype": "한식",
+            "menu": [
+                "대표메뉴:물레방아 계절회",
+                "엔다이브 제육볶음",
+                "젓갈치즈 스프레드",
+                "의성마늘 관자구이"
+            ],
+            "price": [
+                "42,000원",
+                "변동",
+                "변동",
+                "변동"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201018_59%2F1603000162478nnBjV_JPEG%2Frq5P0AhiNnIqnaaA-FCRFFSO.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1223614679?c=14131753.6330718,4505980.7965332,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "구퉁이 서울대점": {
+            "name": "구퉁이 서울대점",
+            "tel": "02-888-9412",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 85 1층\n2서울대입구역 1번 출구에서540m",
+            "foodtype": "한식",
+            "menu": [
+                "소갈비살",
+                "양념소갈비살",
+                "항정살",
+                "목살"
+            ],
+            "price": [
+                "16,000원",
+                "16,000원",
+                "15,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220603_163%2F1654237044365Janib_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1086041770?c=14131879.1012699,4505984.1350623,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "박진주할머니김치곱창전골": {
+            "name": "박진주할머니김치곱창전골",
+            "tel": "0507-1355-4833",
+            "star": [],
+            "addr": "서울 관악구 남부순환로234길 19 1층\n2서울대입구역 1번 출구에서476m",
+            "foodtype": "곱창,막창,양",
+            "menu": [
+                "선산곱창1인분",
+                "설탕토마토",
+                "들기름계란후라이",
+                "오향편육"
+            ],
+            "price": [
+                "11,000원",
+                "4,000원",
+                "5,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220725_119%2F16587305255450a1pU_JPEG%2F20220513_162308.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1730197317?c=14131879.1012699,4505984.1350623,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "원조부안집 서울대입구역점": {
+            "name": "원조부안집 서울대입구역점",
+            "tel": "010-5015-3342",
+            "star": [],
+            "addr": "서울 관악구 남부순환로226길 12 1층\n2서울대입구역 1번 출구에서154m",
+            "foodtype": "돼지고기구이",
+            "menu": [
+                "육즙목살",
+                "쫀득살",
+                "숙성삼겹",
+                "항정꽃살"
+            ],
+            "price": [
+                "14,000원",
+                "14,000원",
+                "14,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220623_175%2F1655961103542VcoOi_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1887469135?c=14131503.7987386,4506244.1368006,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "돈뼈락연탄갈비 서울대입구역점": {
+            "name": "돈뼈락연탄갈비 서울대입구역점",
+            "tel": "02-887-5579",
+            "star": "4.43/5",
+            "addr": "서울 관악구 남부순환로 1835-26 재승빌딩\n2서울대입구역 8번 출구에서113m",
+            "foodtype": "육류,고기요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151210_159%2F1449741071156dQvxy_JPEG%2F167160588129215_2.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/19873817?c=14131503.7987386,4506244.1368006,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "유천냉면 봉천점": {
+            "name": "유천냉면 봉천점",
+            "tel": "02-875-9522",
+            "star": "4.54/5",
+            "addr": "서울 관악구 쑥고개로 104\n2서울대입구역 3번 출구에서650m",
+            "foodtype": "냉면",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171130_229%2F1511968701120QaTkY_JPEG%2Fimage.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11835320?c=14130874.0198514,4506058.5087882,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고기굽는사람들": {
+            "name": "고기굽는사람들",
+            "tel": "0507-1357-6884",
+            "star": "4.85/5",
+            "addr": "서울 관악구 관악로14길 70 효림빌딩 106호\n2서울대입구역 1번 출구에서466m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "숯불양념구이(무한리필1인)",
+                "한양생삼겹",
+                "한양소갈비살",
+                "깍뚝목살"
+            ],
+            "price": [
+                "13,900원",
+                "12,000원",
+                "15,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20220502_117%2F1651431365356cDm0a_JPEG%2F58693791-c980-11ec-b52c-505dac8c37f3_03.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/94550787?c=14131791.3481153,4505982.0590021,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "달래해장 샤로수길점": {
+            "name": "달래해장 샤로수길점",
+            "tel": "0507-1315-2052",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 67 1층\n2서울대입구역 1번 출구에서456m",
+            "foodtype": "한식",
+            "menu": [
+                "(특)해장국",
+                "탕국",
+                "전골",
+                "모듬수육(소,250g)"
+            ],
+            "price": [
+                "12,000원",
+                "10,000원",
+                "32,000원",
+                "32,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220708_259%2F16572542213220y0IF_JPEG%2F%25B4%25DE%25B7%25A1%25C7%25D8%25C0%25E5_%25BB%25FE%25B7%25CE%25BC%25F6%25B1%25E6%25C1%25A1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1987897442?c=14131791.3481153,4505982.0590021,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "숙이네조개전골 서울대입구점": {
+            "name": "숙이네조개전골 서울대입구점",
+            "tel": "0507-1400-4645",
+            "star": "4.61/5",
+            "addr": "서울 관악구 관악로16길 41\n2서울대입구역 1번 출구에서252m",
+            "foodtype": "조개요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160503_237%2F1462254577089fh97J_JPEG%2F176453547954626_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37841962?c=14131791.3481153,4505982.0590021,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고봉식당": {
+            "name": "고봉식당",
+            "tel": "02-877-5355",
+            "star": "4.53/5",
+            "addr": "서울 관악구 관악로14길 70 효림빌딩 2층\n2서울대입구역 1번 출구에서466m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200115_94%2F1579074160866fGQlx_JPEG%2FZsQwjBTPQw1oNjPhyEIdgRr_.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1381989721?c=14131791.3481153,4505982.0590021,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "세광양대창 서울대입구점": {
+            "name": "세광양대창 서울대입구점",
+            "tel": "02-877-3779",
+            "star": "4.48/5",
+            "addr": "서울 관악구 관악로16길 13 2층\n2서울대입구역 1번 출구에서95m",
+            "foodtype": "곱창,막창,양",
+            "menu": [
+                "모듬구이",
+                "대창2+막창1+꽃대창(서비스)",
+                "대창2+특양1+꽃대창(서비스)",
+                "소갈비구이 2대(440g)"
+            ],
+            "price": [
+                "48,000원",
+                "44,000원",
+                "49,000원",
+                "52,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200504_139%2F1588579037119FBarS_JPEG%2FTBlNJD-b52fMrOh-tq1CgRZL.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1777006717?c=14131467.1189664,4506280.8896572,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "가람 숙성 대광어": {
+            "name": "가람 숙성 대광어",
+            "tel": "02-883-7271",
+            "star": [],
+            "addr": "서울 관악구 봉천로 483\n2서울대입구역 7번 출구에서95m",
+            "foodtype": "생선회",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170616_102%2F1497577009245tSlrM_JPEG%2F186565417968509_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/336894274?c=14131494.2475263,4506520.6140273,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "황칠나라 풍년옥": {
+            "name": "황칠나라 풍년옥",
+            "tel": "0507-1354-0017",
+            "star": "4.2/5",
+            "addr": "서울 관악구 관악로15길 9\n2서울대입구역 3번 출구에서118m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201008_11%2F1602143114667OEDe8_JPEG%2FBsc24IInD6tr66qS9XKSwO-_.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11850691?c=14131283.3527510,4506245.9884681,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "행운동조개": {
+            "name": "행운동조개",
+            "tel": "02-878-1896",
+            "star": "4.46/5",
+            "addr": "서울 관악구 남부순환로 1835-30 1층 행운동조개\n2서울대입구역 7번 출구에서128m",
+            "foodtype": "조개요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200213_64%2F1581575276394Y2NT6_JPEG%2F-pOJvu73-gipWEYxv3fGDx8E.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1499906514?c=14131529.7139161,4506422.6979747,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "황소곱창": {
+            "name": "황소곱창",
+            "tel": "02-875-7622",
+            "star": "3.88/5",
+            "addr": "서울 관악구 관악로15길 39\n2서울대입구역 4번 출구에서270m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191125_17%2F1574642243973Jal6M_JPEG%2FdrGTkLWrEQynBSKKAwaGtu7h.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/19861915?c=14131090.6698444,4506267.7455864,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "만양순대국 본점": {
+            "name": "만양순대국 본점",
+            "tel": "02-813-9633",
+            "star": "4.3/5",
+            "addr": "서울 관악구 은천로 132\n2서울대입구역 6번 출구에서834m",
+            "foodtype": "순대,순댓국",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191123_169%2F1574487604752AuS29_JPEG%2FS-8Y6pXzxZmXd7rzapYNl54x.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1112358035?c=14131072.1908089,4507130.3373879,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "박명주브라더": {
+            "name": "박명주브라더",
+            "tel": "0507-1428-9411",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로14길 89\n2서울대입구역 1번 출구에서557m",
+            "foodtype": "닭볶음탕",
+            "menu": [
+                "이태리 치킨스튜 (2인)",
+                "타이 치킨스튜 (2인)",
+                "토마토갈릭 치킨스튜 (2인)",
+                "갈릭 치킨스튜 (2인)"
+            ],
+            "price": [
+                "29,000원",
+                "31,000원",
+                "31,000원",
+                "27,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190728_150%2F1564315306041iyeWW_JPEG%2FgpCckxnLiqgbJvcjEh7lnc3Z.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37803653?c=14131902.8568492,4505963.1219852,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "완산정": {
+            "name": "완산정",
+            "tel": "02-878-3400",
+            "star": "4.29/5",
+            "addr": "서울 관악구 봉천로 484\n2서울대입구역 7번 출구에서75m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_50%2F1446623427279IzDes_JPEG%2F167054568045740_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11680002?c=14131482.2361532,4506461.5556683,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "충청삼겹": {
+            "name": "충청삼겹",
+            "tel": "02-876-8810",
+            "star": "4.54/5",
+            "addr": "서울 관악구 남부순환로230길 15 충청삼겹\n2서울대입구역 1번 출구에서321m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "오븐 통삼겹or통목살 도시락((고기250g))",
+                "오븐 통삼겹or통목살 도시락((고기450g)반찬은 추가되지 않아요)",
+                "오븐 통삼겹or통목살 도시락((고기650g)반찬은 추가되지 않아요)",
+                "오븐 통삼겹or통목살 도시락((고기850g)반찬은 추가되지 않아요)"
+            ],
+            "price": [
+                "16,000원",
+                "22,000원",
+                "28,000원",
+                "34,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201008_14%2F1602121587189Pd9iH_PNG%2FUQRGIy-nnHahE28sxwYJ2e6E.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1163248530?c=14131698.6857711,4506120.3142890,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "우리가참순대": {
+            "name": "우리가참순대",
+            "tel": "02-883-1063",
+            "star": "4.53/5",
+            "addr": "서울 관악구 관악로 148 B1\n2서울대입구역 2번 출구에서264m",
+            "foodtype": "순대,순댓국",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_6%2F1616452332181Ml6y8_JPEG%2FuvCixblDsSmDMgoZYVx3wf07.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37069580?c=14131363.2244856,4506018.6566375,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "불광옥": {
+            "name": "불광옥",
+            "tel": "0507-1305-6161",
+            "star": "4.35/5",
+            "addr": "서울 관악구 봉천로 485 2층\n2서울대입구역 7번 출구에서110m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "꺼먹돼지오겹살",
+                "양념돼지갈비",
+                "삼겹살",
+                "황제갈비살"
+            ],
+            "price": [
+                "17,000원",
+                "15,000원",
+                "15,000원",
+                "18,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220804_97%2F1659613889008x5OBm_JPEG%2F20220804_175301.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1201537954?c=14131515.4538893,4506524.4016293,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "오신매운갈비찜 서울대입구점": {
+            "name": "오신매운갈비찜 서울대입구점",
+            "tel": "02-884-5253",
+            "star": "4.47/5",
+            "addr": "서울 관악구 남부순환로230길 14\n2서울대입구역 1번 출구에서297m",
+            "foodtype": "육류,고기요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_13%2F1446623304848JCTtD_JPEG%2F167054567843309_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/35637729?c=14131672.8930451,4506141.8467041,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "독도쭈꾸미": {
+            "name": "독도쭈꾸미",
+            "tel": "02-875-7751",
+            "star": "4.56/5",
+            "addr": "서울 관악구 남부순환로226길 19\n2서울대입구역 1번 출구에서196m",
+            "foodtype": "주꾸미요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_261%2F1441067262335akUfR_JPEG%2F146362567963377_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20837044?c=14131672.8930451,4506141.8467041,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "하남돼지집 서울대입구역점": {
+            "name": "하남돼지집 서울대입구역점",
+            "tel": "02-876-2993",
+            "star": "4.35/5",
+            "addr": "서울 관악구 관악로17길 3\n2서울대입구역 4번 출구에서100m",
+            "foodtype": "돼지고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170714_191%2F1499999945343dmCal_JPEG%2F186664516924858_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/348264883?c=14131243.5671650,4506321.5564223,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "백산식당": {
+            "name": "백산식당",
+            "tel": "02-877-8271",
+            "star": "4.48/5",
+            "addr": "서울 관악구 관악로14길 60 1층 백산식당\n2서울대입구역 1번 출구에서411m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211208_123%2F1638939994440Qd8NR_JPEG%2F25FEFEBC-E830-4738-913A-07FC6B6CA303.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1663632240?c=14131719.9589258,4506010.8433332,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고기박사 샤로수길점": {
+            "name": "고기박사 샤로수길점",
+            "tel": "0507-1493-1104",
+            "star": "4.5/5",
+            "addr": "서울 관악구 남부순환로 1874\n2서울대입구역 1번 출구에서472m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "칼집삼겹살",
+                "고추장삼겹살",
+                "가브리살",
+                "갈비양념구이"
+            ],
+            "price": [
+                "12,500원",
+                "13,000원",
+                "13,000원",
+                "11,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190715_11%2F15631547607888XJfT_JPEG%2F9u5ZHs6ZBjXXS9Pjb8WoT-kD.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1056658178?c=14131938.0115444,4506096.5094490,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "백채김치찌개 봉천 본점": {
+            "name": "백채김치찌개 봉천 본점",
+            "tel": "070-8292-2182",
+            "star": "4.29/5",
+            "addr": "서울 관악구 청룡1길 25\n2서울대입구역 4번 출구에서442m",
+            "foodtype": "찌개,전골",
+            "menu": [
+                "통돼지두루치기 2인",
+                "백채찌개(돼지or부대)1인분",
+                "백채찌개(돼지or부대)보통(2~3인분)",
+                "백채찌개(돼지or부대)중간(3~4인분)"
+            ],
+            "price": [
+                "20,000원",
+                "8,000원",
+                "16,000원",
+                "23,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220706_132%2F1657106082945zBbEo_JPEG%2F%25B5%25C5%25C1%25F6%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1534065525?c=14130824.1709834,4506404.7842056,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고명집": {
+            "name": "고명집",
+            "tel": "02-883-5988",
+            "star": "4.13/5",
+            "addr": "서울 관악구 봉천로 482\n2서울대입구역 7번 출구에서51m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171222_212%2F1513918992607SMWWy_JPEG%2FrTNAAJARmpemJrmcXwTsjAc4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13316728?c=14131465.3155906,4506468.0085845,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "신기루황소곱창구이": {
+            "name": "신기루황소곱창구이",
+            "tel": "02-887-5000",
+            "star": "4.31/5",
+            "addr": "서울 관악구 관악로13길 25\n2서울대입구역 3번 출구에서307m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190722_277%2F1563769260799xj0ai_JPEG%2F0FbnOxWwtqIZXAXIOyjl2_-P.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13486369?c=14131159.0422756,4506124.3402160,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "빽돈 본점": {
+            "name": "빽돈 본점",
+            "tel": "0507-1471-7787",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로16길 32-2 1층\n2서울대입구역 1번 출구에서199m",
+            "foodtype": "돼지고기구이",
+            "menu": [
+                "종합세트 2인",
+                "벌집 껍데기",
+                "종합세트 3인",
+                "더티폭탄 계란찜"
+            ],
+            "price": [
+                "39,900원",
+                "7,000원",
+                "59,900원",
+                "7,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190522_268%2F1558500536814pCA0g_JPEG%2FiWxkHVEGV5V7skqHQU5Pqqym.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1750208902?c=14131557.3768095,4506215.6043282,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "6회말연어": {
+            "name": "6회말연어",
+            "tel": "02-871-0270",
+            "star": "4.45/5",
+            "addr": "서울 관악구 봉천로 485-1 진광빌딩 2층\n2서울대입구역 7번 출구에서133m",
+            "foodtype": "생선회",
+            "menu": [
+                "연어사시미(200g)",
+                "연어덮밥(연어100g)",
+                "한우육회(180g)",
+                "한우육회(270g)"
+            ],
+            "price": [
+                "20,000원",
+                "14,000원",
+                "18,000원",
+                "25,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171127_127%2F1511760996624JiJ6M_JPEG%2F1448280920405_6566_SUB_6.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37257338?c=14131557.3768095,4506215.6043282,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "어부사시가": {
+            "name": "어부사시가",
+            "tel": "0507-1411-9312",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로14길 31 1층, 어부사시가\n2서울대입구역 2번 출구에서336m",
+            "foodtype": "생선구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190827_233%2F1566877550770bS2af_JPEG%2Fyye_95qZkmqAYBf6_CK96hVs.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1039016287?c=14130447.6550697,4506394.7962756,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "구땡식당 샤로수길점": {
+            "name": "구땡식당 샤로수길점",
+            "tel": "0507-1487-9906",
+            "star": [],
+            "addr": "서울 관악구 남부순환로234길 21\n2서울대입구역 1번 출구에서486m",
+            "foodtype": "돼지고기구이",
+            "menu": [
+                "파절이삼겹살 (소)",
+                "파절이삼겹살 (중)",
+                "파절이삼겹살 (대)",
+                "볶음밥"
+            ],
+            "price": [
+                "26,000원",
+                "36,000원",
+                "46,000원",
+                "2,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211215_224%2F16395649752576ogHy_JPEG%2FD290A417-1774-4C17-A632-2DC603556655.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1118201325?c=14130935.2789672,4506010.7170859,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "도리도리하찌 닭도리탕": {
+            "name": "도리도리하찌 닭도리탕",
+            "tel": "02-889-4490",
+            "star": "4.17/5",
+            "addr": "서울 관악구 관악로14길 77\n2서울대입구역 1번 출구에서527m",
+            "foodtype": "닭볶음탕",
+            "menu": [
+                "마늘 닭도리탕 중",
+                "얼큰 닭도리탕 중",
+                "체다치즈 닭도리탕 중",
+                "해물 닭도리탕 중"
+            ],
+            "price": [
+                "24,000원",
+                "22,000원",
+                "26,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_103%2F1446623180701iRNjc_JPEG%2F167054567639038_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/35366289?c=14130935.2789672,4506010.7170859,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "관악산가마솥삼계탕": {
+            "name": "관악산가마솥삼계탕",
+            "tel": "02-887-0188",
+            "star": "4.26/5",
+            "addr": "서울 관악구 관악로17길 13\n2서울대입구역 4번 출구에서159m",
+            "foodtype": "백숙,삼계탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_275%2F1578233437518CqY5X_JPEG%2F-2ls1NVEjlEN4hxclOek693r.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13015281?c=14130256.7978028,4506323.6325498,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "덮다": {
+            "name": "덮다",
+            "tel": "070-7786-7770",
+            "star": "4.51/5",
+            "addr": "서울 관악구 남부순환로224길 31 1층\n2서울대입구역 1번 출구에서180m",
+            "foodtype": "한식",
+            "menu": [
+                "매콤항정살덮밥+마약계란국",
+                "데리아끼항정살덮밥+마약계란국 도시락",
+                "소불고기덮밥+마약계란국",
+                "매콤삼겹덮밥+마약계란국"
+            ],
+            "price": [
+                "10,900원",
+                "10,900원",
+                "10,900원",
+                "9,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220720_289%2F1658307373705HG3oR_JPEG%2FKakaoTalk_20220704_175046999.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1648613587?c=14130505.9976148,4506152.1009186,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "골목끝자락": {
+            "name": "골목끝자락",
+            "tel": "0507-1342-4818",
+            "star": "4.89/5",
+            "addr": "서울 관악구 봉천로53길 28 1층 끝자락닭볶음탕\n2서울대입구역 7번 출구에서222m",
+            "foodtype": "닭볶음탕",
+            "menu": [
+                "수비드닭볶음탕",
+                "수비드치즈닭볶음탕",
+                "초계쟁반비빔국수",
+                "초계국수"
+            ],
+            "price": [
+                "28,000원",
+                "32,000원",
+                "14,000원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220510_138%2F1652120310169knH4U_JPEG%2F25A95AA8-4ED2-42FF-891E-9C70EA6164B1.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1682216993?c=14130505.9976148,4506152.1009186,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "아우네장터순대국": {
+            "name": "아우네장터순대국",
+            "tel": "02-879-0465",
+            "star": "4.46/5",
+            "addr": "서울 관악구 봉천로 490\n2서울대입구역 7번 출구에서125m",
+            "foodtype": "순대,순댓국",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180801_173%2F1533101198274fDfo4_JPEG%2FOCff8gpCs6kyzskuStJ0Lgok.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37741865?c=14130505.9976148,4506152.1009186,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "신선설농탕 서울대역점": {
+            "name": "신선설농탕 서울대역점",
+            "tel": "02-871-9500",
+            "star": "4.33/5",
+            "addr": "서울 관악구 관악로 163 신선설농탕 서울대점\n2서울대입구역 3번 출구에서119m",
+            "foodtype": "곰탕,설렁탕",
+            "menu": [
+                "백세설농탕",
+                "신선설농탕",
+                "만두설농탕/떡만두설농탕",
+                "마늘설농탕"
+            ],
+            "price": [
+                "15,000원",
+                "10,000원",
+                "10,500원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220708_63%2F1657277355012NeGD8_JPEG%2F20220708_194836.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18144375?c=14130505.9976148,4506152.1009186,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "정통집 샤로수길점": {
+            "name": "정통집 샤로수길점",
+            "tel": "0507-1370-9006",
+            "star": "4.37/5",
+            "addr": "서울 관악구 관악로14길 65 정통집\n2서울대입구역 1번 출구에서442m",
+            "foodtype": "돼지고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190719_225%2F1563517735094cRM18_JPEG%2FfC4TnMrnPA1OwbJ6uVAWx95S.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1157974916?c=14130830.5607222,4506016.3561308,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "싸움의고수 서울대입구역점": {
+            "name": "싸움의고수 서울대입구역점",
+            "tel": "0507-1484-7985",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로 164\n2서울대입구역 2번 출구에서102m",
+            "foodtype": "족발,보쌈",
+            "menu": [
+                "1인대패 도시락(M)",
+                "1인대패 도시락(L)",
+                "1인보쌈 도시락(M)",
+                "1인보쌈 도시락(L)"
+            ],
+            "price": [
+                "8,900원",
+                "10,900원",
+                "9,700원",
+                "11,700원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211112_254%2F1636690205194W0drc_JPEG%2F211103_%25BD%25CE%25BF%25F2%25C0%25C7%25B0%25ED%25BC%25F6_%25C5%25B0%25BF%25C0%25BD%25BA%25C5%25A9_%25B8%25DE%25B4%25BA%25B8%25AE%25B4%25BA%25BE%25F3_1%25C0%25CE%25BA%25B8%25BD%25D3_L_500.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/38643937?c=14130830.5607222,4506016.3561308,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "제일막창": {
+            "name": "제일막창",
+            "tel": "02-888-3876",
+            "star": "4.39/5",
+            "addr": "서울 관악구 봉천로 459\n2서울대입구역 6번 출구에서252m",
+            "foodtype": "곱창,막창,양",
+            "menu": [
+                "소막창",
+                "돼지막창",
+                "삼겹살",
+                "닭발"
+            ],
+            "price": [
+                "18,000원",
+                "13,000원",
+                "13,000원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190102_202%2F1546433024107hJb2d_JPEG%2FIur0OuIkAUOus0qZv_nAPAHs.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/34786350?c=14130265.1690285,4506586.1958490,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "봉추찜닭 서울대입구역점": {
+            "name": "봉추찜닭 서울대입구역점",
+            "tel": "0507-1304-9381",
+            "star": "4.32/5",
+            "addr": "서울 관악구 관악로16길 25\n2서울대입구역 1번 출구에서170m",
+            "foodtype": "찜닭",
+            "menu": [
+                "봉추찜닭 소",
+                "봉추찜닭 중",
+                "봉추찜닭 대",
+                "뼈없는찜닭 소"
+            ],
+            "price": [
+                "24,000원",
+                "36,000원",
+                "50,000원",
+                "27,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210512_117%2F1620778752484PJMcK_PNG%2FPIZm4zXLohPwDKrWMM15byqi.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/31413976?c=14130609.9143595,4506244.2349950,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "홍곱창 서울대점": {
+            "name": "홍곱창 서울대점",
+            "tel": "0507-1421-8185",
+            "star": "4.32/5",
+            "addr": "서울 관악구 봉천로 489\n2서울대입구역 7번 출구에서149m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170702_100%2F1498984878314keUF8_PNG%2F186652577137187_0.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/348160239?c=14130627.4137834,4506492.1930272,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "봉천동 양대창": {
+            "name": "봉천동 양대창",
+            "tel": "0507-1361-8247",
+            "star": "4.39/5",
+            "addr": "서울 관악구 관악로16길 43\n2서울대입구역 1번 출구에서241m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201109_237%2F1604911768121Jfm5B_JPEG%2Fimage.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1567287966?c=14130714.9442991,4506200.2860418,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "갯바위": {
+            "name": "갯바위",
+            "tel": "02-878-7728",
+            "star": "4.58/5",
+            "addr": "서울 관악구 남부순환로216길 13\n2서울대입구역 4번 출구에서337m",
+            "foodtype": "매운탕,해물탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200318_291%2F1584511284587h9RoR_JPEG%2FQ0K-qN9U5npwZtiuzDsvV0Jd.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/19866767?c=14130043.6321098,4506353.1192153,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "소블리": {
+            "name": "소블리",
+            "tel": "070-8888-0401",
+            "star": "4.6/5",
+            "addr": "서울 관악구 남부순환로234길 18\n2서울대입구역 1번 출구에서484m",
+            "foodtype": "소고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200427_37%2F1587990015816UD5Dv_JPEG%2F3Di6gr7FVVM5V51i7VkP3pps.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1161520399?c=14130918.1914253,4506018.3620604,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "얼큰수제비해물칼국수": {
+            "name": "얼큰수제비해물칼국수",
+            "tel": "02-888-0712",
+            "star": "4.53/5",
+            "addr": "서울 관악구 관악로 113\n2서울대입구역 3번 출구에서637m",
+            "foodtype": "칼국수,만두",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160602_142%2Fjjangi8_1464800502221cGwc7_JPEG%2FIMG_3419.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18186785?c=14130428.1184991,4505547.0773438,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "복돈이부추삼겹살 서울대입구점": {
+            "name": "복돈이부추삼겹살 서울대입구점",
+            "tel": "02-885-2774",
+            "star": "4.5/5",
+            "addr": "서울 관악구 남부순환로 1846 1층\n2서울대입구역 1번 출구에서172m",
+            "foodtype": "돼지고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170328_37%2F1490687645421K8fRB_JPEG%2F186278568425277_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/724258407?c=14130683.1180566,4506239.8863831,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "나주곰탕 서울대점": {
+            "name": "나주곰탕 서울대점",
+            "tel": "02-886-6266",
+            "star": "4.37/5",
+            "addr": "서울 관악구 관악로 167\n2서울대입구역 3번 출구에서95m",
+            "foodtype": "곰탕,설렁탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_241%2F1441029759862MQLjg_JPEG%2FSUBMIT_1369892847241_32528347.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/32528347?c=14130683.1180566,4506239.8863831,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "순곱이네 서울대점": {
+            "name": "순곱이네 서울대점",
+            "tel": "02-874-3745",
+            "star": "4.63/5",
+            "addr": "서울 관악구 봉천로 522-1 1층\n2서울대입구역 1번 출구에서328m",
+            "foodtype": "찌개,전골",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200706_109%2F1594036495776PYXVy_JPEG%2FCv8uHjgBVA7tI4PNbhrUS24h.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1479682375?c=14130683.1180566,4506239.8863831,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "수상한닭발": {
+            "name": "수상한닭발",
+            "tel": "02-883-1182",
+            "star": "4.53/5",
+            "addr": "서울 관악구 봉천로53길 8\n2서울대입구역 7번 출구에서168m",
+            "foodtype": "닭발",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200118_299%2F15793162444197fbjC_JPEG%2F54mEpVoaHOiPU7JflFTk6Rc9.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20721128?c=14130683.1180566,4506239.8863831,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "낙성곱창본점": {
+            "name": "낙성곱창본점",
+            "tel": "0507-1436-1121",
+            "star": "4.52/5",
+            "addr": "서울 관악구 봉천로 495-3\n2서울대입구역 7번 출구에서228m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170822_62%2F1503369773983NwTHA_JPEG%2Fp-8pf2hQ4cNHMEuUm0jxqdgz.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11699002?c=14130710.8811376,4506427.0466625,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "박막례청진동해장국": {
+            "name": "박막례청진동해장국",
+            "tel": "02-875-9882",
+            "star": "4.38/5",
+            "addr": "서울 관악구 관악로 105 동산빌딩\n2서울대입구역 3번 출구에서698m",
+            "foodtype": "해장국",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170420_32%2F1492655886065kWnJl_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13015285?c=14130710.8811376,4506427.0466625,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "은하계": {
+            "name": "은하계",
+            "tel": "02-882-2342",
+            "star": "4.26/5",
+            "addr": "서울 관악구 남부순환로230길 20\n2서울대입구역 1번 출구에서326m",
+            "foodtype": "닭요리",
+            "menu": [
+                "닭모듬",
+                "다리살",
+                "양념다리살",
+                "무뼈닭발"
+            ],
+            "price": [
+                "23,000원",
+                "12,000원",
+                "13,000원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210721_185%2F1626855199585xi8aR_JPEG%2FMcAcWgCh1Xe0WX1L6DNlTSjr.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1222365686?c=14130745.4569715,4506109.5551119,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "숯불호랑": {
+            "name": "숯불호랑",
+            "tel": "02-883-1619",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 69\n2서울대입구역 1번 출구에서466m",
+            "foodtype": "소고기구이",
+            "menu": [
+                "한우 채끝등심 No.9",
+                "한우 안심 No.9",
+                "한우 손차돌박이 No.9",
+                "한우 갈비살(늑간) No.789"
+            ],
+            "price": [
+                "32,000원",
+                "32,000원",
+                "19,000원",
+                "23,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220118_174%2F1642491378554eaC5k_JPEG%2FKakaoTalk_20220117_162309292.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1604481125?c=14130745.4569715,4506109.5551119,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "볏짚구이이야기": {
+            "name": "볏짚구이이야기",
+            "tel": "02-882-8930",
+            "star": "4.52/5",
+            "addr": "서울 관악구 봉천로 482\n2서울대입구역 7번 출구에서51m",
+            "foodtype": "한식",
+            "menu": [
+                "볏짚 산꼼장어",
+                "볏짚 민물장어",
+                "볏짚 돌문어구이",
+                "숯불 소막창(숨은보석)"
+            ],
+            "price": [
+                "20,000원",
+                "29,000원",
+                "19,000원",
+                "18,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220610_201%2F1654845144678FPnfS_JPEG%2F20220610_155546.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/19952633?c=14130533.2931540,4506470.7300329,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "봉이전": {
+            "name": "봉이전",
+            "tel": "02-874-5577",
+            "star": "4.59/5",
+            "addr": "서울 관악구 봉천로 473-5 1층\n2서울대입구역 6번 출구에서140m",
+            "foodtype": "전,빈대떡",
+            "menu": [
+                "모듬전",
+                "소고기육전",
+                "골뱅이무침((기본소면사리제공))",
+                "두부김치"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "20,000원",
+                "19,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220524_6%2F1653371408420m1ESQ_JPEG%2F1653370950808-8.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18709655?c=14130533.2931540,4506470.7300329,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "이차돌 서울대입구역점": {
+            "name": "이차돌 서울대입구역점",
+            "tel": "02-3285-0113",
+            "star": "4.38/5",
+            "addr": "서울 관악구 봉천로 471-1\n2서울대입구역 6번 출구에서119m",
+            "foodtype": "소고기구이",
+            "menu": [
+                "차돌박이 대표한상",
+                "내맘대로 한상",
+                "2차돌 한상",
+                "차돌삼겹 한상"
+            ],
+            "price": [
+                "25,900원",
+                "14,900원",
+                "24,900원",
+                "24,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220621_219%2F1655771772233f3LJk_PNG%2F%25B8%25B6%25C4%25C9%25C6%25C3.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1080740701?c=14130533.2931540,4506470.7300329,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "히토리 더 야끼니꾸": {
+            "name": "히토리 더 야끼니꾸",
+            "tel": "0507-1358-6450",
+            "star": "4.57/5",
+            "addr": "서울 관악구 남부순환로230길 8\n2서울대입구역 1번 출구에서254m",
+            "foodtype": "소고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190616_173%2F1560686726079NzH7F_JPEG%2F7EznHW_wByeUzIwN03W9hFS3.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37624775?c=14130727.2562347,4506183.9998662,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "신의주찹쌀순대 서울대입구역점": {
+            "name": "신의주찹쌀순대 서울대입구역점",
+            "tel": "02-872-8790",
+            "star": "4.16/5",
+            "addr": "서울 관악구 남부순환로 1799 대영오피스텔\n2서울대입구역 5번 출구에서215m",
+            "foodtype": "순대,순댓국",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191231_97%2F1577760080855WIKMa_JPEG%2Fd62JVh4OqIq66GdQmwA8wA9r.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/33431474?c=14130155.7197051,4506476.8322523,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "보승회관 서울대입구역점": {
+            "name": "보승회관 서울대입구역점",
+            "tel": "02-885-8887",
+            "star": "3.99/5",
+            "addr": "서울 관악구 남부순환로 1833 1층\n2서울대입구역 8번 출구에서58m",
+            "foodtype": "국밥",
+            "menu": [
+                "순대 항정수육 정식(2인)",
+                "순대국밥(일반)",
+                "수육국밥(일반)",
+                "오소리 국밥(일반)"
+            ],
+            "price": [
+                "31,000원",
+                "10,000원",
+                "10,000원",
+                "10,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200924_233%2F16009368934012yJ4u_JPEG%2Fq5gmeU0wopgsU0lCkdPVVIfT.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1544433425?c=14130580.5705417,4506378.2853504,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마왕족발 샤로수길점": {
+            "name": "마왕족발 샤로수길점",
+            "tel": "0507-1418-7829",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로16길 38 1층 마왕족발\n2서울대입구역 1번 출구에서241m",
+            "foodtype": "족발,보쌈",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220715_206%2F1657848363285fmdFm_PNG%2F%25B8%25DE%25C0%25CE%25C0%25CC%25B9%25CC%25C1%25F6.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1232698838?c=14130580.5705417,4506378.2853504,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "서울대곱창": {
+            "name": "서울대곱창",
+            "tel": "02-873-7011",
+            "star": "4.23/5",
+            "addr": "서울 관악구 관악로 168 대우디오슈페리움2단지\n2서울대입구역 2번 출구에서58m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_57%2F1441068019175RtRA0_JPEG%2FSUBMIT_1331281497369_20936865.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20936865?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "명품민물장어": {
+            "name": "명품민물장어",
+            "tel": "02-875-5559",
+            "star": "4.21/5",
+            "addr": "서울 관악구 봉천로 453\n2서울대입구역 5번 출구에서302m",
+            "foodtype": "장어,먹장어요리",
+            "menu": [
+                "장어 소스구이(1인분)",
+                "파김치 장어전골",
+                "장어탕",
+                "장어 소스구이(1인분)"
+            ],
+            "price": [
+                "29,000원",
+                "63,000원",
+                "8,000원",
+                "29,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171122_188%2F1511332188362bDnOE_JPEG%2FmZS373fKhEyiFPQtQ6eGlUo9.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1169811832?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "속초오징어어시장 서울대입구역점": {
+            "name": "속초오징어어시장 서울대입구역점",
+            "tel": "0507-1412-8028",
+            "star": "4.3/5",
+            "addr": "서울 관악구 남부순환로224길 13 1층\n2서울대입구역 1번 출구에서90m",
+            "foodtype": "생선회",
+            "menu": [
+                "속초 제철 실속 모듬회(중(350g))",
+                "속초 제철 실속 모듬회(대(460g))",
+                "속초 제철 실속 모듬회(특대(710g))",
+                "속초 도다리 모듬회 3종 set(중)"
+            ],
+            "price": [
+                "36,000원",
+                "46,000원",
+                "56,000원",
+                "33,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210528_147%2F1622168713835yrmPV_JPEG%2FpoU4k36rB1o9uPtIhgtiGGTn.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1571113015?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "봉천동그집돼지": {
+            "name": "봉천동그집돼지",
+            "tel": "0507-1359-9592",
+            "star": "4.36/5",
+            "addr": "서울 관악구 봉천로 467 1층 그집돼지\n2서울대입구역 6번 출구에서163m",
+            "foodtype": "돼지고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220521_96%2F16531120267304eAzW_JPEG%2F854BB9D3-6C99-4BD0-9A74-4F2F8EBAD13F.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1552305349?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "들깨향밀내음": {
+            "name": "들깨향밀내음",
+            "tel": "02-888-1820",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로 210 학산빌딩 2층\n2서울대입구역 7번 출구에서290m",
+            "foodtype": "칼국수,만두",
+            "menu": [
+                "들깨칼국수",
+                "들깨수제비",
+                "바지락칼국수",
+                "팥칼국수"
+            ],
+            "price": [
+                "9,500원",
+                "9,500원",
+                "9,000원",
+                "9,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220612_51%2F1655027622881IXLi5_JPEG%2F%25BC%25F6%25C1%25A4%25B5%25C8%25B8%25DE%25B4%25BA%25C6%25C7.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20108514?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "더고기 서울대본점": {
+            "name": "더고기 서울대본점",
+            "tel": "02-3285-3392",
+            "star": "4.26/5",
+            "addr": "서울 관악구 관악로16길 16\n2서울대입구역 1번 출구에서103m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "뼈없는돼지갈비200g",
+                "매콤 뼈없는돼지갈비200g",
+                "통삼겹/삼겹살150g",
+                "이베리코스테이크목살100g"
+            ],
+            "price": [
+                "12,000원",
+                "13,000원",
+                "11,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210706_293%2F1625543483403X70Hp_JPEG%2FJAoUnQ0Q9_627xQQh8iEVBW5.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20080634?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "생각보다맛있는집 관악구청점": {
+            "name": "생각보다맛있는집 관악구청점",
+            "tel": "0507-1325-5717",
+            "star": "4.38/5",
+            "addr": "서울 관악구 관악로 152\n2서울대입구역 2번 출구에서240m",
+            "foodtype": "칼국수,만두",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180219_293%2F1519007208524uJRro_PNG%2FRicv-MUyoYAWhv4kzVowfbyH.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/31793864?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "어사출또 서울대입구역점": {
+            "name": "어사출또 서울대입구역점",
+            "tel": "02-888-5114",
+            "star": [],
+            "addr": "서울 관악구 봉천로49길 3 1층 어사출또\n2서울대입구역 6번 출구에서217m",
+            "foodtype": "생선회",
+            "menu": [
+                "눈꽃 황제물회 (면사리포함)(2인 (활어회+전복+멍게+추천))",
+                "눈꽃 전복물회(면사리포함)(2인)",
+                "눈꽃 전복물회(면사리포함)(1인)",
+                "눈꽃 활어물회(면사리포함)(2인)"
+            ],
+            "price": [
+                "33,000원",
+                "23,000원",
+                "17,000원",
+                "23,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160217_118%2F1455692302997TCpD8_JPEG%2F176162495322106_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37372901?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "정선네생선구이": {
+            "name": "정선네생선구이",
+            "tel": "02-872-4429",
+            "star": "4.41/5",
+            "addr": "서울 관악구 봉천로 485\n2서울대입구역 7번 출구에서106m",
+            "foodtype": "생선구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200620_271%2F1592652185889PpoNA_JPEG%2FeGTXYtWzy9jqqt0v2APz8Tuy.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18701761?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "오 막회집 서울대점": {
+            "name": "오 막회집 서울대점",
+            "tel": "02-875-2882",
+            "star": "4.31/5",
+            "addr": "서울 관악구 남부순환로226길 19\n2서울대입구역 1번 출구에서196m",
+            "foodtype": "생선회",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200718_212%2F1595075188474NMmLQ_JPEG%2FpmFmnVkZIyelP62Xj2Qcds4h.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/38009782?c=14130496.3350830,4506260.3669584,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "만월당": {
+            "name": "만월당",
+            "tel": "02-872-0124",
+            "star": "4.49/5",
+            "addr": "서울 관악구 남부순환로230길 26 만월당\n2서울대입구역 1번 출구에서346m",
+            "foodtype": "전,빈대떡",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210122_197%2F16113063437787QJtA_JPEG%2FwsRvwKgNCOyuRanZK4sRpfta.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1948261578?c=14130747.2603472,4506089.2010794,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한우육회마을 1호점": {
+            "name": "한우육회마을 1호점",
+            "tel": "02-882-8260",
+            "star": "4.47/5",
+            "addr": "서울 관악구 남부순환로 1848-7\n2서울대입구역 1번 출구에서258m",
+            "foodtype": "소고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220127_157%2F1643286643927WMDeA_JPEG%2F1643286637438.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/31818720?c=14130747.2603472,4506089.2010794,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "삼미옥": {
+            "name": "삼미옥",
+            "tel": "02-889-9327",
+            "star": "3.98/5",
+            "addr": "서울 관악구 남부순환로 1829-6\n2서울대입구역 8번 출구에서62m",
+            "foodtype": "곰탕,설렁탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_223%2F1446623273300jchqw_JPEG%2F167054567771575_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13153464?c=14130747.2603472,4506089.2010794,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "만석곱창구이": {
+            "name": "만석곱창구이",
+            "tel": "02-876-2496",
+            "star": "4.38/5",
+            "addr": "서울 관악구 봉천로 491-1\n2서울대입구역 7번 출구에서178m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200111_172%2F1578710966389snKHY_JPEG%2F9d7KOycXnFkuleN6UANUBkIn.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37725797?c=14130747.2603472,4506089.2010794,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "청국장과보리밥 봉천점": {
+            "name": "청국장과보리밥 봉천점",
+            "tel": "02-878-8858",
+            "star": "4.35/5",
+            "addr": "서울 관악구 관악로24길 80\n2서울대입구역 7번 출구에서712m",
+            "foodtype": "보리밥",
+            "menu": [
+                "청국장과보리밥",
+                "청국장과 두루치기정식",
+                "청국장과 수육정식",
+                "청국장과 떡갈비정식"
+            ],
+            "price": [
+                "8,500원",
+                "14,000원",
+                "14,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170628_124%2F1498619015974zAYhT_JPEG%2F186578523355833_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/33996974?c=14131032.5165424,4507082.0076998,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "대호아구집": {
+            "name": "대호아구집",
+            "tel": "02-889-1700",
+            "star": "4.36/5",
+            "addr": "서울 관악구 남부순환로 1829-9\n2서울대입구역 8번 출구에서74m",
+            "foodtype": "아귀찜,해물찜",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151104_289%2F1446623167660UwB7y_JPEG%2F167054567626077_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11358379?c=14130554.2657460,4506446.0546577,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "달곱": {
+            "name": "달곱",
+            "tel": "070-7576-0589",
+            "star": "4.45/5",
+            "addr": "서울 관악구 남부순환로226길 36\n2서울대입구역 2번 출구에서282m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191119_135%2F1574173560243MTMSq_JPEG%2FEAm851Ck70PMTPsNbq29d-FE.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1163473295?c=14130554.2657460,4506446.0546577,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "봉천곱창": {
+            "name": "봉천곱창",
+            "tel": "02-879-1819",
+            "star": "4.58/5",
+            "addr": "서울 관악구 봉천로 481\n2서울대입구역 7번 출구에서92m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170419_261%2F14925969752955yPCM_JPEG%2F4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18180340?c=14130554.2657460,4506446.0546577,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "삼차": {
+            "name": "삼차",
+            "tel": "0507-1367-7832",
+            "star": "4.32/5",
+            "addr": "서울 관악구 관악로16길 13\n2서울대입구역 1번 출구에서95m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "삼겹갈비 (170g)",
+                "삼겹살",
+                "한우차돌박이",
+                "눈꽃살"
+            ],
+            "price": [
+                "15,500원",
+                "13,500원",
+                "19,000원",
+                "19,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAxMjBfMjEx%2FMDAxNDg0ODk5MTYyMTM4.mvJLa_NKB7eF6sERHFvJXh3pgj_e1RX6DLA5TpHEEbUg.RUPe6gsvMoGbUK9h6_AN1OEgQKQzGoC_8fvxtlcRIPog.JPEG.soonjo0413%2F%25B4%25EB%25C7%25A5.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/36193112?c=14130521.3931004,4506284.4106437,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "탐나종합어시장 서울대입구역점": {
+            "name": "탐나종합어시장 서울대입구역점",
+            "tel": "02-876-0330",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1808\n2서울대입구역 4번 출구에서116m",
+            "foodtype": "생선회",
+            "menu": [
+                "광우세트(광어+우럭)(중)",
+                "광우세트(광어+우럭)(대)",
+                "우연이(우럭+연어)(중)",
+                "우연이(우럭+연어)(대)"
+            ],
+            "price": [
+                "33,000원",
+                "43,000원",
+                "35,000원",
+                "45,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200225_141%2F1582595989687zSe4u_JPEG%2FAmyB4F8NJV8CcJiZq2yc2BoC.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1226561479?c=14130521.3931004,4506284.4106437,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "농장사람들 서울대입구역점": {
+            "name": "농장사람들 서울대입구역점",
+            "tel": "0507-1419-5678",
+            "star": "4.34/5",
+            "addr": "서울 관악구 봉천로 462 농장사람들 서울대입구역점\n2서울대입구역 5번 출구에서174m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "소갈비 300g",
+                "꽃등심150g",
+                "안심150g",
+                "채끝살150g"
+            ],
+            "price": [
+                "16,000원",
+                "28,000원",
+                "36,000원",
+                "31,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211126_226%2F1637913614033hCFeM_JPEG%2F20211126_165916_HDR.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1701343979?c=14130521.3931004,4506284.4106437,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "청주댁": {
+            "name": "청주댁",
+            "tel": "070-7537-1878",
+            "star": "4.67/5",
+            "addr": "서울 관악구 관악로14길 84 1층\n2서울대입구역 1번 출구에서545m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210415_174%2F1618420759277w4ciK_JPEG%2FCTbw7qPS1u5NFHvOFifBGk_t.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1760792508?c=14130934.5999183,4505961.8454913,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "덕이네": {
+            "name": "덕이네",
+            "tel": "070-4799-3803",
+            "star": "4.29/5",
+            "addr": "서울 관악구 행운1길 31\n2서울대입구역 8번 출구에서458m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161220_117%2F1482212107620JELaH_JPEG%2F177170546527.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/572252655?c=14130934.5999183,4505961.8454913,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "신주닭발": {
+            "name": "신주닭발",
+            "tel": "02-878-2021",
+            "star": "4.49/5",
+            "addr": "서울 관악구 남부순환로230길 25\n2서울대입구역 1번 출구에서345m",
+            "foodtype": "닭발",
+            "menu": [
+                "신주닭발",
+                "무뼈닭발",
+                "닭볶음탕",
+                "똥집팝콘(튀김)"
+            ],
+            "price": [
+                "18,000원",
+                "18,000원",
+                "28,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20220711_137%2F1657520018746A8Sg1_JPEG%2F97ab3f0d-00e0-11ed-8bba-505dac8c381b_03.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1842417411?c=14130934.5999183,4505961.8454913,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "일점사": {
+            "name": "일점사",
+            "tel": "02-878-6504",
+            "star": "4.31/5",
+            "addr": "서울 관악구 관악로16길 25 1층\n2서울대입구역 1번 출구에서170m",
+            "foodtype": "일점사",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180118_261%2F1516265900093qpk5s_JPEG%2FBNdsnyB0OWE23weHnJtqMT9z.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1738097052?c=14130934.5999183,4505961.8454913,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "남기남부대찌개 서울대입구점": {
+            "name": "남기남부대찌개 서울대입구점",
+            "tel": "02-872-5800",
+            "star": "4.34/5",
+            "addr": "서울 관악구 남부순환로220길 49 2층\n2서울대입구역 3번 출구에서209m",
+            "foodtype": "찌개,전골",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200503_111%2F1588501608914QoFp9_JPEG%2FrqNFe2o7IyNltvS9zXA0jZYO.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1492996449?c=14130375.1081576,4506092.7500567,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "황토방": {
+            "name": "황토방",
+            "tel": "0507-1415-3214",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로12길 6\n2서울대입구역 2번 출구에서327m",
+            "foodtype": "족발,보쌈",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160802_282%2Fxxkongbak2_1470133733491I7rDQ_JPEG%2F9e763028-c9fd-47b7-a218-fa5d0c716489.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/31936395?c=14130375.1081576,4506092.7500567,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "정가네 낙지마당": {
+            "name": "정가네 낙지마당",
+            "tel": "02-877-9459",
+            "star": "4.48/5",
+            "addr": "서울 관악구 관악로 138 정가네 낙지마당\n2서울대입구역 2번 출구에서378m",
+            "foodtype": "낙지요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220417_81%2F1650195653676PpOXr_JPEG%2F20220417_170925.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20059579?c=14130443.3692693,4505880.0379816,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "푸른목장": {
+            "name": "푸른목장",
+            "tel": "02-872-5400",
+            "star": "4.37/5",
+            "addr": "서울 관악구 남부순환로230길 9\n2서울대입구역 1번 출구에서260m",
+            "foodtype": "오리요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220816_79%2F1660651784610FK4Iy_JPEG%2F20181120_183416.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18181987?c=14130757.4683445,4506183.5650074,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "곱창의전설 서울대입구역점": {
+            "name": "곱창의전설 서울대입구역점",
+            "tel": "0507-1302-2274",
+            "star": "4.27/5",
+            "addr": "서울 관악구 관악로 195 관악위버폴리스 116호\n2서울대입구역 6번 출구에서161m",
+            "foodtype": "곱창,막창,양",
+            "menu": [
+                "알곱창",
+                "야채곱창",
+                "순대곱창",
+                "알곱창+야채곱창"
+            ],
+            "price": [
+                "12,800원",
+                "12,800원",
+                "12,800원",
+                "25,600원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190123_254%2F15482230772660gU8y_JPEG%2F4rOqSh6MhmfZ8VS4eku6HdLr.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37017898?c=14130757.4683445,4506183.5650074,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "어메칼국수": {
+            "name": "어메칼국수",
+            "tel": "02-874-9878",
+            "star": "4.57/5",
+            "addr": "서울 관악구 관악로 154-6\n2서울대입구역 2번 출구에서225m",
+            "foodtype": "칼국수,만두",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_172%2F14409990810631WamS_JPEG%2F106576424953658_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13159146?c=14130757.4683445,4506183.5650074,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "제주은갈치": {
+            "name": "제주은갈치",
+            "tel": "02-884-7010",
+            "star": "4.25/5",
+            "addr": "서울 관악구 관악로 139\n2서울대입구역 3번 출구에서365m",
+            "foodtype": "해물,생선요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180718_44%2F1531880327463IzXRk_JPEG%2FtLfp8GaBGeRBRgeF4Zh1Xik3.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13015556?c=14130757.4683445,4506183.5650074,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "남도음식전문점": {
+            "name": "남도음식전문점",
+            "tel": "02-884-5458",
+            "star": "4.24/5",
+            "addr": "서울 관악구 관악로28길 7 1층\n2서울대입구역 7번 출구에서538m",
+            "foodtype": "해물,생선요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180308_263%2F1520509308089XXB3C_JPEG%2FHLpaz_SlQ7ix070YQ1J07zcb.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20875675?c=14130757.4683445,4506183.5650074,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "조춘식동갑이네 서울대본점": {
+            "name": "조춘식동갑이네 서울대본점",
+            "tel": "02-877-7199",
+            "star": "4.39/5",
+            "addr": "서울 관악구 봉천로 461\n2서울대입구역 6번 출구에서236m",
+            "foodtype": "해물,생선요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170620_193%2F1497917292974wWagC_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/12955013?c=14130283.7593834,4506586.6307245,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "정박사 정육식당 서울대입구점": {
+            "name": "정박사 정육식당 서울대입구점",
+            "tel": "02-871-3202",
+            "star": "4.27/5",
+            "addr": "서울 관악구 관악로14길 15\n2서울대입구역 2번 출구에서260m",
+            "foodtype": "정육식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200718_93%2F1595076033482FxGA0_JPEG%2F0daHJDtrrxMdvu47CeGoeh0S.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37089820?c=14130525.6455050,4506117.7051525,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "곱분이곱창 샤로수길점": {
+            "name": "곱분이곱창 샤로수길점",
+            "tel": "0507-1435-8960",
+            "star": "4.47/5",
+            "addr": "서울 관악구 관악로14길 82\n2서울대입구역 1번 출구에서527m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200606_87%2F1591398110932bnl6p_JPEG%2F2L65YpwUpWYwxqfT94O4kleA.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1250777947?c=14130924.8260670,4505965.5066447,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "산야로콩나물국밥": {
+            "name": "산야로콩나물국밥",
+            "tel": "02-889-3390",
+            "star": "4.37/5",
+            "addr": "서울 관악구 관악로 111\n2서울대입구역 3번 출구에서663m",
+            "foodtype": "국밥",
+            "menu": [
+                "콩나물국밥",
+                "고추장불고기",
+                "떡만두국",
+                "서리태 메밀콩국수"
+            ],
+            "price": [
+                "9,000원",
+                "10,000원",
+                "8,000원",
+                "11,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170507_264%2F1494141247117GVAXH_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11727170?c=14130422.5636565,4505528.8705076,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "부자국수 봉천점": {
+            "name": "부자국수 봉천점",
+            "tel": "0507-1419-1020",
+            "star": "4.63/5",
+            "addr": "서울 관악구 남부순환로 1869\n2서울대입구역 8번 출구에서435m",
+            "foodtype": "국수",
+            "menu": [
+                "비빔국수",
+                "동치미국수",
+                "잔치국수",
+                "왕만두"
+            ],
+            "price": [
+                "4,000원",
+                "4,000원",
+                "4,000원",
+                "4,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F%2F20170318_261%2F1489803829018sjqgK_JPEG%2F20161010_102838.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37929677?c=14130989.4358995,4506182.3726528,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "종로빈대떡": {
+            "name": "종로빈대떡",
+            "tel": "0507-1316-1510",
+            "star": "4.19/5",
+            "addr": "서울 관악구 관악로15길 24\n2서울대입구역 3번 출구에서199m",
+            "foodtype": "전,빈대떡",
+            "menu": [
+                "녹두빈대떡(고기,해물)",
+                "모듬전",
+                "해물파전",
+                "녹두굴빈대떡"
+            ],
+            "price": [
+                "13,000원",
+                "20,000원",
+                "16,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190728_59%2F15643011859802maHo_JPEG%2F-k8RiDWesgPrb9NWNTo97epH.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/914045144?c=14130259.6253178,4506278.7574268,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "해태식당": {
+            "name": "해태식당",
+            "tel": "02-885-5398",
+            "star": "4.29/5",
+            "addr": "서울 관악구 청룡1길 33\n2서울대입구역 4번 출구에서412m",
+            "foodtype": "낙지요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_72%2F14410290110821ufqW_JPEG%2F156155408322697_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11721688?c=14130259.6253178,4506278.7574268,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "든든한끼": {
+            "name": "든든한끼",
+            "tel": "0507-1313-5218",
+            "star": "4.36/5",
+            "addr": "서울 관악구 중앙길 17 든든한끼\n2서울대입구역 6번 출구에서336m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181216_177%2F1544958586979QxGXq_JPEG%2F0ztrmd9v9CrUWWOMrXGEN3nJ.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1935470269?c=14130536.7440582,4506780.4186460,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "원초족본능": {
+            "name": "원초족본능",
+            "tel": "02-875-7660",
+            "star": "4.67/5",
+            "addr": "서울 관악구 관악로12길 3-12 1~2층\n2서울대입구역 2번 출구에서259m",
+            "foodtype": "족발,보쌈",
+            "menu": [
+                "[[국내산1등급]] 원초족발(大)",
+                "[[국내산1등급]] 원초족발(中)",
+                "[[먹을수록 매운]] 직화불족발(大)",
+                "[[먹을수록 매운]] 직화불족발(中)"
+            ],
+            "price": [
+                "38,000원",
+                "35,000원",
+                "40,000원",
+                "37,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151016_189%2F1444954085364uDc3b_JPEG%2FSUBMIT_1444954082308_37174840.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37174840?c=14130536.7440582,4506780.4186460,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "종로계림닭도리탕원조 서울대입구점": {
+            "name": "종로계림닭도리탕원조 서울대입구점",
+            "tel": "02-877-3063",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로 152 2층\n2서울대입구역 2번 출구에서240m",
+            "foodtype": "닭볶음탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190514_124%2F1557814564057h2jsp_JPEG%2FlnBGlNoI9PCNTi8DtMyS3XxZ.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1597818008?c=14130536.7440582,4506780.4186460,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "신두꺼비식당": {
+            "name": "신두꺼비식당",
+            "tel": "0507-1321-7088",
+            "star": "4.54/5",
+            "addr": "서울 관악구 중앙길 7 1층\n2서울대입구역 6번 출구에서280m",
+            "foodtype": "육류,고기요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180623_191%2F1529726178897X4hLL_JPEG%2Ff_Nrc9XxUaBRHhjkcXuigE5j.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1277349676?c=14130580.7375210,4506747.0448952,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "지중해참치": {
+            "name": "지중해참치",
+            "tel": "02-883-3733",
+            "star": "4.42/5",
+            "addr": "서울 관악구 관악로 185 우남빌딩\n2서울대입구역 6번 출구에서11m",
+            "foodtype": "생선회",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190629_105%2F1561786519954r0tJr_JPEG%2Fv6GnSTyr0XR955pIP2ZXl9vR.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13015978?c=14130580.7375210,4506747.0448952,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "미추원주추어탕서울본점": {
+            "name": "미추원주추어탕서울본점",
+            "tel": "02-887-6226",
+            "star": "4.34/5",
+            "addr": "서울 관악구 관악로 108\n2서울대입구역 2번 출구에서673m",
+            "foodtype": "추어탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191013_266%2F1570955275741Fq7Bj_JPEG%2Fjmorew6U0LfoclCLpYkpuRAt.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18699296?c=14130580.7375210,4506747.0448952,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "홍미닭발": {
+            "name": "홍미닭발",
+            "tel": "02-3285-0909",
+            "star": "4.25/5",
+            "addr": "서울 관악구 남부순환로 1848-7\n2서울대입구역 1번 출구에서242m",
+            "foodtype": "닭발",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200103_26%2F1578024073471jrzQs_JPEG%2FVFC6VtF840updMjhstvePdqp.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/36473223?c=14130580.7375210,4506747.0448952,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "낙지마을 본점": {
+            "name": "낙지마을 본점",
+            "tel": "02-888-9933",
+            "star": "4.1/5",
+            "addr": "서울 관악구 봉천로 469-1\n2서울대입구역 6번 출구에서146m",
+            "foodtype": "낙지요리",
+            "menu": [
+                "산낙지 박속연포탕",
+                "낙삼돌판 점심특선",
+                "낙지덮밥",
+                "산낙지철판"
+            ],
+            "price": [
+                "46,000~66,000",
+                "15,000원",
+                "13,000원",
+                "23,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_266%2F1441067163387MxQnS_JPEG%2FSUBMIT_1375078489481_20823912.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/20823912?c=14130580.7375210,4506747.0448952,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안집": {
+            "name": "안집",
+            "tel": "02-884-3505",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로 128 삼원빌딩\n2서울대입구역 2번 출구에서471m",
+            "foodtype": "한정식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200613_75%2F1592009776965pXVLG_JPEG%2F8690KT94knmkOADJ2gd-Fn_m.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/18145317?c=14130450.2599458,4505762.3075472,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "미가면옥": {
+            "name": "미가면옥",
+            "tel": "02-883-5118",
+            "star": "4.27/5",
+            "addr": "서울 관악구 관악로 246\n2서울대입구역 7번 출구에서618m",
+            "foodtype": "냉면",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190710_211%2F1562741492285cNzEw_JPEG%2Fn8AeWaollGNlpeG-fYyM4qtg.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1382085376?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "굽다려": {
+            "name": "굽다려",
+            "tel": "02-877-1708",
+            "star": "4.86/5",
+            "addr": "서울 관악구 남부순환로 1811 신원 메트로빌 114호\n2서울대입구역 5번 출구에서83m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220701_175%2F1656656992491KxB4V_JPEG%2Fimage.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1978776733?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "본죽&비빔밥cafe 관악구청점": {
+            "name": "본죽&비빔밥cafe 관악구청점",
+            "tel": "02-874-6288",
+            "star": "4.13/5",
+            "addr": "서울 관악구 관악로 144 우남네오폴리스(서울대입구역 2번출구)\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "죽",
+            "menu": [
+                "해물 약고추장비빔밥",
+                "장똑똑이비빔밥",
+                "능이삼계죽",
+                "깍둑소고기비빔밥"
+            ],
+            "price": [
+                "10,000원",
+                "10,000원",
+                "15,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220628_291%2F1656371086356apAAw_JPEG%2F2206_%25BB%25EF%25BB%25F6%25C0%25E5_%25BD%25BA%25B8%25B6%25C6%25AE%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1721217784?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "동아전": {
+            "name": "동아전",
+            "tel": "0507-1328-3741",
+            "star": [],
+            "addr": "서울 관악구 관악로12길 77 지하1층(봉천동)\n2서울대입구역 1번 출구에서630m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220705_216%2F1657013224630sCGrg_JPEG%2F%25C3%25CA%25C4%25DA.%25B9%25CE%25C6%25AE%25C4%25A1%25C5%25B2.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1679077929?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "왕세숫대야냉면왕돈까스 서울대점": {
+            "name": "왕세숫대야냉면왕돈까스 서울대점",
+            "tel": "02-877-6209",
+            "star": "4.4/5",
+            "addr": "서울 관악구 쑥고개로 122\n2서울대입구역 3번 출구에서447m",
+            "foodtype": "냉면",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210103_118%2F16096682248516guYu_JPEG%2Fa-qHSo1yXFiFk3OqgVHj3kmi.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/38522332?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한우육회마을 2호점": {
+            "name": "한우육회마을 2호점",
+            "tel": "02-876-5488",
+            "star": "4.67/5",
+            "addr": "서울 관악구 봉천로 520-1 1층\n2서울대입구역 1번 출구에서313m",
+            "foodtype": "육류,고기요리",
+            "menu": [
+                "육회모듬",
+                "육회",
+                "육사시미",
+                "산낙육회"
+            ],
+            "price": [
+                "38,000원",
+                "18,000원",
+                "33,000원",
+                "31,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220813_89%2F1660344777124jnzgM_JPEG%2F%25C7%25D1%25BF%25EC%25C0%25B0%25C8%25B8%25B8%25B6%25C0%25BB2%25C8%25A3%25C1%25A1_%25B9%25E8%25B3%25CA_2880x2304-1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/37755038?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "동대문왕빈대떡": {
+            "name": "동대문왕빈대떡",
+            "tel": "02-875-7774",
+            "star": "4.5/5",
+            "addr": "서울 관악구 봉천로 447 동대문왕빈대떡\n2서울대입구역 5번 출구에서366m",
+            "foodtype": "전,빈대떡",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_14%2F1441009207896EgMcQ_JPEG%2F146257554524575_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/31794227?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "원할머니보쌈족발 봉천점": {
+            "name": "원할머니보쌈족발 봉천점",
+            "tel": "050-4457-5748",
+            "star": "4.33/5",
+            "addr": "서울 관악구 남부순환로 1855\n2서울대입구역 8번 출구에서313m",
+            "foodtype": "족발,보쌈",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220629_288%2F1656468134092Gfheo_JPEG%2F%25BF%25F8%25BD%25D3_%25BD%25E6%25B3%25D7%25C0%25CF_%25B8%25DE%25C0%25CE_Rev2.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/12929620?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "나눔국수국수 서울대본점": {
+            "name": "나눔국수국수 서울대본점",
+            "tel": "0507-1480-9394",
+            "star": "4.47/5",
+            "addr": "서울 관악구 쑥고개로 133\n2서울대입구역 3번 출구에서272m",
+            "foodtype": "국수",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201217_194%2F1608171012633t3BMR_JPEG%2FAMseJ52CWK2bJ7DdEKKFQ9In.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/33284165?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "북촌손만두 서울대입구역점": {
+            "name": "북촌손만두 서울대입구역점",
+            "tel": "02-882-7876",
+            "star": "4.19/5",
+            "addr": "서울 관악구 관악로 174 1층\n2서울대입구역 2번 출구에서11m",
+            "foodtype": "칼국수,만두",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220414_177%2F1649911047434S7cjV_JPEG%2F2020_%25BA%25CF%25C3%25CC%25BC%25D5%25B8%25B8%25B5%25CE_logo_b-01.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/36803808?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "감나무집": {
+            "name": "감나무집",
+            "tel": "0507-1489-0081",
+            "star": "4.29/5",
+            "addr": "서울 관악구 관악로11길 20\n2서울대입구역 3번 출구에서457m",
+            "foodtype": "한정식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220417_87%2F1650191813860y8Gfx_JPEG%2F20220417_172551.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/13006685?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "샤로수 광안리": {
+            "name": "샤로수 광안리",
+            "tel": "010-5231-9161",
+            "star": "4/5",
+            "addr": "서울 관악구 관악로14길 63 1층\n2서울대입구역 1번 출구에서431m",
+            "foodtype": "생선회",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220408_228%2F1649403741019zJwQ3_JPEG%2FB612_20220406_213618_776.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1118714908?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "돈냉삼식당": {
+            "name": "돈냉삼식당",
+            "tel": "0507-1366-1750",
+            "star": "4.64/5",
+            "addr": "서울 관악구 관악로 134 1층\n2서울대입구역 2번 출구에서412m",
+            "foodtype": "육류,고기요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210625_150%2F1624598697288gdQdS_JPEG%2FNu2tV9D1jF8PiOImxHzFliDX.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1610247359?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "명태어장 서울대점": {
+            "name": "명태어장 서울대점",
+            "tel": "02-871-0090",
+            "star": "4.32/5",
+            "addr": "서울 관악구 남부순환로 1852\n2서울대입구역 1번 출구에서245m",
+            "foodtype": "해물,생선요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200629_146%2F1593402038779QJ4mN_JPEG%2FPu3wCau_dvx3Y9jDcXDYOXu0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/38628002?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "늘콩 서울대점": {
+            "name": "늘콩 서울대점",
+            "tel": "02-876-1121",
+            "star": [],
+            "addr": "서울 관악구 관악로 199 1층\n2서울대입구역 6번 출구에서180m",
+            "foodtype": "한식",
+            "menu": [
+                "차돌순두부",
+                "해물순두부",
+                "떡갈비식사",
+                "얼큰김치콩나물국밥"
+            ],
+            "price": [
+                "7,000원",
+                "7,000원",
+                "7,000원",
+                "6,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211114_288%2F1636888983939dxHW7_JPEG%2F20211114_202030.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1591908912?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "밥한끼": {
+            "name": "밥한끼",
+            "tel": "0507-1331-0981",
+            "star": "4.56/5",
+            "addr": "서울 관악구 관악로12길 12 B01호 밥한끼\n2서울대입구역 2번 출구에서347m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191216_260%2F1576478005611ijtK8_JPEG%2FfM0lqUb0r3QGuXe_bJWn02_R.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1816360299?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "본죽 서울대입구역점": {
+            "name": "본죽 서울대입구역점",
+            "tel": "02-889-6288",
+            "star": "4.37/5",
+            "addr": "서울 관악구 관악로 237 2호선 서울대입구역 6번 출구\n2서울대입구역 6번 출구에서555m",
+            "foodtype": "죽",
+            "menu": [
+                "트러플전복죽",
+                "단호박죽",
+                "쇠고기야채죽",
+                "능이삼계죽"
+            ],
+            "price": [
+                "16,000원",
+                "9,500원",
+                "10,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210910_267%2F1631251422069sVCzx_JPEG%2Ffj-rT0LKvOcH2RQHzvUciHrd.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1062696159?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "진지방순대국 서울대점": {
+            "name": "진지방순대국 서울대점",
+            "tel": "02-6053-3088",
+            "star": [],
+            "addr": "서울 관악구 관악로 154-5 1층\n2서울대입구역 2번 출구에서259m",
+            "foodtype": "순대,순댓국",
+            "menu": [
+                "순대국",
+                "수제등심돈가스",
+                "삼채순대국",
+                "순대국 정식"
+            ],
+            "price": [
+                "7,000원",
+                "9,000원",
+                "8,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220630_166%2F1656580079007aWlzn_JPEG%2F20220630_160143.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1501244081?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "샤로수 흑돈": {
+            "name": "샤로수 흑돈",
+            "tel": "02-887-0124",
+            "star": "4.68/5",
+            "addr": "서울 관악구 남부순환로234길 22\n2서울대입구역 1번 출구에서487m",
+            "foodtype": "돼지고기구이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190527_32%2F1558932226317Pmvet_JPEG%2FaVAXeW1fa10YHoqSuN_amJk6.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1403663684?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "손손": {
+            "name": "손손",
+            "tel": "0507-1431-6363",
+            "star": "4.69/5",
+            "addr": "서울 관악구 중앙길 19 1층\n2서울대입구역 6번 출구에서339m",
+            "foodtype": "백반,가정식",
+            "menu": [
+                "식사",
+                "우동",
+                "냉우동",
+                "비빔우동"
+            ],
+            "price": [
+                "6,000원",
+                "6,000원",
+                "6,000원",
+                "6,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220712_294%2F1657607054837OG5PH_JPEG%2F20220712_152211.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1486924084?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "풍천장어": {
+            "name": "풍천장어",
+            "tel": "02-873-0646",
+            "star": "4.53/5",
+            "addr": "서울 관악구 중앙2길 8\n2서울대입구역 6번 출구에서333m",
+            "foodtype": "장어,먹장어요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191224_18%2F1577193252680jD00i_JPEG%2F2AVMLoxlaGdoWDITuRZF5dOk.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1256941489?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "춘원쌈밥": {
+            "name": "춘원쌈밥",
+            "tel": "0507-1415-5013",
+            "star": "4.46/5",
+            "addr": "서울 관악구 관악로 212 관악프라자 지하\n2서울대입구역 7번 출구에서284m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190704_91%2F1562240166016GQLot_JPEG%2FcCtoM9loQNHXA6hCdWRC84HM.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/913189557?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "국수가 땡긴다": {
+            "name": "국수가 땡긴다",
+            "tel": "02-887-5513",
+            "star": "4.45/5",
+            "addr": "서울 관악구 은천로 117 1층 국수가 땡긴다\n2서울대입구역 6번 출구에서944m",
+            "foodtype": "국수",
+            "menu": [
+                "고기비빔국수",
+                "진미채골뱅이무침",
+                "잔치국수",
+                "비빔국수"
+            ],
+            "price": [
+                "8,000원",
+                "18,000원",
+                "5,000원",
+                "6,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220812_265%2F1660270776858c3GpT_JPEG%2F20220510_150348.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1774026400?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "옛날육개장": {
+            "name": "옛날육개장",
+            "tel": "0507-1317-0233",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로 154-6 1층\n2서울대입구역 2번 출구에서225m",
+            "foodtype": "백반,가정식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200612_287%2F1591956790748eVDQ1_JPEG%2F-5tkx-nOzLzsOLY_eeN7ClLp.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1672164757?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "해도수산": {
+            "name": "해도수산",
+            "tel": "0507-1430-2012",
+            "star": "4.4/5",
+            "addr": "서울 관악구 남부순환로 1855 1층\n2서울대입구역 8번 출구에서313m",
+            "foodtype": "생선회",
+            "menu": [
+                "추천모둠회",
+                "도미, 농어",
+                "광어, 우럭 중",
+                "연어회 대"
+            ],
+            "price": [
+                "45,000원",
+                "39,000원",
+                "30,000원",
+                "35,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171124_182%2F1511517528372i0Hq3_JPEG%2FmkJj9FQZPZ0ymOq8aBTep2ML.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1488111701?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "원조정가네매운갈비찜": {
+            "name": "원조정가네매운갈비찜",
+            "tel": "02-883-0250",
+            "star": "4.42/5",
+            "addr": "서울 관악구 남부순환로216길 8 (봉천동) 1층101호\n2서울대입구역 4번 출구에서308m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220221_17%2F1645369977045sFYi3_JPEG%2F20220220_123457.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/1036577547?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "가마구이찌": {
+            "name": "가마구이찌",
+            "tel": "02-883-4339",
+            "star": "4.27/5",
+            "addr": "서울 관악구 봉천로 457 삼신빌딩\n2서울대입구역 5번 출구에서268m",
+            "foodtype": "한식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220714_205%2F1657803245829nsIzY_JPEG%2FKakaoTalk_20220713_212230340_01.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/36653001?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "장수집": {
+            "name": "장수집",
+            "tel": "02-882-1490",
+            "star": "4.3/5",
+            "addr": "서울 관악구 봉천로 486\n2서울대입구역 8번 출구에서90m",
+            "foodtype": "사철,영양탕",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180808_25%2F1533711912172Pn05A_JPEG%2FRLVkRO2sSEDKuQ6Vk5DH-6rO.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/11669753?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고흥집순대곱창": {
+            "name": "고흥집순대곱창",
+            "tel": "02-877-7663",
+            "star": "4.41/5",
+            "addr": "서울 관악구 중앙길 7\n2서울대입구역 6번 출구에서280m",
+            "foodtype": "곱창,막창,양",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190121_184%2F1548076620591CPk8r_JPEG%2F2mrMfGYbkVSzoR22yTEQ3VNf.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%ED%95%9C%EC%8B%9D/place/38522325?c=14126349.9178219,4505465.4554185,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

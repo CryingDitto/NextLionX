@@ -1,0 +1,84 @@
+{
+    "서울대입구 베트남 매장정보": [
+        {
+            "name": "분미",
+            "tel": "02-875-9196",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 65\n2서울대입구역 1번 출구에서441m",
+            "foodtype": "베트남음식",
+            "menu": [
+                "쌀국수",
+                "비빔쌀국수",
+                "쌀국수",
+                "비빔쌀국수"
+            ],
+            "price": [
+                "9,500원",
+                "13,000원",
+                "9,500원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220317_26%2F1647486127698gpbVH_JPEG%2Fimage.jpg"
+        },
+        {
+            "name": "포몬스 서울대점",
+            "tel": "02-884-5900",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1852\n2서울대입구역 1번 출구에서245m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_57%2F14410400556332alep_JPEG%2F12930038_0.jpg"
+        },
+        {
+            "name": "분짜하노이 서울대입구점",
+            "tel": "0507-1428-4102",
+            "star": "4.45/5",
+            "addr": "서울 관악구 관악로 154 지하1층\n2서울대입구역 2번 출구에서210m",
+            "foodtype": "베트남음식",
+            "menu": [
+                "매운곱창쌀국수",
+                "반미",
+                "하노이 직화분짜",
+                "하노이 쌀국수(S)"
+            ],
+            "price": [
+                "13,000원",
+                "7,500원",
+                "15,000원",
+                "10,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181227_116%2F1545843776629VIX9e_PNG%2FK8ZPYZT68361EPpY5_FARQBy.png"
+        },
+        {
+            "name": "하노이별 서울대입구역점",
+            "tel": "0507-1355-7470",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로12길 3-14 1층\n2서울대입구역 2번 출구에서250m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190728_111%2F1564320461983aSCVa_JPEG%2F7TsMOfigKyZquCvltsANg06s.jpg"
+        },
+        {
+            "name": "호아빈 서울대입구역점",
+            "tel": "02-888-1131",
+            "star": "4.26/5",
+            "addr": "서울 관악구 남부순환로 1795\n2서울대입구역 5번 출구에서246m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200423_187%2F1587600920578eQJKN_JPEG%2F-maE5kxCOaDV65EVoKeJp1_s.jpg"
+        },
+        {
+            "name": "젠",
+            "tel": "02-4137-6397",
+            "star": [],
+            "addr": "서울 관악구 청림6길 16\n2서울대입구역 7번 출구에서906m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1146560896%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660824938027%26md%3DTsl5PCcNNutX6cwGWB4p1vW7%252FhI%253D"
+        }
+    ]
+}

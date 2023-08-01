@@ -1,0 +1,64 @@
+{
+    "안암 영화": {
+        "씨넥스DVD영화관": {
+            "name": "씨넥스DVD영화관",
+            "tel": "070-4191-7758",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 14 3층\n6안암역 3번 출구에서86m",
+            "foodtype": "DVD방",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171022_137%2F1508676015549sjcWh_JPEG%2F5VvumONu_9FU0tp5XHO2s1t6.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%98%81%ED%99%94/place/35251690?c=14137097.7589983,4521057.3695326,13,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "서울예술치유허브공감시네마": {
+            "name": "서울예술치유허브공감시네마",
+            "tel": "070-4191-7758",
+            "star": [],
+            "addr": "서울 성북구 회기로3길 17\n6고려대역 3번 출구에서248m",
+            "foodtype": "영화관",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1406411041%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661240197455%26md%3D3zfHbzVvZJ5Sm40RhiJn3omFw3o%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%98%81%ED%99%94/place/1406411041?c=14137979.4538931,4521978.1910850,13,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "더 플랫폼": {
+            "name": "더 플랫폼",
+            "tel": "070-4191-7758",
+            "star": [],
+            "addr": "서울 동대문구 고산자로56길 48-3\n6고려대역 4번 출구에서426m",
+            "foodtype": "영화제작업",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1720608618%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661240271364%26md%3DIPznWyCSUQULs6pYu34mepyNSwA%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%98%81%ED%99%94/place/1720608618?c=14138178.2371079,4521643.1446547,13,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "서울예술치유허브맺음": {
+            "name": "서울예술치유허브맺음",
+            "tel": "070-4191-7758",
+            "star": [],
+            "addr": "서울 성북구 회기로3길 17\n6고려대역 3번 출구에서248m",
+            "foodtype": "부속시설",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1532170201%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661240339809%26md%3D9My8LvARDCR21j7qtBVUI9QyBTI%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%98%81%ED%99%94/place/1532170201?c=14137979.4538931,4521978.1910850,13,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "투유드림": {
+            "name": "투유드림",
+            "tel": "02-3789-8907",
+            "star": [],
+            "addr": "서울 성북구 종암로13길 16-10\n6고려대역 2번 출구에서844m",
+            "foodtype": "만화기획,제작",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F13471542%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661240371626%26md%3DMlXWZucMiBpch9i4TrVC9e8%252F3ps%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%98%81%ED%99%94/place/13471542?c=14137660.1561977,4522626.7357137,13,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        }
+    }
+}

@@ -22,7 +22,7 @@ def new(request):
 
 
 
-
+# views.py에서 전달받음
 def category(request, article_category):
     samecategory = Article.objects.filter(category=article_category)
     return render(request, 'category.html',

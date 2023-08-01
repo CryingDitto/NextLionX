@@ -1,0 +1,1854 @@
+{
+    "안암 중식 매장정보": [
+        {
+            "name": "용초수",
+            "tel": "02-922-7991",
+            "star": "4.32/5",
+            "addr": "서울 성북구 인촌로27길 20\n6안암역 2번 출구에서141m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_181%2F1456377845990Q22Qx_JPEG%2F176175545424908_0.jpg"
+        },
+        {
+            "name": "더씨",
+            "tel": "02-928-1259",
+            "star": "4.29/5",
+            "addr": "서울 성북구 개운사길 8 2층\n6안암역 2번 출구에서52m",
+            "foodtype": "중식당",
+            "menu": [
+                "탕수육(소)",
+                "새콤달콤 깐풍기(소)",
+                "새콤달콤 깐풍기(대)",
+                "깐쇼새우(8마리(소))"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "42,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170911_9%2F15051188591589sKtj_JPEG%2FSALiY74OMFessLnvFgTeOUL3.jpg"
+        },
+        {
+            "name": "수저가",
+            "tel": "0507-1397-6878",
+            "star": "4.59/5",
+            "addr": "서울 성북구 안암로 89-3 1층\n6안암역 3번 출구에서283m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_183%2F1616509455491nPeXC_JPEG%2FvOWhZd-0oxG4RPvjGBhCqiN9.jpg"
+        },
+        {
+            "name": "중경식객 고려대점",
+            "tel": "02-929-7789",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로24길 36 2층\n6안암역 3번 출구에서204m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_12%2F159175114359099XJk_JPEG%2FdW2CFRmNBMfafF2E0pX4klAK.jpg"
+        },
+        {
+            "name": "사랑마라탕",
+            "tel": "010-2467-9827",
+            "star": "4.1/5",
+            "addr": "서울 성북구 개운사길 21-3 101호\n6안암역 1번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171201_99%2F15121165488008QvMA_JPEG%2FKjA22o_Poa84PvqI-R38vGui.jpg"
+        },
+        {
+            "name": "미각 고대본점",
+            "tel": "02-927-8858",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_271%2F15477299479591unMa_JPEG%2Fz7jXCBrQhmbbAZ1e53oueVYc.jpg"
+        },
+        {
+            "name": "홍콩반점0410 고대안암점",
+            "tel": "02-6084-8864",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 6 2층\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [
+                "치킨 반반 탕슉",
+                "식사1인+탕수육",
+                "식사2인 + 탕수육",
+                "쟁반짜장2인+탕수육"
+            ],
+            "price": [
+                "16,000원",
+                "20,000원",
+                "26,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180403_288%2F1522751067539KtHpK_PNG%2FTimENC9Zp9xN1uSM1_Tr-2TR.png"
+        },
+        {
+            "name": "북경양꼬치",
+            "tel": "02-953-5880",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24길 3-36\n6안암역 3번 출구에서63m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_48%2F1441037851986s1qg9_JPEG%2F126576587558914_0.jpg"
+        },
+        {
+            "name": "니뽕내뽕 고려대점",
+            "tel": "070-7722-2848",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "중식당",
+            "menu": [
+                "탄산세트",
+                "차뽕",
+                "크뽕",
+                "로뽕"
+            ],
+            "price": [
+                "27,900원",
+                "8,500원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220418_277%2F1650257346973R0sxr_JPEG%2Fcommon.jpeg"
+        },
+        {
+            "name": "넘버85",
+            "tel": "02-929-7050",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170106_15%2F14836934361460WjSJ_JPEG%2FuserRegistration_609e7a38716940c296e25b619cb003e1_image.jpg"
+        },
+        {
+            "name": "차이니웍 고대안암점",
+            "tel": "02-923-1997",
+            "star": "4.41/5",
+            "addr": "서울 성북구 안암로 73-5\n6안암역 4번 출구에서368m",
+            "foodtype": "중식당",
+            "menu": [
+                "차돌해물짬뽕",
+                "국내산등심탕수육(大)",
+                "국내산등심탕수육(小)",
+                "갓볶음밥"
+            ],
+            "price": [
+                "12,000원",
+                "28,000원",
+                "18,000원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220113_196%2F1642061638438JCxkN_JPEG%2F1641372984790.jpg"
+        },
+        {
+            "name": "언니네반점",
+            "tel": "02-953-7878",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 42\n6안암역 2번 출구에서261m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190109_62%2F1547004076447dlEpH_JPEG%2FEjsshRB-VZgCwz5BuWXi4UYH.jpeg.jpg"
+        },
+        {
+            "name": "신룽푸마라탕 고대점",
+            "tel": "02-6404-2014",
+            "star": "4.31/5",
+            "addr": "서울 성북구 고려대로24길 35\n6안암역 3번 출구에서204m",
+            "foodtype": "신룽푸마라탕",
+            "menu": [
+                "마라탕",
+                "마라샹궈",
+                "꿔바로우",
+                "마라반"
+            ],
+            "price": [
+                "6,000원",
+                "12,000원",
+                "10,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220204_266%2F1643975045919gbOHu_JPEG%2F%25DA%25B0%25E3%25E1%25F8%25B8_20220204204221.jpg"
+        },
+        {
+            "name": "고려성",
+            "tel": "02-923-9577",
+            "star": "4.14/5",
+            "addr": "서울 성북구 안암로 69-1 대성빌딩 2층 고려성\n6안암역 3번 출구에서438m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220620_48%2F1655688502743fXdfl_JPEG%2FIMG_20220405_143825_115.jpg"
+        },
+        {
+            "name": "금룡짬뽕",
+            "tel": "02-926-5533",
+            "star": "4.24/5",
+            "addr": "서울 성북구 고려대로24길 5 2층\n6안암역 3번 출구에서58m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_70%2F1548989764889iCV6d_JPEG%2FXtKtK20bI-fdXrI7cE9g0jJU.jpg"
+        },
+        {
+            "name": "하오마라 고려대점",
+            "tel": "010-6524-9979",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로27길 24-2 2층\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_60%2F1578151437936D32Ic_PNG%2FGt8KpTx9XiC8yz7tE3kw9f_l.png"
+        },
+        {
+            "name": "반이학생마라탕마라반",
+            "tel": "010-7258-6661",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 31 성북구고려대로24길31. 2F\n6안암역 3번 출구에서190m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220307_200%2F1646636305991Ovp4k_JPEG%2FF3F0F8AE-31E0-4E3C-9CE8-8F1C94B6861C.jpeg"
+        },
+        {
+            "name": "미각 고대1호점",
+            "tel": "02-929-8858",
+            "star": "4.23/5",
+            "addr": "서울 성북구 고려대로24길 15 정암빌딩\n6안암역 3번 출구에서95m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160725_123%2Fmementosyhk_1469382620087ypS5q_JPEG%2F20160225_204225.jpg"
+        },
+        {
+            "name": "미스터왕시즌2",
+            "tel": "02-922-0406",
+            "star": "4.23/5",
+            "addr": "서울 성북구 안암로9가길 87\n6안암역 4번 출구에서403m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190124_1%2F1548310287424JVety_JPEG%2FDyCvfLhCE8CMc4mz9XPHsEBg.jpeg.jpg"
+        },
+        {
+            "name": "일미옥",
+            "tel": "02-929-7889",
+            "star": "4.44/5",
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_265%2F15489377751600yc2w_JPEG%2FDQo3dK3U6_z683ems6yFQqUr.jpg"
+        },
+        {
+            "name": "칠기도삭면소롱포 고대점",
+            "tel": "02-921-7771",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 13\n6안암역 2번 출구에서102m",
+            "foodtype": "중식당",
+            "menu": [
+                "쿠따이면(裤带面)",
+                "우육 도삭면(牛肉刀削面)",
+                "딴딴면(担担面)",
+                "후르츠소스 샤우쑤러우(小酥肉)(중)"
+            ],
+            "price": [
+                "9,000원",
+                "8,500원",
+                "8,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MTRfMTYy%2FMDAxNjQ5OTAxNTA4ODM5.BOiLrbYg2k97h3l8gQAiWyhJzrpHn7iFu42tvYJlkIcg.1JJ2hs_SF0JWfzo_8NLwbrKD7ZdEXGxdCfNzNAPSfZgg.JPEG.heewon0323%2FACFB363C-D529-4D5B-A227-C87B518C5E30.jpeg"
+        },
+        {
+            "name": "라사천마라탕 안암점",
+            "tel": "070-8648-1413",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 16 1층 6호\n6안암역 3번 출구에서137m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220408_40%2F1649406023432Rk1yH_PNG%2F%25B8%25B6%25B6%25F3%25C5%25C1%25BB%25E7%25C1%25F8.png"
+        },
+        {
+            "name": "쉐프의 생 안심탕수육 고대안암점",
+            "tel": "02-922-3113",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로24길 60\n6안암역 3번 출구에서334m",
+            "foodtype": "중식당",
+            "menu": [
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(소)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(중)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(대)",
+                "[[[소떡소떡무료증정]]]쉐프's 탕수육(소)"
+            ],
+            "price": [
+                "20,000원",
+                "23,000원",
+                "26,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMjdfNjgg%2FMDAxNTc0Nzg1NzE4MTU5.wTASiCUaM1Mfo3rl_6fw_ZpzU991v6_iwiyfCsoVlH8g.DUy5ud-5XAOEl562TJkXmNzN6E8Q6hp4uvdR0i-MR3cg.JPEG.kkj860103%2FIMG_4198.jpg"
+        },
+        {
+            "name": "탕화쿵푸마라탕",
+            "tel": "02-922-3113",
+            "star": "4.35/5",
+            "addr": "서울 성북구 인촌로27길 24-2 2층(안암동5가)\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1407977672%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811219539%26md%3DSgbErlKdHzOmyXnNVxnBz23yvlk%253D"
+        },
+        {
+            "name": "유자미",
+            "tel": "02-922-3113",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_283%2F1591783943970HTsAF_JPEG%2FG9-ET6qKTQp1_wwgUDX7mzKa.jpg"
+        },
+        {
+            "name": "양꼬치 미각 짬뽕 고대본점",
+            "tel": "02-927-8858",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 44 (안암동5가)\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [
+                "꿔보로우(1~2인분)",
+                "꿔보로우(3~4인분)",
+                "동파육",
+                "매운바지락볶음"
+            ],
+            "price": [
+                "8,000원",
+                "16,000원",
+                "15,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1703366125%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811231227%26md%3DeGr%252BfS3BQqhwbE73fWlhZ7xkAAk%253D"
+        },
+        {
+            "name": "쓰촨샤브샤브",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 2 지하1층 (안암동5가)\n6안암역 3번 출구에서60m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1189264488%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811236720%26md%3DFN8PFyLdBUYV%252FyXL5MBXOkebUkY%253D"
+        },
+        {
+            "name": "일층팔오",
+            "tel": "070-7856-8978",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1883346300%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811242251%26md%3DvmRvKGMzgu01VCM1GrGGGatEK2Y%253D"
+        },
+        {
+            "name": "성흠",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1031689354%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811248482%26md%3DKC%252F54GFY1ihM1Rj7ni%252BgB2WbspM%253D"
+        },
+        {
+            "name": "용초수",
+            "tel": "02-922-7991",
+            "star": "4.32/5",
+            "addr": "서울 성북구 인촌로27길 20\n6안암역 2번 출구에서141m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_181%2F1456377845990Q22Qx_JPEG%2F176175545424908_0.jpg"
+        },
+        {
+            "name": "더씨",
+            "tel": "02-928-1259",
+            "star": "4.29/5",
+            "addr": "서울 성북구 개운사길 8 2층\n6안암역 2번 출구에서52m",
+            "foodtype": "중식당",
+            "menu": [
+                "탕수육(소)",
+                "새콤달콤 깐풍기(소)",
+                "새콤달콤 깐풍기(대)",
+                "깐쇼새우(8마리(소))"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "42,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170911_9%2F15051188591589sKtj_JPEG%2FSALiY74OMFessLnvFgTeOUL3.jpg"
+        },
+        {
+            "name": "수저가",
+            "tel": "0507-1397-6878",
+            "star": "4.59/5",
+            "addr": "서울 성북구 안암로 89-3 1층\n6안암역 3번 출구에서283m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_183%2F1616509455491nPeXC_JPEG%2FvOWhZd-0oxG4RPvjGBhCqiN9.jpg"
+        },
+        {
+            "name": "중경식객 고려대점",
+            "tel": "02-929-7789",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로24길 36 2층\n6안암역 3번 출구에서204m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_12%2F159175114359099XJk_JPEG%2FdW2CFRmNBMfafF2E0pX4klAK.jpg"
+        },
+        {
+            "name": "사랑마라탕",
+            "tel": "010-2467-9827",
+            "star": "4.1/5",
+            "addr": "서울 성북구 개운사길 21-3 101호\n6안암역 1번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171201_99%2F15121165488008QvMA_JPEG%2FKjA22o_Poa84PvqI-R38vGui.jpg"
+        },
+        {
+            "name": "미각 고대본점",
+            "tel": "02-927-8858",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_271%2F15477299479591unMa_JPEG%2Fz7jXCBrQhmbbAZ1e53oueVYc.jpg"
+        },
+        {
+            "name": "홍콩반점0410 고대안암점",
+            "tel": "02-6084-8864",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 6 2층\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [
+                "치킨 반반 탕슉",
+                "식사1인+탕수육",
+                "식사2인 + 탕수육",
+                "쟁반짜장2인+탕수육"
+            ],
+            "price": [
+                "16,000원",
+                "20,000원",
+                "26,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180403_288%2F1522751067539KtHpK_PNG%2FTimENC9Zp9xN1uSM1_Tr-2TR.png"
+        },
+        {
+            "name": "북경양꼬치",
+            "tel": "02-953-5880",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24길 3-36\n6안암역 3번 출구에서63m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_48%2F1441037851986s1qg9_JPEG%2F126576587558914_0.jpg"
+        },
+        {
+            "name": "니뽕내뽕 고려대점",
+            "tel": "070-7722-2848",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "중식당",
+            "menu": [
+                "탄산세트",
+                "차뽕",
+                "크뽕",
+                "로뽕"
+            ],
+            "price": [
+                "27,900원",
+                "8,500원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220418_277%2F1650257346973R0sxr_JPEG%2Fcommon.jpeg"
+        },
+        {
+            "name": "넘버85",
+            "tel": "02-929-7050",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170106_15%2F14836934361460WjSJ_JPEG%2FuserRegistration_609e7a38716940c296e25b619cb003e1_image.jpg"
+        },
+        {
+            "name": "차이니웍 고대안암점",
+            "tel": "02-923-1997",
+            "star": "4.41/5",
+            "addr": "서울 성북구 안암로 73-5\n6안암역 4번 출구에서368m",
+            "foodtype": "중식당",
+            "menu": [
+                "차돌해물짬뽕",
+                "국내산등심탕수육(大)",
+                "국내산등심탕수육(小)",
+                "갓볶음밥"
+            ],
+            "price": [
+                "12,000원",
+                "28,000원",
+                "18,000원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220113_196%2F1642061638438JCxkN_JPEG%2F1641372984790.jpg"
+        },
+        {
+            "name": "언니네반점",
+            "tel": "02-953-7878",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 42\n6안암역 2번 출구에서261m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190109_62%2F1547004076447dlEpH_JPEG%2FEjsshRB-VZgCwz5BuWXi4UYH.jpeg.jpg"
+        },
+        {
+            "name": "신룽푸마라탕 고대점",
+            "tel": "02-6404-2014",
+            "star": "4.31/5",
+            "addr": "서울 성북구 고려대로24길 35\n6안암역 3번 출구에서204m",
+            "foodtype": "신룽푸마라탕",
+            "menu": [
+                "마라탕",
+                "마라샹궈",
+                "꿔바로우",
+                "마라반"
+            ],
+            "price": [
+                "6,000원",
+                "12,000원",
+                "10,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220204_266%2F1643975045919gbOHu_JPEG%2F%25DA%25B0%25E3%25E1%25F8%25B8_20220204204221.jpg"
+        },
+        {
+            "name": "고려성",
+            "tel": "02-923-9577",
+            "star": "4.14/5",
+            "addr": "서울 성북구 안암로 69-1 대성빌딩 2층 고려성\n6안암역 3번 출구에서438m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220620_48%2F1655688502743fXdfl_JPEG%2FIMG_20220405_143825_115.jpg"
+        },
+        {
+            "name": "금룡짬뽕",
+            "tel": "02-926-5533",
+            "star": "4.24/5",
+            "addr": "서울 성북구 고려대로24길 5 2층\n6안암역 3번 출구에서58m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_70%2F1548989764889iCV6d_JPEG%2FXtKtK20bI-fdXrI7cE9g0jJU.jpg"
+        },
+        {
+            "name": "하오마라 고려대점",
+            "tel": "010-6524-9979",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로27길 24-2 2층\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_60%2F1578151437936D32Ic_PNG%2FGt8KpTx9XiC8yz7tE3kw9f_l.png"
+        },
+        {
+            "name": "반이학생마라탕마라반",
+            "tel": "010-7258-6661",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 31 성북구고려대로24길31. 2F\n6안암역 3번 출구에서190m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220307_200%2F1646636305991Ovp4k_JPEG%2FF3F0F8AE-31E0-4E3C-9CE8-8F1C94B6861C.jpeg"
+        },
+        {
+            "name": "미각 고대1호점",
+            "tel": "02-929-8858",
+            "star": "4.23/5",
+            "addr": "서울 성북구 고려대로24길 15 정암빌딩\n6안암역 3번 출구에서95m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160725_123%2Fmementosyhk_1469382620087ypS5q_JPEG%2F20160225_204225.jpg"
+        },
+        {
+            "name": "미스터왕시즌2",
+            "tel": "02-922-0406",
+            "star": "4.23/5",
+            "addr": "서울 성북구 안암로9가길 87\n6안암역 4번 출구에서403m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190124_1%2F1548310287424JVety_JPEG%2FDyCvfLhCE8CMc4mz9XPHsEBg.jpeg.jpg"
+        },
+        {
+            "name": "일미옥",
+            "tel": "02-929-7889",
+            "star": "4.44/5",
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_265%2F15489377751600yc2w_JPEG%2FDQo3dK3U6_z683ems6yFQqUr.jpg"
+        },
+        {
+            "name": "칠기도삭면소롱포 고대점",
+            "tel": "02-921-7771",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 13\n6안암역 2번 출구에서102m",
+            "foodtype": "중식당",
+            "menu": [
+                "쿠따이면(裤带面)",
+                "우육 도삭면(牛肉刀削面)",
+                "딴딴면(担担面)",
+                "후르츠소스 샤우쑤러우(小酥肉)(중)"
+            ],
+            "price": [
+                "9,000원",
+                "8,500원",
+                "8,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MTRfMTYy%2FMDAxNjQ5OTAxNTA4ODM5.BOiLrbYg2k97h3l8gQAiWyhJzrpHn7iFu42tvYJlkIcg.1JJ2hs_SF0JWfzo_8NLwbrKD7ZdEXGxdCfNzNAPSfZgg.JPEG.heewon0323%2FACFB363C-D529-4D5B-A227-C87B518C5E30.jpeg"
+        },
+        {
+            "name": "라사천마라탕 안암점",
+            "tel": "070-8648-1413",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 16 1층 6호\n6안암역 3번 출구에서137m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220408_40%2F1649406023432Rk1yH_PNG%2F%25B8%25B6%25B6%25F3%25C5%25C1%25BB%25E7%25C1%25F8.png"
+        },
+        {
+            "name": "쉐프의 생 안심탕수육 고대안암점",
+            "tel": "02-922-3113",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로24길 60\n6안암역 3번 출구에서334m",
+            "foodtype": "중식당",
+            "menu": [
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(소)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(중)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(대)",
+                "[[[소떡소떡무료증정]]]쉐프's 탕수육(소)"
+            ],
+            "price": [
+                "20,000원",
+                "23,000원",
+                "26,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMjdfNjgg%2FMDAxNTc0Nzg1NzE4MTU5.wTASiCUaM1Mfo3rl_6fw_ZpzU991v6_iwiyfCsoVlH8g.DUy5ud-5XAOEl562TJkXmNzN6E8Q6hp4uvdR0i-MR3cg.JPEG.kkj860103%2FIMG_4198.jpg"
+        },
+        {
+            "name": "탕화쿵푸마라탕",
+            "tel": "02-922-3113",
+            "star": "4.35/5",
+            "addr": "서울 성북구 인촌로27길 24-2 2층(안암동5가)\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1407977672%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811510654%26md%3DQj7i2nhMcYSs%252FCbyiZEiFmhwYYw%253D"
+        },
+        {
+            "name": "유자미",
+            "tel": "02-922-3113",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_283%2F1591783943970HTsAF_JPEG%2FG9-ET6qKTQp1_wwgUDX7mzKa.jpg"
+        },
+        {
+            "name": "양꼬치 미각 짬뽕 고대본점",
+            "tel": "02-927-8858",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 44 (안암동5가)\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [
+                "꿔보로우(1~2인분)",
+                "꿔보로우(3~4인분)",
+                "동파육",
+                "매운바지락볶음"
+            ],
+            "price": [
+                "8,000원",
+                "16,000원",
+                "15,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1703366125%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811522434%26md%3D%252BrwUYXIPiYK5H3AXlZEI5hIAx%252Bw%253D"
+        },
+        {
+            "name": "쓰촨샤브샤브",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 2 지하1층 (안암동5가)\n6안암역 3번 출구에서60m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1189264488%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811527905%26md%3Dl4V0qxlhpIhumMYnVPSRLa7sgIU%253D"
+        },
+        {
+            "name": "일층팔오",
+            "tel": "070-7856-8978",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1883346300%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811533328%26md%3D%252FV9TX2AFJ11yJUoNKl927QTqVA4%253D"
+        },
+        {
+            "name": "성흠",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1031689354%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811539517%26md%3DrTOIErC%252BMPP66j5vWdqYW9x8vgU%253D"
+        },
+        {
+            "name": "용초수",
+            "tel": "02-922-7991",
+            "star": "4.32/5",
+            "addr": "서울 성북구 인촌로27길 20\n6안암역 2번 출구에서141m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_181%2F1456377845990Q22Qx_JPEG%2F176175545424908_0.jpg"
+        },
+        {
+            "name": "더씨",
+            "tel": "02-928-1259",
+            "star": "4.29/5",
+            "addr": "서울 성북구 개운사길 8 2층\n6안암역 2번 출구에서52m",
+            "foodtype": "중식당",
+            "menu": [
+                "탕수육(소)",
+                "새콤달콤 깐풍기(소)",
+                "새콤달콤 깐풍기(대)",
+                "깐쇼새우(8마리(소))"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "42,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170911_9%2F15051188591589sKtj_JPEG%2FSALiY74OMFessLnvFgTeOUL3.jpg"
+        },
+        {
+            "name": "수저가",
+            "tel": "0507-1397-6878",
+            "star": "4.59/5",
+            "addr": "서울 성북구 안암로 89-3 1층\n6안암역 3번 출구에서283m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_183%2F1616509455491nPeXC_JPEG%2FvOWhZd-0oxG4RPvjGBhCqiN9.jpg"
+        },
+        {
+            "name": "중경식객 고려대점",
+            "tel": "02-929-7789",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로24길 36 2층\n6안암역 3번 출구에서204m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_12%2F159175114359099XJk_JPEG%2FdW2CFRmNBMfafF2E0pX4klAK.jpg"
+        },
+        {
+            "name": "사랑마라탕",
+            "tel": "010-2467-9827",
+            "star": "4.1/5",
+            "addr": "서울 성북구 개운사길 21-3 101호\n6안암역 1번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171201_99%2F15121165488008QvMA_JPEG%2FKjA22o_Poa84PvqI-R38vGui.jpg"
+        },
+        {
+            "name": "미각 고대본점",
+            "tel": "02-927-8858",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_271%2F15477299479591unMa_JPEG%2Fz7jXCBrQhmbbAZ1e53oueVYc.jpg"
+        },
+        {
+            "name": "홍콩반점0410 고대안암점",
+            "tel": "02-6084-8864",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 6 2층\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [
+                "치킨 반반 탕슉",
+                "식사1인+탕수육",
+                "식사2인 + 탕수육",
+                "쟁반짜장2인+탕수육"
+            ],
+            "price": [
+                "16,000원",
+                "20,000원",
+                "26,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180403_288%2F1522751067539KtHpK_PNG%2FTimENC9Zp9xN1uSM1_Tr-2TR.png"
+        },
+        {
+            "name": "북경양꼬치",
+            "tel": "02-953-5880",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24길 3-36\n6안암역 3번 출구에서63m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_48%2F1441037851986s1qg9_JPEG%2F126576587558914_0.jpg"
+        },
+        {
+            "name": "니뽕내뽕 고려대점",
+            "tel": "070-7722-2848",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "중식당",
+            "menu": [
+                "탄산세트",
+                "차뽕",
+                "크뽕",
+                "로뽕"
+            ],
+            "price": [
+                "27,900원",
+                "8,500원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220418_277%2F1650257346973R0sxr_JPEG%2Fcommon.jpeg"
+        },
+        {
+            "name": "넘버85",
+            "tel": "02-929-7050",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170106_15%2F14836934361460WjSJ_JPEG%2FuserRegistration_609e7a38716940c296e25b619cb003e1_image.jpg"
+        },
+        {
+            "name": "차이니웍 고대안암점",
+            "tel": "02-923-1997",
+            "star": "4.41/5",
+            "addr": "서울 성북구 안암로 73-5\n6안암역 4번 출구에서368m",
+            "foodtype": "중식당",
+            "menu": [
+                "차돌해물짬뽕",
+                "국내산등심탕수육(大)",
+                "국내산등심탕수육(小)",
+                "갓볶음밥"
+            ],
+            "price": [
+                "12,000원",
+                "28,000원",
+                "18,000원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220113_196%2F1642061638438JCxkN_JPEG%2F1641372984790.jpg"
+        },
+        {
+            "name": "언니네반점",
+            "tel": "02-953-7878",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 42\n6안암역 2번 출구에서261m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190109_62%2F1547004076447dlEpH_JPEG%2FEjsshRB-VZgCwz5BuWXi4UYH.jpeg.jpg"
+        },
+        {
+            "name": "신룽푸마라탕 고대점",
+            "tel": "02-6404-2014",
+            "star": "4.31/5",
+            "addr": "서울 성북구 고려대로24길 35\n6안암역 3번 출구에서204m",
+            "foodtype": "신룽푸마라탕",
+            "menu": [
+                "마라탕",
+                "마라샹궈",
+                "꿔바로우",
+                "마라반"
+            ],
+            "price": [
+                "6,000원",
+                "12,000원",
+                "10,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220204_266%2F1643975045919gbOHu_JPEG%2F%25DA%25B0%25E3%25E1%25F8%25B8_20220204204221.jpg"
+        },
+        {
+            "name": "고려성",
+            "tel": "02-923-9577",
+            "star": "4.14/5",
+            "addr": "서울 성북구 안암로 69-1 대성빌딩 2층 고려성\n6안암역 3번 출구에서438m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220620_48%2F1655688502743fXdfl_JPEG%2FIMG_20220405_143825_115.jpg"
+        },
+        {
+            "name": "금룡짬뽕",
+            "tel": "02-926-5533",
+            "star": "4.24/5",
+            "addr": "서울 성북구 고려대로24길 5 2층\n6안암역 3번 출구에서58m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_70%2F1548989764889iCV6d_JPEG%2FXtKtK20bI-fdXrI7cE9g0jJU.jpg"
+        },
+        {
+            "name": "하오마라 고려대점",
+            "tel": "010-6524-9979",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로27길 24-2 2층\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_60%2F1578151437936D32Ic_PNG%2FGt8KpTx9XiC8yz7tE3kw9f_l.png"
+        },
+        {
+            "name": "반이학생마라탕마라반",
+            "tel": "010-7258-6661",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 31 성북구고려대로24길31. 2F\n6안암역 3번 출구에서190m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220307_200%2F1646636305991Ovp4k_JPEG%2FF3F0F8AE-31E0-4E3C-9CE8-8F1C94B6861C.jpeg"
+        },
+        {
+            "name": "미각 고대1호점",
+            "tel": "02-929-8858",
+            "star": "4.23/5",
+            "addr": "서울 성북구 고려대로24길 15 정암빌딩\n6안암역 3번 출구에서95m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160725_123%2Fmementosyhk_1469382620087ypS5q_JPEG%2F20160225_204225.jpg"
+        },
+        {
+            "name": "미스터왕시즌2",
+            "tel": "02-922-0406",
+            "star": "4.23/5",
+            "addr": "서울 성북구 안암로9가길 87\n6안암역 4번 출구에서403m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190124_1%2F1548310287424JVety_JPEG%2FDyCvfLhCE8CMc4mz9XPHsEBg.jpeg.jpg"
+        },
+        {
+            "name": "일미옥",
+            "tel": "02-929-7889",
+            "star": "4.44/5",
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_265%2F15489377751600yc2w_JPEG%2FDQo3dK3U6_z683ems6yFQqUr.jpg"
+        },
+        {
+            "name": "칠기도삭면소롱포 고대점",
+            "tel": "02-921-7771",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 13\n6안암역 2번 출구에서102m",
+            "foodtype": "중식당",
+            "menu": [
+                "쿠따이면(裤带面)",
+                "우육 도삭면(牛肉刀削面)",
+                "딴딴면(担担面)",
+                "후르츠소스 샤우쑤러우(小酥肉)(중)"
+            ],
+            "price": [
+                "9,000원",
+                "8,500원",
+                "8,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MTRfMTYy%2FMDAxNjQ5OTAxNTA4ODM5.BOiLrbYg2k97h3l8gQAiWyhJzrpHn7iFu42tvYJlkIcg.1JJ2hs_SF0JWfzo_8NLwbrKD7ZdEXGxdCfNzNAPSfZgg.JPEG.heewon0323%2FACFB363C-D529-4D5B-A227-C87B518C5E30.jpeg"
+        },
+        {
+            "name": "라사천마라탕 안암점",
+            "tel": "070-8648-1413",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 16 1층 6호\n6안암역 3번 출구에서137m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220408_40%2F1649406023432Rk1yH_PNG%2F%25B8%25B6%25B6%25F3%25C5%25C1%25BB%25E7%25C1%25F8.png"
+        },
+        {
+            "name": "쉐프의 생 안심탕수육 고대안암점",
+            "tel": "02-922-3113",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로24길 60\n6안암역 3번 출구에서334m",
+            "foodtype": "중식당",
+            "menu": [
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(소)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(중)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(대)",
+                "[[[소떡소떡무료증정]]]쉐프's 탕수육(소)"
+            ],
+            "price": [
+                "20,000원",
+                "23,000원",
+                "26,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMjdfNjgg%2FMDAxNTc0Nzg1NzE4MTU5.wTASiCUaM1Mfo3rl_6fw_ZpzU991v6_iwiyfCsoVlH8g.DUy5ud-5XAOEl562TJkXmNzN6E8Q6hp4uvdR0i-MR3cg.JPEG.kkj860103%2FIMG_4198.jpg"
+        },
+        {
+            "name": "탕화쿵푸마라탕",
+            "tel": "02-922-3113",
+            "star": "4.35/5",
+            "addr": "서울 성북구 인촌로27길 24-2 2층(안암동5가)\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1407977672%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811801754%26md%3DmoA35F1wfm%252Fndy1N%252F3Q5wRQdF0Y%253D"
+        },
+        {
+            "name": "유자미",
+            "tel": "02-922-3113",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_283%2F1591783943970HTsAF_JPEG%2FG9-ET6qKTQp1_wwgUDX7mzKa.jpg"
+        },
+        {
+            "name": "양꼬치 미각 짬뽕 고대본점",
+            "tel": "02-927-8858",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 44 (안암동5가)\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [
+                "꿔보로우(1~2인분)",
+                "꿔보로우(3~4인분)",
+                "동파육",
+                "매운바지락볶음"
+            ],
+            "price": [
+                "8,000원",
+                "16,000원",
+                "15,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1703366125%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811813489%26md%3Dz9vmk7W6p51zsvDNHsX0ph7mTOY%253D"
+        },
+        {
+            "name": "쓰촨샤브샤브",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 2 지하1층 (안암동5가)\n6안암역 3번 출구에서60m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1189264488%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811819181%26md%3D%252FFE2xH2vj3kUsPwQDMlMwTRU%252BNY%253D"
+        },
+        {
+            "name": "일층팔오",
+            "tel": "070-7856-8978",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1883346300%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811824407%26md%3DD3k8uepkUy6KieWqvXfT6tlDUtc%253D"
+        },
+        {
+            "name": "성흠",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1031689354%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660811830676%26md%3DvH5btaxWMEA1zO4RkhPWfpyhxW4%253D"
+        },
+        {
+            "name": "용초수",
+            "tel": "02-922-7991",
+            "star": "4.32/5",
+            "addr": "서울 성북구 인촌로27길 20\n6안암역 2번 출구에서141m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_181%2F1456377845990Q22Qx_JPEG%2F176175545424908_0.jpg"
+        },
+        {
+            "name": "더씨",
+            "tel": "02-928-1259",
+            "star": "4.29/5",
+            "addr": "서울 성북구 개운사길 8 2층\n6안암역 2번 출구에서52m",
+            "foodtype": "중식당",
+            "menu": [
+                "탕수육(소)",
+                "새콤달콤 깐풍기(소)",
+                "새콤달콤 깐풍기(대)",
+                "깐쇼새우(8마리(소))"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "42,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170911_9%2F15051188591589sKtj_JPEG%2FSALiY74OMFessLnvFgTeOUL3.jpg"
+        },
+        {
+            "name": "수저가",
+            "tel": "0507-1397-6878",
+            "star": "4.59/5",
+            "addr": "서울 성북구 안암로 89-3 1층\n6안암역 3번 출구에서283m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_183%2F1616509455491nPeXC_JPEG%2FvOWhZd-0oxG4RPvjGBhCqiN9.jpg"
+        },
+        {
+            "name": "중경식객 고려대점",
+            "tel": "02-929-7789",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로24길 36 2층\n6안암역 3번 출구에서204m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_12%2F159175114359099XJk_JPEG%2FdW2CFRmNBMfafF2E0pX4klAK.jpg"
+        },
+        {
+            "name": "사랑마라탕",
+            "tel": "010-2467-9827",
+            "star": "4.1/5",
+            "addr": "서울 성북구 개운사길 21-3 101호\n6안암역 1번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171201_99%2F15121165488008QvMA_JPEG%2FKjA22o_Poa84PvqI-R38vGui.jpg"
+        },
+        {
+            "name": "미각 고대본점",
+            "tel": "02-927-8858",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_271%2F15477299479591unMa_JPEG%2Fz7jXCBrQhmbbAZ1e53oueVYc.jpg"
+        },
+        {
+            "name": "홍콩반점0410 고대안암점",
+            "tel": "02-6084-8864",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 6 2층\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [
+                "치킨 반반 탕슉",
+                "식사1인+탕수육",
+                "식사2인 + 탕수육",
+                "쟁반짜장2인+탕수육"
+            ],
+            "price": [
+                "16,000원",
+                "20,000원",
+                "26,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180403_288%2F1522751067539KtHpK_PNG%2FTimENC9Zp9xN1uSM1_Tr-2TR.png"
+        },
+        {
+            "name": "북경양꼬치",
+            "tel": "02-953-5880",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24길 3-36\n6안암역 3번 출구에서63m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_48%2F1441037851986s1qg9_JPEG%2F126576587558914_0.jpg"
+        },
+        {
+            "name": "니뽕내뽕 고려대점",
+            "tel": "070-7722-2848",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "중식당",
+            "menu": [
+                "탄산세트",
+                "차뽕",
+                "크뽕",
+                "로뽕"
+            ],
+            "price": [
+                "27,900원",
+                "8,500원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220418_277%2F1650257346973R0sxr_JPEG%2Fcommon.jpeg"
+        },
+        {
+            "name": "넘버85",
+            "tel": "02-929-7050",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170106_15%2F14836934361460WjSJ_JPEG%2FuserRegistration_609e7a38716940c296e25b619cb003e1_image.jpg"
+        },
+        {
+            "name": "차이니웍 고대안암점",
+            "tel": "02-923-1997",
+            "star": "4.41/5",
+            "addr": "서울 성북구 안암로 73-5\n6안암역 4번 출구에서368m",
+            "foodtype": "중식당",
+            "menu": [
+                "차돌해물짬뽕",
+                "국내산등심탕수육(大)",
+                "국내산등심탕수육(小)",
+                "갓볶음밥"
+            ],
+            "price": [
+                "12,000원",
+                "28,000원",
+                "18,000원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220113_196%2F1642061638438JCxkN_JPEG%2F1641372984790.jpg"
+        },
+        {
+            "name": "언니네반점",
+            "tel": "02-953-7878",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 42\n6안암역 2번 출구에서261m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190109_62%2F1547004076447dlEpH_JPEG%2FEjsshRB-VZgCwz5BuWXi4UYH.jpeg.jpg"
+        },
+        {
+            "name": "신룽푸마라탕 고대점",
+            "tel": "02-6404-2014",
+            "star": "4.31/5",
+            "addr": "서울 성북구 고려대로24길 35\n6안암역 3번 출구에서204m",
+            "foodtype": "신룽푸마라탕",
+            "menu": [
+                "마라탕",
+                "마라샹궈",
+                "꿔바로우",
+                "마라반"
+            ],
+            "price": [
+                "6,000원",
+                "12,000원",
+                "10,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220204_266%2F1643975045919gbOHu_JPEG%2F%25DA%25B0%25E3%25E1%25F8%25B8_20220204204221.jpg"
+        },
+        {
+            "name": "고려성",
+            "tel": "02-923-9577",
+            "star": "4.14/5",
+            "addr": "서울 성북구 안암로 69-1 대성빌딩 2층 고려성\n6안암역 3번 출구에서438m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220620_48%2F1655688502743fXdfl_JPEG%2FIMG_20220405_143825_115.jpg"
+        },
+        {
+            "name": "금룡짬뽕",
+            "tel": "02-926-5533",
+            "star": "4.24/5",
+            "addr": "서울 성북구 고려대로24길 5 2층\n6안암역 3번 출구에서58m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_70%2F1548989764889iCV6d_JPEG%2FXtKtK20bI-fdXrI7cE9g0jJU.jpg"
+        },
+        {
+            "name": "하오마라 고려대점",
+            "tel": "010-6524-9979",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로27길 24-2 2층\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_60%2F1578151437936D32Ic_PNG%2FGt8KpTx9XiC8yz7tE3kw9f_l.png"
+        },
+        {
+            "name": "반이학생마라탕마라반",
+            "tel": "010-7258-6661",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 31 성북구고려대로24길31. 2F\n6안암역 3번 출구에서190m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220307_200%2F1646636305991Ovp4k_JPEG%2FF3F0F8AE-31E0-4E3C-9CE8-8F1C94B6861C.jpeg"
+        },
+        {
+            "name": "미각 고대1호점",
+            "tel": "02-929-8858",
+            "star": "4.23/5",
+            "addr": "서울 성북구 고려대로24길 15 정암빌딩\n6안암역 3번 출구에서95m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160725_123%2Fmementosyhk_1469382620087ypS5q_JPEG%2F20160225_204225.jpg"
+        },
+        {
+            "name": "미스터왕시즌2",
+            "tel": "02-922-0406",
+            "star": "4.23/5",
+            "addr": "서울 성북구 안암로9가길 87\n6안암역 4번 출구에서403m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190124_1%2F1548310287424JVety_JPEG%2FDyCvfLhCE8CMc4mz9XPHsEBg.jpeg.jpg"
+        },
+        {
+            "name": "일미옥",
+            "tel": "02-929-7889",
+            "star": "4.44/5",
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_265%2F15489377751600yc2w_JPEG%2FDQo3dK3U6_z683ems6yFQqUr.jpg"
+        },
+        {
+            "name": "칠기도삭면소롱포 고대점",
+            "tel": "02-921-7771",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 13\n6안암역 2번 출구에서102m",
+            "foodtype": "중식당",
+            "menu": [
+                "쿠따이면(裤带面)",
+                "우육 도삭면(牛肉刀削面)",
+                "딴딴면(担担面)",
+                "후르츠소스 샤우쑤러우(小酥肉)(중)"
+            ],
+            "price": [
+                "9,000원",
+                "8,500원",
+                "8,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MTRfMTYy%2FMDAxNjQ5OTAxNTA4ODM5.BOiLrbYg2k97h3l8gQAiWyhJzrpHn7iFu42tvYJlkIcg.1JJ2hs_SF0JWfzo_8NLwbrKD7ZdEXGxdCfNzNAPSfZgg.JPEG.heewon0323%2FACFB363C-D529-4D5B-A227-C87B518C5E30.jpeg"
+        },
+        {
+            "name": "라사천마라탕 안암점",
+            "tel": "070-8648-1413",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 16 1층 6호\n6안암역 3번 출구에서137m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220408_40%2F1649406023432Rk1yH_PNG%2F%25B8%25B6%25B6%25F3%25C5%25C1%25BB%25E7%25C1%25F8.png"
+        },
+        {
+            "name": "쉐프의 생 안심탕수육 고대안암점",
+            "tel": "02-922-3113",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로24길 60\n6안암역 3번 출구에서334m",
+            "foodtype": "중식당",
+            "menu": [
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(소)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(중)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(대)",
+                "[[[소떡소떡무료증정]]]쉐프's 탕수육(소)"
+            ],
+            "price": [
+                "20,000원",
+                "23,000원",
+                "26,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMjdfNjgg%2FMDAxNTc0Nzg1NzE4MTU5.wTASiCUaM1Mfo3rl_6fw_ZpzU991v6_iwiyfCsoVlH8g.DUy5ud-5XAOEl562TJkXmNzN6E8Q6hp4uvdR0i-MR3cg.JPEG.kkj860103%2FIMG_4198.jpg"
+        },
+        {
+            "name": "탕화쿵푸마라탕",
+            "tel": "02-922-3113",
+            "star": "4.35/5",
+            "addr": "서울 성북구 인촌로27길 24-2 2층(안암동5가)\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1407977672%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812093148%26md%3DyJgJAzB8rro3xSVpXVXM9vYA8%252BU%253D"
+        },
+        {
+            "name": "유자미",
+            "tel": "02-922-3113",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_283%2F1591783943970HTsAF_JPEG%2FG9-ET6qKTQp1_wwgUDX7mzKa.jpg"
+        },
+        {
+            "name": "양꼬치 미각 짬뽕 고대본점",
+            "tel": "02-927-8858",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 44 (안암동5가)\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [
+                "꿔보로우(1~2인분)",
+                "꿔보로우(3~4인분)",
+                "동파육",
+                "매운바지락볶음"
+            ],
+            "price": [
+                "8,000원",
+                "16,000원",
+                "15,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1703366125%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812104998%26md%3Dovbn%252BY9UQWpx1zgsi2Nm03eOMOg%253D"
+        },
+        {
+            "name": "쓰촨샤브샤브",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 2 지하1층 (안암동5가)\n6안암역 3번 출구에서60m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1189264488%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812110411%26md%3Di6T0%252FQDMzH23Hwss10glICCO4qM%253D"
+        },
+        {
+            "name": "일층팔오",
+            "tel": "070-7856-8978",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1883346300%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812115759%26md%3DlOfTf2yALGwSiAEQN1fiu%252FJP9I8%253D"
+        },
+        {
+            "name": "성흠",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1031689354%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812122065%26md%3D5MkpU9zD8EXfx%252FPdF3hVIplGMMs%253D"
+        },
+        {
+            "name": "용초수",
+            "tel": "02-922-7991",
+            "star": "4.32/5",
+            "addr": "서울 성북구 인촌로27길 20\n6안암역 2번 출구에서141m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_181%2F1456377845990Q22Qx_JPEG%2F176175545424908_0.jpg"
+        },
+        {
+            "name": "더씨",
+            "tel": "02-928-1259",
+            "star": "4.29/5",
+            "addr": "서울 성북구 개운사길 8 2층\n6안암역 2번 출구에서52m",
+            "foodtype": "중식당",
+            "menu": [
+                "탕수육(소)",
+                "새콤달콤 깐풍기(소)",
+                "새콤달콤 깐풍기(대)",
+                "깐쇼새우(8마리(소))"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "42,000원",
+                "30,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170911_9%2F15051188591589sKtj_JPEG%2FSALiY74OMFessLnvFgTeOUL3.jpg"
+        },
+        {
+            "name": "수저가",
+            "tel": "0507-1397-6878",
+            "star": "4.59/5",
+            "addr": "서울 성북구 안암로 89-3 1층\n6안암역 3번 출구에서283m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210323_183%2F1616509455491nPeXC_JPEG%2FvOWhZd-0oxG4RPvjGBhCqiN9.jpg"
+        },
+        {
+            "name": "중경식객 고려대점",
+            "tel": "02-929-7789",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로24길 36 2층\n6안암역 3번 출구에서204m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_12%2F159175114359099XJk_JPEG%2FdW2CFRmNBMfafF2E0pX4klAK.jpg"
+        },
+        {
+            "name": "사랑마라탕",
+            "tel": "010-2467-9827",
+            "star": "4.1/5",
+            "addr": "서울 성북구 개운사길 21-3 101호\n6안암역 1번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171201_99%2F15121165488008QvMA_JPEG%2FKjA22o_Poa84PvqI-R38vGui.jpg"
+        },
+        {
+            "name": "미각 고대본점",
+            "tel": "02-927-8858",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_271%2F15477299479591unMa_JPEG%2Fz7jXCBrQhmbbAZ1e53oueVYc.jpg"
+        },
+        {
+            "name": "홍콩반점0410 고대안암점",
+            "tel": "02-6084-8864",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 6 2층\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [
+                "치킨 반반 탕슉",
+                "식사1인+탕수육",
+                "식사2인 + 탕수육",
+                "쟁반짜장2인+탕수육"
+            ],
+            "price": [
+                "16,000원",
+                "20,000원",
+                "26,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180403_288%2F1522751067539KtHpK_PNG%2FTimENC9Zp9xN1uSM1_Tr-2TR.png"
+        },
+        {
+            "name": "북경양꼬치",
+            "tel": "02-953-5880",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24길 3-36\n6안암역 3번 출구에서63m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_48%2F1441037851986s1qg9_JPEG%2F126576587558914_0.jpg"
+        },
+        {
+            "name": "니뽕내뽕 고려대점",
+            "tel": "070-7722-2848",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "중식당",
+            "menu": [
+                "탄산세트",
+                "차뽕",
+                "크뽕",
+                "로뽕"
+            ],
+            "price": [
+                "27,900원",
+                "8,500원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220418_277%2F1650257346973R0sxr_JPEG%2Fcommon.jpeg"
+        },
+        {
+            "name": "넘버85",
+            "tel": "02-929-7050",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170106_15%2F14836934361460WjSJ_JPEG%2FuserRegistration_609e7a38716940c296e25b619cb003e1_image.jpg"
+        },
+        {
+            "name": "차이니웍 고대안암점",
+            "tel": "02-923-1997",
+            "star": "4.41/5",
+            "addr": "서울 성북구 안암로 73-5\n6안암역 4번 출구에서368m",
+            "foodtype": "중식당",
+            "menu": [
+                "차돌해물짬뽕",
+                "국내산등심탕수육(大)",
+                "국내산등심탕수육(小)",
+                "갓볶음밥"
+            ],
+            "price": [
+                "12,000원",
+                "28,000원",
+                "18,000원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220113_196%2F1642061638438JCxkN_JPEG%2F1641372984790.jpg"
+        },
+        {
+            "name": "언니네반점",
+            "tel": "02-953-7878",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 42\n6안암역 2번 출구에서261m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190109_62%2F1547004076447dlEpH_JPEG%2FEjsshRB-VZgCwz5BuWXi4UYH.jpeg.jpg"
+        },
+        {
+            "name": "신룽푸마라탕 고대점",
+            "tel": "02-6404-2014",
+            "star": "4.31/5",
+            "addr": "서울 성북구 고려대로24길 35\n6안암역 3번 출구에서204m",
+            "foodtype": "신룽푸마라탕",
+            "menu": [
+                "마라탕",
+                "마라샹궈",
+                "꿔바로우",
+                "마라반"
+            ],
+            "price": [
+                "6,000원",
+                "12,000원",
+                "10,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220204_266%2F1643975045919gbOHu_JPEG%2F%25DA%25B0%25E3%25E1%25F8%25B8_20220204204221.jpg"
+        },
+        {
+            "name": "고려성",
+            "tel": "02-923-9577",
+            "star": "4.14/5",
+            "addr": "서울 성북구 안암로 69-1 대성빌딩 2층 고려성\n6안암역 3번 출구에서438m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220620_48%2F1655688502743fXdfl_JPEG%2FIMG_20220405_143825_115.jpg"
+        },
+        {
+            "name": "금룡짬뽕",
+            "tel": "02-926-5533",
+            "star": "4.24/5",
+            "addr": "서울 성북구 고려대로24길 5 2층\n6안암역 3번 출구에서58m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_70%2F1548989764889iCV6d_JPEG%2FXtKtK20bI-fdXrI7cE9g0jJU.jpg"
+        },
+        {
+            "name": "하오마라 고려대점",
+            "tel": "010-6524-9979",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로27길 24-2 2층\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_60%2F1578151437936D32Ic_PNG%2FGt8KpTx9XiC8yz7tE3kw9f_l.png"
+        },
+        {
+            "name": "반이학생마라탕마라반",
+            "tel": "010-7258-6661",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 31 성북구고려대로24길31. 2F\n6안암역 3번 출구에서190m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220307_200%2F1646636305991Ovp4k_JPEG%2FF3F0F8AE-31E0-4E3C-9CE8-8F1C94B6861C.jpeg"
+        },
+        {
+            "name": "미각 고대1호점",
+            "tel": "02-929-8858",
+            "star": "4.23/5",
+            "addr": "서울 성북구 고려대로24길 15 정암빌딩\n6안암역 3번 출구에서95m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20160725_123%2Fmementosyhk_1469382620087ypS5q_JPEG%2F20160225_204225.jpg"
+        },
+        {
+            "name": "미스터왕시즌2",
+            "tel": "02-922-0406",
+            "star": "4.23/5",
+            "addr": "서울 성북구 안암로9가길 87\n6안암역 4번 출구에서403m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190124_1%2F1548310287424JVety_JPEG%2FDyCvfLhCE8CMc4mz9XPHsEBg.jpeg.jpg"
+        },
+        {
+            "name": "일미옥",
+            "tel": "02-929-7889",
+            "star": "4.44/5",
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_265%2F15489377751600yc2w_JPEG%2FDQo3dK3U6_z683ems6yFQqUr.jpg"
+        },
+        {
+            "name": "칠기도삭면소롱포 고대점",
+            "tel": "02-921-7771",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 13\n6안암역 2번 출구에서102m",
+            "foodtype": "중식당",
+            "menu": [
+                "쿠따이면(裤带面)",
+                "우육 도삭면(牛肉刀削面)",
+                "딴딴면(担担面)",
+                "후르츠소스 샤우쑤러우(小酥肉)(중)"
+            ],
+            "price": [
+                "9,000원",
+                "8,500원",
+                "8,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MTRfMTYy%2FMDAxNjQ5OTAxNTA4ODM5.BOiLrbYg2k97h3l8gQAiWyhJzrpHn7iFu42tvYJlkIcg.1JJ2hs_SF0JWfzo_8NLwbrKD7ZdEXGxdCfNzNAPSfZgg.JPEG.heewon0323%2FACFB363C-D529-4D5B-A227-C87B518C5E30.jpeg"
+        },
+        {
+            "name": "라사천마라탕 안암점",
+            "tel": "070-8648-1413",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 16 1층 6호\n6안암역 3번 출구에서137m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220408_40%2F1649406023432Rk1yH_PNG%2F%25B8%25B6%25B6%25F3%25C5%25C1%25BB%25E7%25C1%25F8.png"
+        },
+        {
+            "name": "쉐프의 생 안심탕수육 고대안암점",
+            "tel": "02-922-3113",
+            "star": "4.27/5",
+            "addr": "서울 성북구 고려대로24길 60\n6안암역 3번 출구에서334m",
+            "foodtype": "중식당",
+            "menu": [
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(소)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(중)",
+                "[[[소떡소떡무료증정]]]김치 치즈 탕수육(대)",
+                "[[[소떡소떡무료증정]]]쉐프's 탕수육(소)"
+            ],
+            "price": [
+                "20,000원",
+                "23,000원",
+                "26,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMjdfNjgg%2FMDAxNTc0Nzg1NzE4MTU5.wTASiCUaM1Mfo3rl_6fw_ZpzU991v6_iwiyfCsoVlH8g.DUy5ud-5XAOEl562TJkXmNzN6E8Q6hp4uvdR0i-MR3cg.JPEG.kkj860103%2FIMG_4198.jpg"
+        },
+        {
+            "name": "탕화쿵푸마라탕",
+            "tel": "02-922-3113",
+            "star": "4.35/5",
+            "addr": "서울 성북구 인촌로27길 24-2 2층(안암동5가)\n6안암역 2번 출구에서175m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1407977672%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812386140%26md%3DXGXrjM5wI%252FGHFTArspcvdL9zHu8%253D"
+        },
+        {
+            "name": "유자미",
+            "tel": "02-922-3113",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_283%2F1591783943970HTsAF_JPEG%2FG9-ET6qKTQp1_wwgUDX7mzKa.jpg"
+        },
+        {
+            "name": "양꼬치 미각 짬뽕 고대본점",
+            "tel": "02-927-8858",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 44 (안암동5가)\n6안암역 3번 출구에서257m",
+            "foodtype": "양꼬치",
+            "menu": [
+                "꿔보로우(1~2인분)",
+                "꿔보로우(3~4인분)",
+                "동파육",
+                "매운바지락볶음"
+            ],
+            "price": [
+                "8,000원",
+                "16,000원",
+                "15,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1703366125%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812397784%26md%3DnusrMa3%252FSNL3%252BHvBdVFbkSIBFV4%253D"
+        },
+        {
+            "name": "쓰촨샤브샤브",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 2 지하1층 (안암동5가)\n6안암역 3번 출구에서60m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1189264488%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812403417%26md%3DXoK%252BUqq1uXvWbN%252FGGevJJ8YDNSI%253D"
+        },
+        {
+            "name": "일층팔오",
+            "tel": "070-7856-8978",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로28길 17\n6안암역 3번 출구에서144m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1883346300%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812408573%26md%3DTXT0PLn8heZpuZf9tsmf7FDkhtM%253D"
+        },
+        {
+            "name": "성흠",
+            "tel": "070-7856-8978",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 24-1\n6안암역 2번 출구에서177m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1031689354%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660812415205%26md%3DhHLLgw9RcxxwtTnFgbQFfAGjPCI%253D"
+        }
+    ]
+}

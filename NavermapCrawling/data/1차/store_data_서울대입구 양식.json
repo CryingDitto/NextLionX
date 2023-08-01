@@ -1,0 +1,584 @@
+{
+    "서울대입구 양식 매장정보": [
+        {
+            "name": "쥬벤쿠바 샤로수길점",
+            "tel": "0507-1468-3234",
+            "star": "4.68/5",
+            "addr": "서울 관악구 관악로14나길 10 1층\n2서울대입구역 1번 출구에서623m",
+            "foodtype": "양식",
+            "menu": [
+                "바베큐 플래터",
+                "쿠바 샌드위치 세트",
+                "잠발라야",
+                "감바스 투움바"
+            ],
+            "price": [
+                "37,000원",
+                "16,000원",
+                "16,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200516_213%2F1589602343046iOesI_JPEG%2Fv8rx066NcqsPoeX4PfLt_kE0.jpg"
+        },
+        {
+            "name": "문득",
+            "tel": "02-882-2186",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14길 8\n2서울대입구역 2번 출구에서214m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "매콤토마토 토마호크 커틀렛",
+                "데미토마호크 커틀렛",
+                "손두부해물토마토파스타",
+                "우삽겹강된장파스타"
+            ],
+            "price": [
+                "22,000원",
+                "21,500원",
+                "15,000원",
+                "16,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200806_139%2F1596721521482GtF4b_JPEG%2FV03SngzRo3PtZBvG9kEC2P5I.JPG.jpg"
+        },
+        {
+            "name": "사담",
+            "tel": "02-882-7501",
+            "star": "4.73/5",
+            "addr": "서울 관악구 남부순환로 1852 5층\n2서울대입구역 1번 출구에서245m",
+            "foodtype": "브런치",
+            "menu": [
+                "브런치 플레이트",
+                "샌드위치플레이트",
+                "베리콩포트 팬케익",
+                "캐러멜즈바나나 프렌치토스트"
+            ],
+            "price": [
+                "13,000원",
+                "17,000원",
+                "12,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201216_100%2F1608076541987HvN4x_JPEG%2FiujgYGlJOl1rfRd6KN1a_XYU.jpeg.jpg"
+        },
+        {
+            "name": "모즈타파스라운지",
+            "tel": "0507-1406-8910",
+            "star": "4.64/5",
+            "addr": "서울 관악구 남부순환로226길 36 지하 모즈타파스라운지\n2서울대입구역 2번 출구에서282m",
+            "foodtype": "스페인음식",
+            "menu": [
+                "모즈 믹스타 빠에야",
+                "감바스 알아히요",
+                "핀초",
+                "감바스 피칸테"
+            ],
+            "price": [
+                "26,000원",
+                "13,000원",
+                "13,000원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181117_125%2F1542393077028gdpzs_JPEG%2FAWTuvLCTNYAflNh0G1AMlJwU.jpg"
+        },
+        {
+            "name": "모힝",
+            "tel": "02-873-5164",
+            "star": "4.57/5",
+            "addr": "서울 관악구 남부순환로226길 36 2층\n2서울대입구역 2번 출구에서282m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "지글지글 게살 치즈 크림 파스타",
+                "비프 플렛 브레드",
+                "보글보글 뚝배기 파스타",
+                "해산물오일파스타 spicy"
+            ],
+            "price": [
+                "16,000원",
+                "23,000원",
+                "16,000원",
+                "16,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191015_288%2F15711320846597nvpz_JPEG%2F1.jpg"
+        },
+        {
+            "name": "정전기 하이볼",
+            "tel": "0507-1304-4828",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 63 2층 정전기하이볼\n2서울대입구역 1번 출구에서431m",
+            "foodtype": "양식",
+            "menu": [
+                "혼마구로마끼",
+                "사바이소베마끼",
+                "라구파스타케이크",
+                "트러플 포르치니 크림 파스타"
+            ],
+            "price": [
+                "22,000원",
+                "21,000원",
+                "17,000원",
+                "16,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220804_160%2F1659591765579CBX21_JPEG%2F__%25284%2529."
+        },
+        {
+            "name": "빠레뜨한남 샤로수길점",
+            "tel": "0507-1338-1573",
+            "star": "4.51/5",
+            "addr": "서울 관악구 남부순환로230길 40 1층 빠레뜨한남\n2서울대입구역 1번 출구에서418m",
+            "foodtype": "양식",
+            "menu": [
+                "오므라이스",
+                "빠레뜨파스타",
+                "함박스테이크",
+                "살치살스테이크"
+            ],
+            "price": [
+                "13,000원",
+                "16,000원",
+                "15,000원",
+                "35,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200923_76%2F1600866761026OM8gz_JPEG%2FtEzSXi65RIsRftVHYztE8pVX.jpg"
+        },
+        {
+            "name": "파고",
+            "tel": "0507-1337-2249",
+            "star": "4.6/5",
+            "addr": "서울 관악구 행운1길 40 신화로즈빌 1층 105호\n2서울대입구역 8번 출구에서438m",
+            "foodtype": "양식",
+            "menu": [
+                "파고 피자",
+                "풍기 피자",
+                "판체타 까르보",
+                "라구 파스타"
+            ],
+            "price": [
+                "17,000원",
+                "17,000원",
+                "16,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191103_95%2F1572781368198b19YL_JPEG%2F2Mvr8iLvc7WG7CBSVvm5593s.jpg"
+        },
+        {
+            "name": "피자보이시나 서울대점",
+            "tel": "02-877-6550",
+            "star": "4.74/5",
+            "addr": "서울 관악구 남부순환로234길 31 1층 피자보이시나\n2서울대입구역 1번 출구에서537m",
+            "foodtype": "피자",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190710_154%2F1562724938009aA9oW_JPEG%2Fah8VSHUuW6GjIyYjwGUvVwGN.jpeg.jpg"
+        },
+        {
+            "name": "오늘그대와",
+            "tel": "070-7585-0304",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로14길 65\n2서울대입구역 1번 출구에서441m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180617_29%2F1529205497367rMzJb_JPEG%2FxdGoDTmYjT-3NPTjmem4m-Le.jpg"
+        },
+        {
+            "name": "프랑스홍합집",
+            "tel": "0507-1315-1705",
+            "star": "4.46/5",
+            "addr": "서울 관악구 관악로14길 22\n2서울대입구역 2번 출구에서286m",
+            "foodtype": "프랑스음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190927_244%2F1569519868214AyVvL_JPEG%2F%25B8%25DE%25C0%25CE.jpg"
+        },
+        {
+            "name": "서울테이블",
+            "tel": "02-889-5526",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 28 2층\n2서울대입구역 2번 출구에서329m",
+            "foodtype": "양식",
+            "menu": [
+                "감자뇨끼",
+                "통베이컨스크램블(lunch)",
+                "프렌치토스트(lunch)",
+                "당근라페파스타(dinner)"
+            ],
+            "price": [
+                "17,000원",
+                "12,000원",
+                "11,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170902_155%2F1504362572656r5k6A_JPEG%2Fp67XfTHOeQIAFfBA3Tf01fCS.jpg"
+        },
+        {
+            "name": "이삭버거 키친 서울대입구역점",
+            "tel": "0507-1469-3060",
+            "star": [],
+            "addr": "서울 관악구 관악로 157 1, 2층\n2서울대입구역 3번 출구에서164m",
+            "foodtype": "햄버거",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220803_228%2F1659514558033TpzAL_PNG%2FKakaoTalk_20220721_171338617.png"
+        },
+        {
+            "name": "레그나나폴리",
+            "tel": "0507-1439-8998",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로14길 39 2층\n2서울대입구역 2번 출구에서373m",
+            "foodtype": "피자",
+            "menu": [
+                "디 마레",
+                "엑스트라 마르게리타",
+                "푼고 샐러드",
+                "카프레제 샐러드"
+            ],
+            "price": [
+                "19,000원",
+                "19,000원",
+                "13,000원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200520_102%2F1589973597314PjbSW_JPEG%2FbhmlzJ616doLqF8ZTXga6f1E.jpg"
+        },
+        {
+            "name": "꼬르동",
+            "tel": "0507-1339-7377",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로14길 89 1층\n2서울대입구역 1번 출구에서557m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "콥샐러드",
+                "닭가슴살 리조또",
+                "새우오일파스타",
+                "볼로네제"
+            ],
+            "price": [
+                "11,000원",
+                "14,000원",
+                "13,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200311_132%2F1583852804477l2bPJ_JPEG%2FDQCw4GqXEx1y5s86Twn4i8So.jpeg.jpg"
+        },
+        {
+            "name": "피자네버슬립스",
+            "tel": "0507-1330-0805",
+            "star": "4.46/5",
+            "addr": "서울 관악구 봉천로 534 2층\n2서울대입구역 1번 출구에서442m",
+            "foodtype": "피자",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190522_117%2F1558525389633qUUTr_JPEG%2F22YIlWmdd-sBsEwLGL_g3I_d.jpg"
+        },
+        {
+            "name": "도스타코스 서울대입구역점",
+            "tel": "02-889-5904",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 6 2층, 3층\n2서울대입구역 2번 출구에서200m",
+            "foodtype": "멕시코,남미음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200718_273%2F1595076762170chEMf_JPEG%2F2_aNwpSiJTKhebyMWQF9Ld0g.jpg"
+        },
+        {
+            "name": "리앙크리스피롤 서울대입구점",
+            "tel": "02-6276-8100",
+            "star": "4.46/5",
+            "addr": "서울 관악구 남부순환로 1820 1056호\n2서울대입구역 4번 출구에서15m",
+            "foodtype": "샌드위치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211104_219%2F16359962698451T3L0_JPEG%2FHoCAdkYepiwINsXdw3EhC3CK.jpeg.jpg"
+        },
+        {
+            "name": "낭만모로코",
+            "tel": "0507-1371-8717",
+            "star": "4.57/5",
+            "addr": "서울 관악구 관악로14길 88 1층 낭만모로코\n2서울대입구역 1번 출구에서550m",
+            "foodtype": "양식",
+            "menu": [
+                "모로코세트",
+                "모로코치킨타진",
+                "홉스",
+                "차돌박이 시금치 링귀니"
+            ],
+            "price": [
+                "38,000원",
+                "19,000원",
+                "3,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211228_148%2F1640624314270pC6aw_JPEG%2FCABAEE6D-0BBA-419A-9C9A-3815DFECC29F.jpeg"
+        },
+        {
+            "name": "미카엘",
+            "tel": "070-8286-4743",
+            "star": "4.83/5",
+            "addr": "서울 관악구 남부순환로234길 27 1층 미카엘\n2서울대입구역 1번 출구에서531m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200310_165%2F1583831292416dtXfg_JPEG%2Fqft3abPoS0wNyCvcsjXR98V-.jpg"
+        },
+        {
+            "name": "시드니스테이크",
+            "tel": "02-876-8116",
+            "star": "4.39/5",
+            "addr": "서울 관악구 남부순환로230길 45\n2서울대입구역 1번 출구에서457m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191026_152%2F1572077579314Ufw0p_JPEG%2FsrgAzxXl7TRb5kpUrnz8ncJE.jpg"
+        },
+        {
+            "name": "피맥하우스",
+            "tel": "0507-1303-4593",
+            "star": "4.41/5",
+            "addr": "서울 관악구 남부순환로 1864 1층\n2서울대입구역 1번 출구에서372m",
+            "foodtype": "피자",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180907_211%2F1536313165561kqeEQ_JPEG%2FD5dtM99Cv5rvLBcnE19IHyWp.jpg"
+        },
+        {
+            "name": "토끼네마굿간",
+            "tel": "02-879-0911",
+            "star": "4.59/5",
+            "addr": "서울 관악구 남부순환로230길 28 2층\n2서울대입구역 1번 출구에서361m",
+            "foodtype": "이탈리아음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220514_79%2F1652522746711W31nl_JPEG%2Fimage.jpg"
+        },
+        {
+            "name": "손으로 피자",
+            "tel": "0507-1332-9430",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1798 예성 아이 라이프 1층 103호\n2서울대입구역 4번 출구에서203m",
+            "foodtype": "피자",
+            "menu": [
+                "마르게리타",
+                "로메스코 새우",
+                "4가지 치즈",
+                "능이 버섯 비스마르크"
+            ],
+            "price": [
+                "10,000원",
+                "15,000원",
+                "12,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220816_9%2F16606515216563YhFI_JPEG%2F20220814_131119.jpg"
+        },
+        {
+            "name": "그날의 브런치",
+            "tel": "0507-1415-5996",
+            "star": [],
+            "addr": "서울 관악구 남부순환로230길 48\n2서울대입구역 1번 출구에서459m",
+            "foodtype": "브런치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200227_115%2F1582791025236cFrY0_JPEG%2FPGWVDrCK_Ha_iB17FMuuCCj7.jpg"
+        },
+        {
+            "name": "이태리파파",
+            "tel": "0507-1494-0025",
+            "star": "4.68/5",
+            "addr": "서울 관악구 관악로12길 3-8 1층\n2서울대입구역 2번 출구에서268m",
+            "foodtype": "이탈리아음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190716_253%2F1563289138335gLW3Y_JPEG%2FoZeq67bYCZGO8kxo8vfaTci7.jpg"
+        },
+        {
+            "name": "버거앤프라이즈 서울대입구역점",
+            "tel": "02-877-8874",
+            "star": "4.32/5",
+            "addr": "서울 관악구 남부순환로 1842 지상 1층\n2서울대입구역 1번 출구에서140m",
+            "foodtype": "햄버거",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210617_26%2F1623912006418kCClL_JPEG%2FU_8mjOkhsEA9vN7pNzqJjkq1.jpg"
+        },
+        {
+            "name": "우디가스트로",
+            "tel": "0507-1456-8941",
+            "star": [],
+            "addr": "서울 관악구 관악로 116\n2서울대입구역 2번 출구에서581m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "트러플감자뇨끼",
+                "흑돼지라구볼로네제",
+                "아넬로 (양갈비스테이크)",
+                "피오렌티나 디 만죠(티본스테이크)"
+            ],
+            "price": [
+                "26,000원",
+                "23,500원",
+                "43,000원",
+                "67,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170407_33%2F1491529641367VYMvh_JPEG%2F186357507740363_10.jpeg"
+        },
+        {
+            "name": "KFC 서울대입구역",
+            "tel": "02-871-2590",
+            "star": "4.33/5",
+            "addr": "서울 관악구 남부순환로 1810 1층\n2서울대입구역 4번 출구에서99m",
+            "foodtype": "햄버거",
+            "menu": [
+                "스모키마운틴바베큐블랙라벨치킨 8조각",
+                "스모키마운틴바베큐블랙라벨치킨 5조각",
+                "스모키마운틴바베큐블랙라벨치킨 3조각",
+                "스모키마운틴바베큐블랙라벨치킨 1조각"
+            ],
+            "price": [
+                "26,000원",
+                "16,700원",
+                "10,200원",
+                "3,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220220_119%2F1645369136100ThXc0_JPEG%2F20220220_123835.jpg"
+        },
+        {
+            "name": "아이캔리부트 서울대점",
+            "tel": "0507-1305-6642",
+            "star": "4.76/5",
+            "addr": "서울 관악구 청룡7길 33 1층 아이캔리부트 서울대점\n2서울대입구역 3번 출구에서579m",
+            "foodtype": "브런치",
+            "menu": [
+                "크린베리 닭안심 샌드위치",
+                "당근 맛있는 쉬림프 샌드위치",
+                "연어 아보카도 샐러드",
+                "차돌밥새로이"
+            ],
+            "price": [
+                "8,500원",
+                "9,500원",
+                "12,900원",
+                "12,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220728_69%2F1658998529927026XS_JPEG%2FFOOD_03035.jpg"
+        },
+        {
+            "name": "엔조 파스타&피자",
+            "tel": "0507-1475-0807",
+            "star": "4.53/5",
+            "addr": "서울 관악구 관악로 154 1층 엔조파스타&피자\n2서울대입구역 2번 출구에서210m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200116_203%2F1579158242453vHTJN_JPEG%2F0Xfg7NcWfdLqx8zhT7AxGDLy.jpg"
+        },
+        {
+            "name": "알렉스플레이스",
+            "tel": "02-872-4930",
+            "star": "4.67/5",
+            "addr": "서울 관악구 쑥고개로 100\n2서울대입구역 3번 출구에서646m",
+            "foodtype": "햄버거",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170208_37%2F1486528527443lX0zb_JPEG%2F186157527658043_0.jpeg"
+        },
+        {
+            "name": "타코부에노",
+            "tel": "02-878-5980",
+            "star": "5/5",
+            "addr": "서울 관악구 관악로 140-18 1층\n2서울대입구역 2번 출구에서430m",
+            "foodtype": "멕시코,남미음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210803_116%2F16279923157686VtlX_JPEG%2FWO6NYl889oqqgbHjAPWD1sJt.jpg"
+        },
+        {
+            "name": "프랭크버거 관악구청점",
+            "tel": "02-877-3335",
+            "star": [],
+            "addr": "서울 관악구 관악로 144 1층 102호\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "햄버거",
+            "menu": [
+                "프랭크버거",
+                "쉬림프버거",
+                "치즈버거",
+                "베이컨치즈버거"
+            ],
+            "price": [
+                "3,900원",
+                "3,900원",
+                "4,900원",
+                "6,300원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220127_178%2F1643245206890AQPiC_JPEG%2F%25C7%25C1%25B7%25A9%25C5%25A9%25B9%25F6%25B0%25C5_CI%2528%25BB%25E7%25B0%25A2.2%25C2%25F7%25BA%25AF%25B0%25E6%2529.jpg"
+        },
+        {
+            "name": "이태리면가게 샤로수길점",
+            "tel": "02-878-8271",
+            "star": "4.41/5",
+            "addr": "서울 관악구 남부순환로230길 50 2층 이태리면가게\n2서울대입구역 1번 출구에서466m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210616_137%2F1623834077668C8oxl_JPEG%2FeqSsNtCCyxzXz9Zaw-leQxPS.jpg"
+        },
+        {
+            "name": "도미노피자 낙성대점",
+            "tel": "02-872-3063",
+            "star": "4.42/5",
+            "addr": "서울 관악구 남부순환로 1862 일송빌딩\n2서울대입구역 1번 출구에서332m",
+            "foodtype": "피자",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_211%2F1564973506757fTup4_JPEG%2FU6XIrbRh1-XfDdLB-iTFckTt.jpg"
+        },
+        {
+            "name": "라페리체",
+            "tel": "070-8773-1001",
+            "star": "4.34/5",
+            "addr": "서울 관악구 관악로14길 34 지하 1층 (봉천동)\n2서울대입구역 2번 출구에서340m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "파스타 or 리소토 코스",
+                "스테이크 코스",
+                "브런치/파스타 or 리소토 코스",
+                "브런치/브런치 플래터"
+            ],
+            "price": [
+                "35,000원",
+                "45,000원",
+                "16,000원",
+                "16,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171220_204%2F1513741807287gMfRX_JPEG%2FkrPUgjkiI970cUqLvDcfKrcW.jpg"
+        },
+        {
+            "name": "WHERE ARE WE in blue",
+            "tel": "0507-1312-6696",
+            "star": "4.56/5",
+            "addr": "서울 관악구 쑥고개로 123 상가 1층 107호 웨어아위인블루\n2서울대입구역 3번 출구에서382m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181006_236%2F1538823265621Tx79X_JPEG%2Fin-0g0va7HAQp_Myo5Nx37Xh.jpeg.jpg"
+        },
+        {
+            "name": "버거킹 서울대입구역점",
+            "tel": "070-7462-6868",
+            "star": "4.37/5",
+            "addr": "서울 관악구 남부순환로 1796\n2서울대입구역 4번 출구에서240m",
+            "foodtype": "햄버거",
+            "menu": [
+                "더블텍사스칠리와퍼 세트",
+                "텍사스칠리와퍼 세트",
+                "텍사스칠리치킨버거 세트",
+                "타바스코 더블비프 세트"
+            ],
+            "price": [
+                "13,300원",
+                "10,800원",
+                "9,800원",
+                "7,700원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAzMjFfMTAw%2FMDAxNjQ3ODc0NDg1Mzcx.FWbHQcLyM5Vba6F1r1nKS-EE28mLLiUSrEA4mm9eQR0g.boQT2F3ebn0zyL8Xy9rmUoe4-3bcgq3jkL_blLyu7A8g.JPEG.nohjinsun%2FP20220317_123731421_AD9AFF4F-C22E-46D3-8766-2F38C97D3023."
+        }
+    ]
+}

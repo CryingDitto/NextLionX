@@ -1,0 +1,69 @@
+{
+    "안암 막걸리": {
+        "두부촌": {
+            "name": "두부촌",
+            "tel": "0507-1323-5269",
+            "star": [],
+            "addr": "서울 성북구 안암로 43\n6안암역 4번 출구에서704m",
+            "foodtype": "두부요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_268%2F14563775706580g9hh_JPEG%2F176175544949052_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/31234445?c=14138086.5321113,4521084.3550941,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한잔의추억": {
+            "name": "한잔의추억",
+            "tel": "02-3291-4848",
+            "star": "4.53/5",
+            "addr": "서울 성북구 고려대로26길 30\n6안암역 3번 출구에서166m",
+            "foodtype": "요리주점",
+            "menu": [
+                "돼지고기김찌찌개 小",
+                "순대볶음小",
+                "김치전",
+                "고추튀김小"
+            ],
+            "price": [
+                "8,000원",
+                "8,000원",
+                "8,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_206%2F1441000175647XR1VI_JPEG%2F146172605121592_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/19419208?c=14138086.5321113,4521084.3550941,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "막걸리찬가": {
+            "name": "막걸리찬가",
+            "tel": "0507-1416-5358",
+            "star": "4.46/5",
+            "addr": "서울 성북구 고려대로24길 58-5 고려안암빌딩\n6안암역 4번 출구에서326m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210830_70%2F1630283418073Fdgbh_JPEG%2F6eMXdjvFnfhfmt_GqDDmfveK.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/100544741?c=14138086.5321113,4521084.3550941,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "막걸리집": {
+            "name": "막걸리집",
+            "tel": "0507-1369-0588",
+            "star": "4.14/5",
+            "addr": "서울 성북구 고려대로26길 14\n6안암역 3번 출구에서108m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MTlfMjk5%2FMDAxNjU4MTk4NTQ2MTQy.5PYt-g2oA4ixILlgUZD7rx7eJ664DKXee5yC6cM_GeAg.mFQh8K0Cy9kmeeSrJfpMhX3UlhQkHXdyAvYnHB65uIog.JPEG.jini9767%2FIMG_0680.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/1430045450?c=14138086.5321113,4521084.3550941,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고대인이 애정하는 막걸리": {
+            "name": "고대인이 애정하는 막걸리",
+            "tel": "0507-1369-0588",
+            "star": "4.3/5",
+            "addr": "서울 성북구 고려대로26길 14\n6안암역 3번 출구에서108m",
+            "foodtype": "전통,민속주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200212_6%2F1581473995670f5ss8_JPEG%2FvOjAsKn4pOqRGU_9CbGbPFp4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/1950686301?c=14138086.5321113,4521084.3550941,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

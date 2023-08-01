@@ -34,9 +34,10 @@ def editPost(request, post_pk):
             title = request.POST['title'],
             content = request.POST['content'],
             event_time = request.POST['eventtime'],
+            update_date = timezone.now()
         )
 
-        # post.update_date = timezone.now()
+        
         return redirect('detail', post_pk)
 
     # filter -> Query set 리스트로 받아오므로 indexing 필요

@@ -1,0 +1,94 @@
+{
+    "안암 베트남 매장정보": [
+        {
+            "name": "반미362 고대안암점",
+            "tel": "02-928-0362",
+            "star": [],
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "샌드위치",
+            "menu": [
+                "야채 반미",
+                "오믈렛 반미",
+                "에그프라이 반미",
+                "햄소세지 반미"
+            ],
+            "price": [
+                "4,400원",
+                "6,300원",
+                "5,000원",
+                "6,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211123_280%2F163764939981162yQ0_JPEG%2F1.jpg"
+        },
+        {
+            "name": "미분당 고대안암점",
+            "tel": "070-4258-1220",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 13 1층\n6안암역 3번 출구에서116m",
+            "foodtype": "베트남음식",
+            "menu": [
+                "차돌양지힘줄 쌀국수",
+                "차돌박이 쌀국수",
+                "양지 쌀국수",
+                "차돌양지 쌀국수"
+            ],
+            "price": [
+                "11,000원",
+                "9,000원",
+                "10,000원",
+                "10,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220205_259%2F1644024956873Hltbb_JPEG%2FIMG_3396."
+        },
+        {
+            "name": "베트남노상식당 고려대점",
+            "tel": "0507-1328-7006",
+            "star": "4.38/5",
+            "addr": "서울 성북구 고려대로26길 42-1 1층\n6안암역 3번 출구에서238m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190110_121%2F1547055673894DyIxG_JPEG%2FsxNGA-ltfqrw9JDsydZbHwi4.jpeg.jpg"
+        },
+        {
+            "name": "꽌부이",
+            "tel": "070-7612-8151",
+            "star": "4.04/5",
+            "addr": "서울 성북구 고려대로27길 28\n6안암역 2번 출구에서175m",
+            "foodtype": "베트남음식",
+            "menu": [
+                "양지쌀국수(PHO BO)",
+                "우삼겹 쌀국수(PHO BO)",
+                "분리우(BUN Rieu)",
+                "분짜(BUN Cha)"
+            ],
+            "price": [
+                "8,900원",
+                "8,900원",
+                "10,400원",
+                "10,400원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210524_140%2F1621858932693QpD0h_JPEG%2FcNH0A3ThcJXYKPxRKhhJrS5N.jpeg.jpg"
+        },
+        {
+            "name": "하노이별 고대안암점",
+            "tel": "0507-1318-7470",
+            "star": "4.32/5",
+            "addr": "서울 성북구 개운사길 5\n6안암역 1번 출구에서71m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200129_201%2F1580285624712Jbfol_JPEG%2FHlTJkCmUASbJZpX-RglZZ91l.JPG.jpg"
+        },
+        {
+            "name": "베트남집밥",
+            "tel": "070-8258-2138",
+            "star": [],
+            "addr": "서울 동대문구 고산자로56길 14-1 1층\n6고려대역 4번 출구에서285m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1120263786%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660757741307%26md%3DDPFbtoBFhg7%252FkB0FMExXPcf7DUk%253D"
+        }
+    ]
+}

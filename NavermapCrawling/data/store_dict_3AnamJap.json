@@ -1,0 +1,184 @@
+{
+    "안암 일식": {
+        "야마토텐동": {
+            "name": "야마토텐동",
+            "tel": "02-6326-1055",
+            "star": "4.59/5",
+            "addr": "서울 성북구 고려대로28길 2 1층 야마토텐동\n6안암역 3번 출구에서60m",
+            "foodtype": "일식당",
+            "menu": [
+                "붓가케우동",
+                "크레미아",
+                "아나고텐동",
+                "규텐동"
+            ],
+            "price": [
+                "5,000원",
+                "6,500원",
+                "14,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190831_28%2F1567242357553Bcwrw_JPEG%2FSywPPxpm0vG6OU3bC7xyCG5G.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1731898385?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "백소정 본점": {
+            "name": "백소정 본점",
+            "tel": "0507-1392-2022",
+            "star": "4.66/5",
+            "addr": "서울 성북구 개운사길 30 2층\n6안암역 2번 출구에서164m",
+            "foodtype": "일식당",
+            "menu": [
+                "마제소바+돈카츠",
+                "냉소바+에비텐",
+                "모짜렐라치즈카츠(4pcs)",
+                "머쉬룸포크카레+에비텐"
+            ],
+            "price": [
+                "13,900원",
+                "12,500원",
+                "12,500원",
+                "12,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200326_99%2F1585226363347HApqq_JPEG%2FQ6xsm1UclSUT-NDzzwdLQOKY.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1871455397?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "쿠이도라쿠": {
+            "name": "쿠이도라쿠",
+            "tel": "02-929-9290",
+            "star": "4.24/5",
+            "addr": "서울 성북구 안암로 103 1층\n6안암역 3번 출구에서237m",
+            "foodtype": "일본식라면",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160225_296%2F1456378365139KhmOE_JPEG%2F176175546263847_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/19796735?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "미소초밥": {
+            "name": "미소초밥",
+            "tel": "0507-1340-3539",
+            "star": "4.39/5",
+            "addr": "서울 성북구 개운사길 19 1층\n6안암역 1번 출구에서140m",
+            "foodtype": "초밥,롤",
+            "menu": [
+                "특초밥(12P)",
+                "미소도시락B",
+                "모듬사시미",
+                "장어덮밥"
+            ],
+            "price": [
+                "16,000원",
+                "25,000원",
+                "55,000원",
+                "18,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191102_17%2F1572684165126eugtz_JPEG%2FnHk7oyOskZYe9GT0dP9v8JBj.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1708207755?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안돈48": {
+            "name": "안돈48",
+            "tel": "02-6959-5348",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 5 1층\n6안암역 3번 출구에서85m",
+            "foodtype": "돈가스",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220427_71%2F1651025572432etROw_JPEG%2F20220427_111110.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1506204527?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "탄": {
+            "name": "탄",
+            "tel": "0507-1321-5977",
+            "star": "4.2/5",
+            "addr": "서울 성북구 고려대로27길 25\n6안암역 2번 출구에서170m",
+            "foodtype": "돈가스",
+            "menu": [
+                "흑돼지 생 돈까스(생등심)",
+                "모듬까스 도시락(생등심, 생선, 새우2, 치킨2)",
+                "사케동(연어덮밥)",
+                "소고기덮밥 도시락"
+            ],
+            "price": [
+                "9,000원",
+                "11,000원",
+                "12,000원",
+                "9,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190827_121%2F1566888487611JEEFp_JPEG%2F9LGbErhdiZpNf0WvamPWnbfk.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/20757700?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한술식당 고대점": {
+            "name": "한술식당 고대점",
+            "tel": "0507-1336-5559",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 15 2층\n6안암역 3번 출구에서95m",
+            "foodtype": "덮밥",
+            "menu": [
+                "곱창덮밥",
+                "고추장삼겹덮밥",
+                "간장삼겹덮밥",
+                "치즈곱창덮밥"
+            ],
+            "price": [
+                "9,900원",
+                "9,900원",
+                "9,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220812_214%2F1660275799017KqejO_JPEG%2F%25B8%25F0%25B5%25D2%25C4%25C6.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1407526464?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "스시토로": {
+            "name": "스시토로",
+            "tel": "0507-1410-3537",
+            "star": "4.17/5",
+            "addr": "서울 성북구 개운사길 5 2층\n6안암역 1번 출구에서71m",
+            "foodtype": "초밥,롤",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191008_293%2F1570514332200wqBtr_JPEG%2FA4xxe33-io3EisQLkylC9uDe.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/38510364?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "다정소반": {
+            "name": "다정소반",
+            "tel": "0507-1386-3239",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 7 2층\n6안암역 2번 출구에서69m",
+            "foodtype": "일식당",
+            "menu": [
+                "마제소보로동 한상",
+                "눈꽃 키마카레한상",
+                "규동 한상",
+                "회오리 오야꼬동한상"
+            ],
+            "price": [
+                "8,500원",
+                "8,500원",
+                "8,900원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220503_156%2F1651573260384Lui1q_JPEG%2FD74ED702-2143-4F75-8AED-DBE3BA1F2256.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1043701880?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마카나이 고대점": {
+            "name": "마카나이 고대점",
+            "tel": "0507-1414-7779",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 11 1층 마카나이\n6안암역 3번 출구에서111m",
+            "foodtype": "일식당",
+            "menu": [
+                "돈코츠라멘",
+                "매운야끼차슈라멘",
+                "차슈 덮밥",
+                "규동"
+            ],
+            "price": [
+                "9,000원",
+                "11,000원",
+                "8,500원",
+                "8,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180930_136%2F1538281023356BNjY0_JPEG%2FQLXICe4qGSMw8zGUW8Cnb5yl.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%9D%BC%EC%8B%9D/place/1235182469?c=14139198.5359007,4520969.7406883,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

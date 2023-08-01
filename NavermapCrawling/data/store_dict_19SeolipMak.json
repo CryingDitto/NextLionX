@@ -1,0 +1,132 @@
+{
+    "서울대입구 막걸리": {
+        "막걸리전당": {
+            "name": "막걸리전당",
+            "tel": "0507-1407-7103",
+            "star": [],
+            "addr": "서울 관악구 봉천로 461-1 1층\n2서울대입구역 6번 출구에서225m",
+            "foodtype": "전통,민속주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210707_116%2F1625659918619oq3fn_JPEG%2FaRgoxth0pzaYp2EwrbHqKbaJ.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/1044104104?c=14130299.2216607,4506581.7488976,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "동대문왕빈대떡": {
+            "name": "동대문왕빈대떡",
+            "tel": "02-875-7774",
+            "star": "4.5/5",
+            "addr": "서울 관악구 봉천로 447 동대문왕빈대떡\n2서울대입구역 5번 출구에서366m",
+            "foodtype": "전,빈대떡",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_14%2F1441009207896EgMcQ_JPEG%2F146257554524575_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/31794227?c=14130100.8503281,4506605.4846982,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한계령": {
+            "name": "한계령",
+            "tel": "02-3285-1757",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1850 대신빌딩\n2서울대입구역 1번 출구에서223m",
+            "foodtype": "전통,민속주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_210%2F1441004634325MjKpC_JPEG%2F146157568765532_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/31669478?c=14130731.8203339,4506221.9588987,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "남도반주": {
+            "name": "남도반주",
+            "tel": "0507-1304-9446",
+            "star": "4.79/5",
+            "addr": "서울 관악구 관악로14가길 6 지하1층\n2서울대입구역 1번 출구에서474m",
+            "foodtype": "한식",
+            "menu": [
+                "대표메뉴:물레방아 계절회",
+                "엔다이브 제육볶음",
+                "젓갈치즈 스프레드",
+                "의성마늘 관자구이"
+            ],
+            "price": [
+                "42,000원",
+                "변동",
+                "변동",
+                "변동"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201018_59%2F1603000162478nnBjV_JPEG%2Frq5P0AhiNnIqnaaA-FCRFFSO.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/1223614679?c=14130820.8647945,4505980.7965332,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "봉이전": {
+            "name": "봉이전",
+            "tel": "02-874-5577",
+            "star": "4.59/5",
+            "addr": "서울 관악구 봉천로 473-5 1층\n2서울대입구역 6번 출구에서140m",
+            "foodtype": "전,빈대떡",
+            "menu": [
+                "모듬전",
+                "소고기육전",
+                "골뱅이무침((기본소면사리제공))",
+                "두부김치"
+            ],
+            "price": [
+                "26,000원",
+                "27,000원",
+                "20,000원",
+                "19,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220524_6%2F1653371408420m1ESQ_JPEG%2F1653370950808-8.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/18709655?c=14130820.8647945,4505980.7965332,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "종로빈대떡": {
+            "name": "종로빈대떡",
+            "tel": "0507-1316-1510",
+            "star": "4.19/5",
+            "addr": "서울 관악구 관악로15길 24\n2서울대입구역 3번 출구에서199m",
+            "foodtype": "전,빈대떡",
+            "menu": [
+                "녹두빈대떡(고기,해물)",
+                "모듬전",
+                "해물파전",
+                "녹두굴빈대떡"
+            ],
+            "price": [
+                "13,000원",
+                "20,000원",
+                "16,000원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190728_59%2F15643011859802maHo_JPEG%2F-k8RiDWesgPrb9NWNTo97epH.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/914045144?c=14130259.6253178,4506278.7574268,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "소년주막": {
+            "name": "소년주막",
+            "tel": "0507-1482-5678",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14길 10 지하1층\n2서울대입구역 2번 출구에서230m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181201_146%2F1543591051367pMvmH_JPEG%2F-MgxPFHmUIV_uIohc9oJupsa.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/1148519086?c=14130490.5687334,4506103.8458789,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "행운1673-6": {
+            "name": "행운1673-6",
+            "tel": "0507-1338-1673",
+            "star": [],
+            "addr": "서울 관악구 남부순환로231길 16 1층\n2서울대입구역 8번 출구에서415m",
+            "foodtype": "맥주,호프",
+            "menu": [
+                "골뱅이무침",
+                "양조장막걸리",
+                "먹태",
+                "오뎅탕"
+            ],
+            "price": [
+                "19,000원",
+                "6,000원",
+                "12,000원",
+                "10,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220601_29%2F1654069220011p9ftI_JPEG%2F02BA787F-E03E-411B-8212-47098F17D11F.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%A7%89%EA%B1%B8%EB%A6%AC/place/1076403583?c=14130943.7726443,4506262.7657133,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

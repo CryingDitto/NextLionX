@@ -1,0 +1,64 @@
+{
+    "서울대입구 양식 매장정보": [
+        {
+            "name": "쥬벤쿠바 샤로수길점",
+            "tel": "0507-1468-3234",
+            "star": "4.68/5",
+            "addr": "서울 관악구 관악로14나길 10 1층\n2서울대입구역 1번 출구에서623m",
+            "foodtype": "양식",
+            "menu": [
+                "바베큐 플래터",
+                "쿠바 샌드위치 세트",
+                "잠발라야",
+                "감바스 투움바"
+            ],
+            "price": [
+                "37,000원",
+                "16,000원",
+                "16,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200516_213%2F1589602343046iOesI_JPEG%2Fv8rx066NcqsPoeX4PfLt_kE0.jpg"
+        },
+        {
+            "name": "문득",
+            "tel": "02-882-2186",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14길 8\n2서울대입구역 2번 출구에서214m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "매콤토마토 토마호크 커틀렛",
+                "데미토마호크 커틀렛",
+                "손두부해물토마토파스타",
+                "우삽겹강된장파스타"
+            ],
+            "price": [
+                "22,000원",
+                "21,500원",
+                "15,000원",
+                "16,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200806_139%2F1596721521482GtF4b_JPEG%2FV03SngzRo3PtZBvG9kEC2P5I.JPG.jpg"
+        },
+        {
+            "name": "사담",
+            "tel": "02-882-7501",
+            "star": "4.73/5",
+            "addr": "서울 관악구 남부순환로 1852 5층\n2서울대입구역 1번 출구에서245m",
+            "foodtype": "브런치",
+            "menu": [
+                "브런치 플레이트",
+                "샌드위치플레이트",
+                "베리콩포트 팬케익",
+                "캐러멜즈바나나 프렌치토스트"
+            ],
+            "price": [
+                "13,000원",
+                "17,000원",
+                "12,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201216_100%2F1608076541987HvN4x_JPEG%2FiujgYGlJOl1rfRd6KN1a_XYU.jpeg.jpg"
+        }
+    ]
+}

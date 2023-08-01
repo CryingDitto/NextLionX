@@ -1,0 +1,988 @@
+{
+    "안암 술집": {
+        "늘,안암": {
+            "name": "늘,안암",
+            "tel": "0507-1329-1748",
+            "star": "4.7/5",
+            "addr": "서울 성북구 고려대로24가길 13-2 1F\n6안암역 3번 출구에서135m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201019_298%2F1603106148670DYMMO_JPEG%2FgbJjSpDvyLMSo-D-U7qiUIuA.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1855055717?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "호랑이술상 안암": {
+            "name": "호랑이술상 안암",
+            "tel": "0507-1335-1079",
+            "star": "4.54/5",
+            "addr": "서울 성북구 고려대로26길 55 2층\n6안암역 3번 출구에서277m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190910_46%2F1568042818319Mwfp7_JPEG%2FgXX4fYH1y6hlaftNGIBRM3e6.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1122438469?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한잔의추억": {
+            "name": "한잔의추억",
+            "tel": "02-3291-4848",
+            "star": "4.53/5",
+            "addr": "서울 성북구 고려대로26길 30\n6안암역 3번 출구에서166m",
+            "foodtype": "요리주점",
+            "menu": [
+                "돼지고기김찌찌개 小",
+                "순대볶음小",
+                "김치전",
+                "고추튀김小"
+            ],
+            "price": [
+                "8,000원",
+                "8,000원",
+                "8,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_206%2F1441000175647XR1VI_JPEG%2F146172605121592_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/19419208?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "춘자": {
+            "name": "춘자",
+            "tel": "0507-1309-2810",
+            "star": "4.3/5",
+            "addr": "서울 성북구 고려대로26길 45-4 1층or 지하1층\n6안암역 3번 출구에서257m",
+            "foodtype": "포장마차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190722_241%2F1563760212388fUqjB_JPEG%2Fb2sBjc5vuB2qzcfV7FIgGDKg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1782632529?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "팔레트 안암점": {
+            "name": "팔레트 안암점",
+            "tel": "070-7576-4450",
+            "star": "4.32/5",
+            "addr": "서울 성북구 고려대로26길 42-4 1층 팔레트\n6안암역 3번 출구에서245m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190908_261%2F1567937471396xJSSK_JPEG%2F8BM295YgQfVnTHwIGQtp9m0y.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1321700590?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "주유소2": {
+            "name": "주유소2",
+            "tel": "070-8743-3252",
+            "star": "4.41/5",
+            "addr": "서울 성북구 고려대로27길 19 2F\n6안암역 2번 출구에서142m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_172%2F1441001719128f2Dhw_JPEG%2F146078565334033_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/31564700?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "다락": {
+            "name": "다락",
+            "tel": "0507-1340-5532",
+            "star": "4.55/5",
+            "addr": "서울 성북구 고려대로 95 2층\n6안암역 2번 출구에서25m",
+            "foodtype": "요리주점",
+            "menu": [
+                "라자냐",
+                "(점심)바질 파스타 정식",
+                "(점심)알리오올리오 파스타 정식",
+                "(점심)로제 파스타 정식"
+            ],
+            "price": [
+                "16,500원",
+                "9,500원",
+                "9,500원",
+                "9,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190331_73%2F1553965006286ilpFw_JPEG%2FFjRSqCyUqOkQzzEn43JBMZK-.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1466342851?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "DaddyJ Hookah Bar": {
+            "name": "DaddyJ Hookah Bar",
+            "tel": "010-5672-2252",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 3-3 지하1층\n6안암역 3번 출구에서37m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220415_190%2F1649996809652Woi2u_JPEG%2F6DA8B67F-B358-4670-9455-565C6E217095.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/36893226?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "호랭이술집": {
+            "name": "호랭이술집",
+            "tel": "0507-1384-3920",
+            "star": "3.81/5",
+            "addr": "서울 성북구 고려대로26길 14 지하1층 B101호\n6안암역 3번 출구에서108m",
+            "foodtype": "요리주점",
+            "menu": [
+                "제육볶음",
+                "막국수&돼지갈비",
+                "매운오돌뼈",
+                "매운치즈불닭"
+            ],
+            "price": [
+                "13,000원",
+                "20,000원",
+                "15,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210419_245%2F1618835463980hV0i4_JPEG%2FAxjsBc2dEBq8Awlqp77VAxAS.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1418030468?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "쪼끼쪼끼 안암역점": {
+            "name": "쪼끼쪼끼 안암역점",
+            "tel": "02-922-6887",
+            "star": "4.32/5",
+            "addr": "서울 성북구 고려대로24길 3-42\n6안암역 3번 출구에서30m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180406_115%2F1523013235531PQ1qj_JPEG%2FSB5ko7LNNmd7U-cEeCiaP-yp.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1605188782?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "호미불닭발 고대안암점": {
+            "name": "호미불닭발 고대안암점",
+            "tel": "02-923-5356",
+            "star": "4.51/5",
+            "addr": "서울 성북구 안암로 81-4 3층\n6안암역 3번 출구에서323m",
+            "foodtype": "닭발",
+            "menu": [
+                "SET 1. 통발세트",
+                "SET 2. 무뼈세트",
+                "오돌뼈+주먹밥",
+                "볶은똥집"
+            ],
+            "price": [
+                "30,000원",
+                "30,000원",
+                "15,000원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_140%2F1547731151749E2A8H_JPEG%2FcfaBcQj8XL_mf4DimFZ-QE9K.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/36435960?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "56st": {
+            "name": "56st",
+            "tel": "0507-1475-0028",
+            "star": "4.41/5",
+            "addr": "서울 성북구 고려대로26길 25 1층\n6안암역 3번 출구에서154m",
+            "foodtype": "요리주점",
+            "menu": [
+                "돼지고기쫄쫄면",
+                "소고기샤브전골",
+                "삼겹수육",
+                "로빠새"
+            ],
+            "price": [
+                "9,900원",
+                "10,900원",
+                "10,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200205_85%2F1580900755195dLpl0_JPEG%2FMe57-dYkWRXQeyO0TBpVWPti.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1368226440?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안암주점": {
+            "name": "안암주점",
+            "tel": "0507-1475-0028",
+            "star": "4.65/5",
+            "addr": "서울 성북구 고려대로24길 11 지하층\n6안암역 3번 출구에서81m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210721_114%2F1626848293741snALH_JPEG%2FA8rJDziBbS7rxZkLt4IsM_fS.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1550301616?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "아지트안암": {
+            "name": "아지트안암",
+            "tel": "010-7465-4265",
+            "star": "4.8/5",
+            "addr": "서울 성북구 고려대로24길 48 B1\n6안암역 3번 출구에서267m",
+            "foodtype": "바(BAR)",
+            "menu": [
+                "경리단길 미트파이 비프/치킨/머쉬룸",
+                "아지트 후카/시샤",
+                "칵테일",
+                "이벤트&놀거리"
+            ],
+            "price": [
+                "변동",
+                "변동",
+                "변동",
+                "변동"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190522_166%2F1558494218637PSF3E_JPEG%2Ftf7ZhY2kyxB29qrchdVlV9hx.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1483976132?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "thehub": {
+            "name": "thehub",
+            "tel": "02-923-7767",
+            "star": "4.45/5",
+            "addr": "서울 성북구 고려대로24가길 8 지하 1층 더허브\n6안암역 3번 출구에서140m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190223_218%2F1550855844471CTFPH_JPEG%2FWY03Nh4PNP4IqhpQ4fqq8v_B.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/33445650?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "땡전집": {
+            "name": "땡전집",
+            "tel": "02-929-8295",
+            "star": "4.38/5",
+            "addr": "서울 성북구 고려대로24길 24\n6안암역 3번 출구에서148m",
+            "foodtype": "전통,민속주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170427_227%2F1493257207449rLnhR_JPEG%2FIMG_20170426_151350.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/21805934?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "막걸리찬가": {
+            "name": "막걸리찬가",
+            "tel": "0507-1416-5358",
+            "star": "4.46/5",
+            "addr": "서울 성북구 고려대로24길 58-5 고려안암빌딩\n6안암역 4번 출구에서326m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210830_70%2F1630283418073Fdgbh_JPEG%2F6eMXdjvFnfhfmt_GqDDmfveK.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/100544741?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "오징어나라 고대점": {
+            "name": "오징어나라 고대점",
+            "tel": "02-924-5484",
+            "star": "3.97/5",
+            "addr": "서울 성북구 고려대로24가길 6\n6안암역 3번 출구에서144m",
+            "foodtype": "오징어요리",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_259%2F1441000100081PITn5_JPEG%2FSUBMIT_1374573637226_19411483.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/19411483?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "자갈자갈": {
+            "name": "자갈자갈",
+            "tel": "0507-1458-7962",
+            "star": [],
+            "addr": "서울 성북구 안암로 73-3 1층\n6안암역 4번 출구에서368m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211022_288%2F1634897327165DfEeo_JPEG%2Fh77UCgd6uoXbedYsgxk84bxZ.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1025310066?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "바 라라 라디오": {
+            "name": "바 라라 라디오",
+            "tel": "0507-1458-7962",
+            "star": "4.3/5",
+            "addr": "서울 성북구 고려대로24가길 29\n6안암역 3번 출구에서168m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200412_36%2F1586673233117MJoTW_JPEG%2F0q98TW83FFy9y_2A2KmxlQb_.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1799772480?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "역전할머니맥주 서울고대점": {
+            "name": "역전할머니맥주 서울고대점",
+            "tel": "02-929-1226",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 14\n6안암역 3번 출구에서86m",
+            "foodtype": "맥주,호프",
+            "menu": [
+                "할맥500cc",
+                "치즈라볶이",
+                "짜빠구리",
+                "튀김범벅세트"
+            ],
+            "price": [
+                "3,700원",
+                "9,000원",
+                "9,000원",
+                "13,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200917_147%2F16003256272946H7N8_JPEG%2F-QhN0o6xQrU5rhQYidJbqeOK.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1716668282?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "박군포차": {
+            "name": "박군포차",
+            "tel": "02-929-1226",
+            "star": "4.21/5",
+            "addr": "서울 성북구 고려대로26길 34\n6안암역 3번 출구에서188m",
+            "foodtype": "포장마차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190119_291%2F1547893546414HHorJ_JPEG%2FTPK9wFl31puHjo5fL5Me3L9V.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1844188621?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "반지": {
+            "name": "반지",
+            "tel": "02-925-0867",
+            "star": "4.5/5",
+            "addr": "서울 성북구 고려대로26길 31\n6안암역 3번 출구에서176m",
+            "foodtype": "요리주점",
+            "menu": [
+                "파타야 치킨",
+                "화이트와인 봉골레찜",
+                "파타야 치킨",
+                "화이트와인 봉골레찜"
+            ],
+            "price": [
+                "18,000원",
+                "18,000원",
+                "18,000원",
+                "18,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190125_62%2F1548412036579fEPzw_JPEG%2FXkf1dNiXU392ac0M8W3e7V2U.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/37548990?c=14139087.5615003,4521018.4014371,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "시작이밤이다 안암점": {
+            "name": "시작이밤이다 안암점",
+            "tel": "0507-1334-4788",
+            "star": "4.69/5",
+            "addr": "서울 성북구 고려대로 114 1층\n6안암역 3번 출구에서221m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190104_246%2F1546572375737yYA9a_JPEG%2F9rRQewsCyHBHEdsftV2RzHkm.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1308577646?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "맥주창고": {
+            "name": "맥주창고",
+            "tel": "02-6225-0629",
+            "star": "4.05/5",
+            "addr": "서울 성북구 고려대로24가길 8 2층\n6안암역 3번 출구에서140m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190125_186%2F1548426576682me1jM_JPEG%2FxR8XTG9UlcAKDfcG2L-9W7hj.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/751244865?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "뜨락": {
+            "name": "뜨락",
+            "tel": "0507-1434-3791",
+            "star": [],
+            "addr": "서울 성북구 고려대로24가길 11 1층\n6안암역 3번 출구에서136m",
+            "foodtype": "요리주점",
+            "menu": [
+                "연어알쌈",
+                "쇠고기들깨탕",
+                "수제고로케+수제돈까스",
+                "치즈닭갈비"
+            ],
+            "price": [
+                "13,000원",
+                "13,000원",
+                "13,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210913_221%2F1631524719251isnVz_JPEG%2FjA4DnxIrD721_xp7BcLFlKob.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1543375655?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "골목집": {
+            "name": "골목집",
+            "tel": "0507-1434-3791",
+            "star": "4.32/5",
+            "addr": "서울 성북구 고려대로26길 33\n6안암역 3번 출구에서188m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_230%2F1547727884255h3icl_JPEG%2FvRQWOZD_OeRt5gyBcsofdiO8.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1843788767?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안암꼬치 고대안암본점": {
+            "name": "안암꼬치 고대안암본점",
+            "tel": "02-925-9417",
+            "star": "4.46/5",
+            "addr": "서울 성북구 안암로 85\n6안암역 3번 출구에서338m",
+            "foodtype": "오뎅,꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180918_249%2F1537244132239uJWwV_JPEG%2FjA1neFsgJl35b5UrRrMCJog4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1683560725?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "88왕대포 고대본점": {
+            "name": "88왕대포 고대본점",
+            "tel": "02-922-4085",
+            "star": "4.47/5",
+            "addr": "서울 성북구 고려대로26길 49\n6안암역 3번 출구에서261m",
+            "foodtype": "포장마차",
+            "menu": [
+                "살얼음 생맥주",
+                "고추튀김",
+                "88타워화채",
+                "옛날팥빙수"
+            ],
+            "price": [
+                "4,000원",
+                "11,900원",
+                "11,900원",
+                "4,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210122_264%2F1611247337563Hjjwb_JPEG%2Fc2nGyK4DuaxRSBB6MQctfDs6.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1472299174?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "버블": {
+            "name": "버블",
+            "tel": "02-924-4325",
+            "star": "4.44/5",
+            "addr": "서울 성북구 고려대로 103\n6안암역 2번 출구에서97m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_160%2F1441012181132OFEjm_JPEG%2F146268564826451_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/31872156?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "대디제이": {
+            "name": "대디제이",
+            "tel": "02-924-0904",
+            "star": [],
+            "addr": "서울 성북구 고려대로24가길 4-17 지하1층 대디제이\n6안암역 3번 출구에서206m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_224%2F1441002665873jSIfD_JPEG%2FSUBMIT_1359633926265_31592516.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/31592516?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "희야": {
+            "name": "희야",
+            "tel": "02-924-0904",
+            "star": "4.22/5",
+            "addr": "서울 성북구 고려대로26길 32 1F\n6안암역 3번 출구에서175m",
+            "foodtype": "이자카야",
+            "menu": [
+                "모듬사시미(대)",
+                "모듬사시미(중)",
+                "모듬꼬치(8종)",
+                "모듬꼬치(11종)"
+            ],
+            "price": [
+                "42,000원",
+                "35,000원",
+                "16,000원",
+                "21,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_29%2F1547727774354AYPja_JPEG%2Fb3ppLjEaypgEbGT-PcvCtEqD.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/38276703?c=14139282.5709843,4521143.3695710,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "라비다 바": {
+            "name": "라비다 바",
+            "tel": "02-929-5944",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 9\n6안암역 3번 출구에서95m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160406_199%2F1459904533587LJvf9_PNG%2F176356503231617_0.png",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/37747290?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "투엔디": {
+            "name": "투엔디",
+            "tel": "02-929-5944",
+            "star": "4.57/5",
+            "addr": "서울 성북구 인촌로24길 44\n6안암역 3번 출구에서257m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181105_3%2F1541414817786Nk12J_JPEG%2F5pGxjkHqA9mqkQBhceuS1P5b.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1610316015?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "동스꼬치": {
+            "name": "동스꼬치",
+            "tel": "010-8273-8855",
+            "star": [],
+            "addr": "서울 성북구 안암로 103\n6안암역 3번 출구에서237m",
+            "foodtype": "오뎅,꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_19%2F1547731974601TxhWA_JPEG%2FceUqv_J7cM_HnthaBAAwu-xZ.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/35787496?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "오거리술집": {
+            "name": "오거리술집",
+            "tel": "0507-1314-7739",
+            "star": "4.14/5",
+            "addr": "서울 성북구 고려대로24길 60 2층\n6안암역 3번 출구에서334m",
+            "foodtype": "맥주,호프",
+            "menu": [
+                "우삼겹탕탕나베",
+                "마늘똥집",
+                "소고기숙주데리야끼",
+                "토마토 카프레제."
+            ],
+            "price": [
+                "13,000원",
+                "13,000원",
+                "13,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180625_84%2F1529863652352UrbHN_JPEG%2F9ESBiG_RRR2765mzM7CDh_rm.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1034667603?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "지금보고싶다 고대안암점": {
+            "name": "지금보고싶다 고대안암점",
+            "tel": "070-8877-4872",
+            "star": "4.24/5",
+            "addr": "서울 성북구 고려대로26길 42-2 2층\n6안암역 3번 출구에서242m",
+            "foodtype": "요리주점",
+            "menu": [
+                "플레이트1",
+                "제주화산전골",
+                "밀페유나베",
+                "소주"
+            ],
+            "price": [
+                "21,900원",
+                "19,000원",
+                "19,000원",
+                "4,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190329_210%2F1553838261696kwJ16_JPEG%2FfJv8vtUn0aQ3K1J74A4qtsPO.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1836337669?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "원이자카야": {
+            "name": "원이자카야",
+            "tel": "0507-1402-1049",
+            "star": "4.36/5",
+            "addr": "서울 성북구 고려대로26길 45-4\n6안암역 3번 출구에서257m",
+            "foodtype": "이자카야",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160615_248%2F1465981172155B5YQQ_JPEG%2F176560537071023_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/38015752?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "두꺼비로맨스 고대점": {
+            "name": "두꺼비로맨스 고대점",
+            "tel": "02-928-0260",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 14 대륜빌딩 2층 201호 두꺼비로맨스 고대점\n6안암역 3번 출구에서108m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210516_161%2F1621160198641hyRLT_JPEG%2FwVZTMICvDv5RBc8HIjIBCsWy.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1578830854?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "아맛나슈퍼 안암점": {
+            "name": "아맛나슈퍼 안암점",
+            "tel": "02-921-5055",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 42-1\n6안암역 3번 출구에서238m",
+            "foodtype": "포장마차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160714_161%2F1468485250393zkyUQ_JPEG%2F176664576429096_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/38576615?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "막걸리집": {
+            "name": "막걸리집",
+            "tel": "0507-1369-0588",
+            "star": "4.14/5",
+            "addr": "서울 성북구 고려대로26길 14\n6안암역 3번 출구에서108m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MTlfMjk5%2FMDAxNjU4MTk4NTQ2MTQy.5PYt-g2oA4ixILlgUZD7rx7eJ664DKXee5yC6cM_GeAg.mFQh8K0Cy9kmeeSrJfpMhX3UlhQkHXdyAvYnHB65uIog.JPEG.jini9767%2FIMG_0680.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1430045450?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "별난주점 고대안암점": {
+            "name": "별난주점 고대안암점",
+            "tel": "02-953-7288",
+            "star": "4.4/5",
+            "addr": "서울 성북구 고려대로24길 5\n6안암역 3번 출구에서58m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190119_198%2F1547894430496egNj9_JPEG%2F7Xk6l3Trta6N_lEDs6_Cjv62.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1509577264?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고대인이 애정하는 막걸리": {
+            "name": "고대인이 애정하는 막걸리",
+            "tel": "02-953-7288",
+            "star": "4.3/5",
+            "addr": "서울 성북구 고려대로26길 14\n6안암역 3번 출구에서108m",
+            "foodtype": "전통,민속주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200212_6%2F1581473995670f5ss8_JPEG%2FvOjAsKn4pOqRGU_9CbGbPFp4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1950686301?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "술기로운맥주생활 고대점": {
+            "name": "술기로운맥주생활 고대점",
+            "tel": "02-463-2605",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로24길 28\n6안암역 3번 출구에서170m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200424_248%2F1587716230013JQT5P_JPEG%2FpxTjdgMoPIQmjUIhag-1UqTa.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1030851107?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마르니": {
+            "name": "마르니",
+            "tel": "0507-1338-3893",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 5 2층\n6안암역 2번 출구에서55m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMTVfNzQg%2FMDAxNTQyMjU4OTIwMTMw.jEaqvB5qYzLgRowGUiehOgB_8qnsLF_01Q52kMg3N8Eg.zReFm0SbgTWIg7e5-FCt9vNvy243avhfi6EahxZdNqYg.JPEG.jojaefilm%2FIMG_3466.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1354546098?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한숨 안암점": {
+            "name": "한숨 안암점",
+            "tel": "02-6084-0605",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 55 지층\n6안암역 3번 출구에서277m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1824044226%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660998893447%26md%3DP6nvEN5pCwdmWjwcWQylSjp%252BXDc%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1824044226?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "DROGBA": {
+            "name": "DROGBA",
+            "tel": "02-6084-0605",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 12\n6안암역 3번 출구에서74m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200115_219%2F1579080816933wX0hb_JPEG%2Frf28F0Evc6QyST5-4QdhmFsP.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1876270237?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "주당(안암동)": {
+            "name": "주당(안암동)",
+            "tel": "02-927-0951",
+            "star": "4.3/5",
+            "addr": "서울 성북구 인촌로26길 42-3\n6안암역 3번 출구에서235m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_228%2F1591787228755DvMpb_JPEG%2Fm5D-c2z6J9IbtTvw85PYIUoj.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/419001636?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "38포차": {
+            "name": "38포차",
+            "tel": "010-9431-1452",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로26길 45-5 1층\n6안암역 3번 출구에서244m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjNfNCAg%2FMDAxNjU1OTE2MzYxOTE4.pw7hFT2y0CYROG4736X2U_ubTEjoHhP8v9wldbpDdEkg.WgA-OlGKylyOAcbARyEe19jjhvXglB4WGcHiVghiWAwg.JPEG.uhmtoto%2Foutput_1102698321.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1593774113?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "거품": {
+            "name": "거품",
+            "tel": "02-922-2009",
+            "star": "4.43/5",
+            "addr": "서울 성북구 개운사길 12\n6안암역 2번 출구에서74m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20151101_162%2Fksbe87_14463729739000PbPW_JPEG%2FP20151029_205921149_887D7A14-C8CC-4F1B-9B0C-7F7CF9904F33.",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/19418524?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "유객주 안암고대점": {
+            "name": "유객주 안암고대점",
+            "tel": "02-924-1638",
+            "star": [],
+            "addr": "서울 성북구 개운사길 8 타이거빌딩\n6안암역 2번 출구에서52m",
+            "foodtype": "전통,민속주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_170%2F1440991575587fulPH_JPEG%2FSUBMIT_1374560544100_18240990.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/18240990?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "1973광장시장": {
+            "name": "1973광장시장",
+            "tel": "02-928-8543",
+            "star": [],
+            "addr": "서울 성북구 고려대로24가길 4-17\n6안암역 3번 출구에서205m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MjNfMjgz%2FMDAxNjI3MDI5ODk1MTM3.aq-hJxBIL0Y_4eKg6UujmRzsdcctkw513tv5aLPoXdMg.Fr5PHCogN1ZeVNI8xm67zbIMm5BAA2xs1lYgE_LpOA8g.JPEG.flyjun24%2F20210713_194655.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/524223772?c=14139055.0784729,4521077.5981615,14,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "피쉬홀덤펍": {
+            "name": "피쉬홀덤펍",
+            "tel": "0507-1322-6414",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 56 3층\n6안암역 3번 출구에서306m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220718_117%2F1658128463994koVaw_JPEG%2FKakaoTalk_20220718_161358292.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1204915357?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "주유소1": {
+            "name": "주유소1",
+            "tel": "02-927-0792",
+            "star": "4.35/5",
+            "addr": "서울 성북구 인촌로27길 24-2\n6안암역 2번 출구에서175m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_179%2F1441001856651DINJV_JPEG%2FSUBMIT_1359436726507_31575679.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/31575679?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "애비로드": {
+            "name": "애비로드",
+            "tel": "02-6403-0053",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 42-4\n6안암역 3번 출구에서245m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151112_158%2F14472907074875O4LB_JPEG%2F167062504167.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/37278021?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "드록바": {
+            "name": "드록바",
+            "tel": "02-462-7364",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 12\n6안암역 3번 출구에서74m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1977221753%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660998953362%26md%3D%252FLBAPQcxMz4g8DPM%252Bv2gMvVxCCI%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1977221753?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고담": {
+            "name": "고담",
+            "tel": "02-929-3066",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 8\n6안암역 3번 출구에서58m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_33%2F1441067414439Ciyyt_JPEG%2FSUBMIT_1359533777511_20859101.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/20859101?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "건너편춘자": {
+            "name": "건너편춘자",
+            "tel": "02-925-2810",
+            "star": "4.35/5",
+            "addr": "서울 성북구 고려대로26길 45-4\n6안암역 3번 출구에서257m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200703_181%2F15937435003447k7DH_JPEG%2Ff0oPoU2jagzO-jx6PGsrnRcq.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1288370417?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "모나코바": {
+            "name": "모나코바",
+            "tel": "02-925-2810",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 28 인화빌딩\n6안암역 3번 출구에서170m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191226_254%2F1577328453116YmEAk_JPEG%2Fh9QpQa8HUqznmTUjC8PAC3Xh.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1337821104?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "왕대갈포차": {
+            "name": "왕대갈포차",
+            "tel": "02-929-9950",
+            "star": [],
+            "addr": "서울 성북구 고려대로24가길 12\n6안암역 3번 출구에서139m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MTZfMTE3%2FMDAxNjIxMTczMDg1MjUz.Pr4bhk3Udimc9UqKrb8cz5wEv51bvL6lCftD3bRm510g.DIvIDzNSHPxZdb1xjZdu096PdMFCXDhcr82VMb44eggg.JPEG.kent8829%2F20210430%25A3%25DF200948.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1867756083?c=14137108.9911349,4520778.5555852,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "고연전포차": {
+            "name": "고연전포차",
+            "tel": "02-929-9950",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 23\n6안암역 3번 출구에서150m",
+            "foodtype": "포장마차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1763050839%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660998986399%26md%3Dl4U%252F8GzoGDmN%252BM626ctCS2re%252BsI%253D",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1763050839?c=14137134.5500900,4520996.2765016,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "히든트랙": {
+            "name": "히든트랙",
+            "tel": "070-8801-9744",
+            "star": "4.47/5",
+            "addr": "서울 동대문구 약령시로 6\n6안암역 3번 출구에서519m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220416_277%2F1650095251713vBWzD_JPEG%2F%25BC%25BF%25C7%25C1%25C5%25C7.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/34714570?c=14137237.6875982,4520609.2171069,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "라이아": {
+            "name": "라이아",
+            "tel": "0507-1342-3149",
+            "star": "4.4/5",
+            "addr": "서울 동대문구 제기로 53-16\n6고려대역 4번 출구에서367m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201105_23%2F1604553292292ri7DL_JPEG%2FcOsNTc3tCeY33yHEKb3hwyvo.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1669691269?c=14138139.8986752,4521250.0347632,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "조개베네 고대점": {
+            "name": "조개베네 고대점",
+            "tel": "02-927-6447",
+            "star": "4.21/5",
+            "addr": "서울 동대문구 고산자로 547 1층 조개베네\n6고려대역 5번 출구에서129m",
+            "foodtype": "조개요리",
+            "menu": [
+                "조개찜",
+                "조개찜/조개구이 3~4인분",
+                "한방해천탕",
+                "키조개,차돌삼합"
+            ],
+            "price": [
+                "40,000원",
+                "56,000원",
+                "45,000원",
+                "42,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220811_112%2F16602202309036mrCj_JPEG%2FScreenshot_20220706-223024_NAVER.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/21033836?c=14137958.3811135,4521424.5111885,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "TUC": {
+            "name": "TUC",
+            "tel": "0507-1316-3298",
+            "star": "4.77/5",
+            "addr": "서울 동대문구 정릉천동로 155\n6고려대역 5번 출구에서430m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190327_103%2F1553692338515Uj8YE_PNG%2FgmIg7ecrILvmZ1h8FSJ76Qfu.png",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1387444182?c=14137925.7088430,4521118.3083956,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "훈": {
+            "name": "훈",
+            "tel": "0507-1439-0618",
+            "star": [],
+            "addr": "서울 동대문구 안암로24길 15 1층\n6고려대역 6번 출구에서175m",
+            "foodtype": "이자카야",
+            "menu": [
+                "매콤빠네우동",
+                "단새우회",
+                "일본식돼지고기간장조림",
+                "유린기"
+            ],
+            "price": [
+                "17,000원",
+                "20,000원",
+                "16,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220415_98%2F16500088589965YxsK_JPEG%2FIMG_1472.",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1182347049?c=14137840.9056549,4521440.1327303,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "골목포차": {
+            "name": "골목포차",
+            "tel": "0507-1328-5214",
+            "star": [],
+            "addr": "서울 동대문구 회기로8길 48\n6고려대역 3번 출구에서555m",
+            "foodtype": "포장마차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220620_208%2F1655709493870vNfHX_JPEG%2Fimage_%25281%2529.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1114493752?c=14138486.7924724,4521811.2214498,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "잔,제주": {
+            "name": "잔,제주",
+            "tel": "010-3088-1347",
+            "star": [],
+            "addr": "서울 동대문구 제기로 11 2층3층\n6고려대역 6번 출구에서377m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220727_233%2F1658912348535GTv0l_JPEG%2F90D510AB-BBA2-4F85-B7DF-30205DC91264.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1396032068?c=14137657.0615159,4521193.2392409,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "아키엠 라운지": {
+            "name": "아키엠 라운지",
+            "tel": "0507-1312-1510",
+            "star": "4.41/5",
+            "addr": "서울 동대문구 회기로8길 13 웰섬빌딩지하 아키엠라운지\n6고려대역 3번 출구에서417m",
+            "foodtype": "바(BAR)",
+            "menu": [
+                "솔트에이징 소고기 등심스테이크",
+                "이베리코하몽 샐러드",
+                "추억의 경양식 등심돈까스",
+                "크리스피 케이준 감자튀김"
+            ],
+            "price": [
+                "15,900원",
+                "13,900원",
+                "9,900원",
+                "7,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220703_176%2F1656829525157nafcl_JPEG%2FKakaoTalk_20220630_221909727_04.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1004533253?c=14138306.4882932,4521785.6669719,13,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "충주집": {
+            "name": "충주집",
+            "tel": "02-923-1068",
+            "star": "4.26/5",
+            "addr": "서울 동대문구 제기로6길 5\n6안암역 3번 출구에서454m",
+            "foodtype": "포장마차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_40%2F1441026317288b1aXu_JPEG%2F11712423_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/11712423?c=14133955.6661831,4521135.6854486,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "결찌": {
+            "name": "결찌",
+            "tel": "0507-1358-2710",
+            "star": [],
+            "addr": "서울 동대문구 제기로 4 1층결찌\n6안암역 3번 출구에서337m",
+            "foodtype": "요리주점",
+            "menu": [
+                "결찌플래터",
+                "폴드포크플래터",
+                "통베이컨오븐구이",
+                "청양크림파스타"
+            ],
+            "price": [
+                "25,000원",
+                "19,000원",
+                "14,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220420_114%2F1650448301833PEFU8_JPEG%2F1650448286681.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1138646103?c=14133502.5735917,4519492.5929641,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "펀비어킹 성북 종암동점": {
+            "name": "펀비어킹 성북 종암동점",
+            "tel": "02-921-7938",
+            "star": "4.18/5",
+            "addr": "서울 성북구 종암로21길 3\n6고려대역 2번 출구에서994m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220531_123%2F1653957260589BnNGL_JPEG%2F7_2022%25BF%25A9%25B8%25A7_%25BA%25F1%25BE%25EE%25B6%25F4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/86229990?c=14133715.5945692,4519907.0289856,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "에스키모고대점": {
+            "name": "에스키모고대점",
+            "tel": "02-913-9298",
+            "star": "4.62/5",
+            "addr": "서울 성북구 회기로 5\n6고려대역 3번 출구에서152m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_10%2F1441032661664MAg4m_JPEG%2F96561567651041_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/12874816?c=14134230.5919295,4521865.0560464,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "탐스비어 종암점": {
+            "name": "탐스비어 종암점",
+            "tel": "02-929-6926",
+            "star": "4.71/5",
+            "addr": "서울 성북구 종암로9길 86 종암아이파크2차아파트상가동 1층\n6고려대역 2번 출구에서980m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201006_92%2F1601983694340Knwwk_JPEG%2F9XP0Xcerkgw_RzSXYQMlfOd2.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%88%A0%EC%A7%91/place/1088339333?c=14133803.2364043,4522764.5928091,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

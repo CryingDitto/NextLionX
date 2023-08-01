@@ -1,0 +1,64 @@
+{
+    "서울대입구 보드게임": {
+        "와룸보드게임카페": {
+            "name": "와룸보드게임카페",
+            "tel": "0507-1368-1258",
+            "star": "4.58/5",
+            "addr": "서울 관악구 남부순환로226길 28 지하1층\n2서울대입구역 1번 출구에서228m",
+            "foodtype": "보드카페",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200923_166%2F1600865282590Uc9tx_JPEG%2FobO8KIn9UNvo3glMmRdpVL7l.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/place/1001810305?c=14131469.9910093,4506144.3716807,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "포퀸스보드카페 서울대입구점": {
+            "name": "포퀸스보드카페 서울대입구점",
+            "tel": "02-877-6787",
+            "star": "4.84/5",
+            "addr": "서울 관악구 관악로 152 3층\n2서울대입구역 2번 출구에서240m",
+            "foodtype": "보드카페",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200609_101%2F1591694726573n5hGK_JPEG%2FAjOqxrxKBOH0Q9Plb_n_zNvM.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/place/1236101786?c=14131469.9910093,4506144.3716807,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "홀덤치기 좋은날": {
+            "name": "홀덤치기 좋은날",
+            "tel": "0507-1344-2157",
+            "star": [],
+            "addr": "서울 관악구 봉천로 516 2층\n2서울대입구역 1번 출구에서301m",
+            "foodtype": "보드카페",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220627_55%2F1656296122133t0qpx_JPEG%2F029917A2-7318-4431-B5C5-CD1CF40BB4A6.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/place/1768220726?c=14131710.7639359,4506184.3786142,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "스몰월드 서울대점": {
+            "name": "스몰월드 서울대점",
+            "tel": "0507-1339-7909",
+            "star": "4.26/5",
+            "addr": "서울 관악구 관악로 168 2층 스몰월드 서울대점\n2서울대입구역 2번 출구에서58m",
+            "foodtype": "보드카페",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200608_202%2F1591615485206PaiHJ_JPEG%2FdL9Hh3mbLwTjdqRnrwdmn-Ks.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/place/1100007496?c=14131408.9211366,4506257.9962596,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "빅팟홀덤보드카페": {
+            "name": "빅팟홀덤보드카페",
+            "tel": "0507-1461-4889",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1840 아웃백앞\n2서울대입구역 1번 출구에서119m",
+            "foodtype": "보드카페",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220406_216%2F1649246124061kBG3K_JPEG%2Fbig_pot_01.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84/place/1591485750?c=14131556.7088926,4506277.7614510,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        }
+    }
+}

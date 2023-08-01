@@ -31,7 +31,7 @@ def enroll(request, post_pk):
         #     regi.msg = request.POST['msg']
         return redirect('accounts:mypage')
 
-    return render(request, 'register/enrolls.html', {'post': post})
+    return render(request, 'register/enroll.html', {'post': post})
 
 def confirm(request, post_pk, enroll_pk):
     enroll = Register.objects.filter(pk = enroll_pk)

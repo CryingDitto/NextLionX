@@ -1,0 +1,88 @@
+{
+    "서울대입구 영화": {
+        "롯데시네마 서울대입구": {
+            "name": "롯데시네마 서울대입구",
+            "tel": "1544-8855",
+            "star": "4.35/5",
+            "addr": "서울 관악구 남부순환로 1818-2\n2서울대입구역 4번 출구에서15m",
+            "foodtype": "영화관",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180601_285%2F15278189727220i12u_JPEG%2FIRtWK0eh0St0LbyTILYswKRT.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/31454127?c=14130363.4307430,4506380.4596848,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "포스시네마": {
+            "name": "포스시네마",
+            "tel": "02-2285-3285",
+            "star": [],
+            "addr": "서울 관악구 관악로 144 (봉천동,우남네오폴리스10층)\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "영화관",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F649884942%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661238141832%26md%3D8eaIP0%252B3%252BYWq5BKHMht%252Bb4Hevvs%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/649884942?c=14130363.4307430,4506380.4596848,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "와이엠케이필름": {
+            "name": "와이엠케이필름",
+            "tel": "02-2285-3285",
+            "star": [],
+            "addr": "서울 관악구 쑥고개로30길 34\n2서울대입구역 3번 출구에서576m",
+            "foodtype": "영화제작업",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1242985476%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661238152159%26md%3DLqC5Z07ubANr8H1zshP9P9t%252Fukk%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/1242985476?c=14130146.2686803,4505861.0029582,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "히어로특수효과": {
+            "name": "히어로특수효과",
+            "tel": "02-887-1163",
+            "star": [],
+            "addr": "서울 관악구 남부순환로231길 50\n2서울대입구역 8번 출구에서589m",
+            "foodtype": "영화제작업",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_147%2F1441011442443y7Ypi_JPEG%2F12070694_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/12070694?c=14131086.3172523,4506412.1769633,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "축상": {
+            "name": "축상",
+            "tel": "02-882-7500",
+            "star": "4.66/5",
+            "addr": "서울 관악구 남부순환로 1848-6 지하 1층\n2서울대입구역 1번 출구에서231m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190520_278%2F1558319652882OlshW_JPEG%2F6PRaw2ui43A7zqHp6U90F80o.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/1654473930?c=14130715.6010840,4506213.6404441,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "관객의취향": {
+            "name": "관객의취향",
+            "tel": "0507-1460-2058",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로 204 3층 301호\n2서울대입구역 7번 출구에서199m",
+            "foodtype": "독립서점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210519_192%2F1621401810291j3DAp_JPEG%2FPuwtUtutbuLdUv-dRyS1vmZp.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/1116280589?c=14130715.6010840,4506213.6404441,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "브로커피앤쥬스": {
+            "name": "브로커피앤쥬스",
+            "tel": "0507-1313-5958",
+            "star": "4.33/5",
+            "addr": "서울 관악구 남부순환로 1820\n2서울대입구역 4번 출구에서15m",
+            "foodtype": "카페,디저트",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180419_147%2F15241032806360r5f2_JPEG%2FZI3b0vC8x-aTAauI_wPg-_56.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%98%81%ED%99%94/place/1927175540?c=14130372.2806425,4506362.7564071,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        }
+    }
+}

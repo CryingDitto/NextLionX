@@ -1,0 +1,214 @@
+{
+    "서울대입구 중식 매장정보": [
+        {
+            "name": "로향양꼬치 1호점",
+            "tel": "0507-1303-5918",
+            "star": "4.54/5",
+            "addr": "서울 관악구 관악로16길 35 푸르빌 아파트\n2서울대입구역 1번 출구에서213m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_277%2F1548954857087KHXQx_JPEG%2F20190201_014845.jpg"
+        },
+        {
+            "name": "마차이짬뽕 본사직영점",
+            "tel": "02-873-8886",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로 144 1층\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "중식당",
+            "menu": [
+                "마차이짬뽕",
+                "내맘대로 메뉴 2가지 + 1가지+음료(택1)",
+                "짜장면",
+                "마차이 짜장"
+            ],
+            "price": [
+                "9,000원",
+                "26,000원",
+                "7,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211231_274%2F1640931556514vaQf8_JPEG%2F%25B7%25CE%25B0%25ED_%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25B4%25EB%25C1%25F6_1.jpg"
+        },
+        {
+            "name": "라화쿵부마라탕 서울대샤로수점",
+            "tel": "02-883-5168",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로 174 2층 2호\n2서울대입구역 2번 출구에서11m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190227_122%2F1551233229724WPGeI_JPEG%2FXtr8omqUlY16FCOfeyJidgoi.jpg"
+        },
+        {
+            "name": "외래향 서울대점",
+            "tel": "02-888-1224",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1801 라피스빌딩 2층\n2서울대입구역 5번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_287%2F1575267243159QEHT0_JPEG%2FkFkFdVXXbFhJWHAM7uVAFtoF.jpg"
+        },
+        {
+            "name": "Kitchen& BAR 몽중인",
+            "tel": "02-882-6659",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14가길 13\n2서울대입구역 1번 출구에서516m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190114_125%2F15474707323706Aig1_JPEG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2016-10-08_%25BF%25C0%25C0%25FC_10.42.21_%25BA%25B9%25BB%25E7%25BA%25BB.jpg"
+        },
+        {
+            "name": "성민양꼬치 본점",
+            "tel": "02-888-8665",
+            "star": "4.51/5",
+            "addr": "서울 관악구 관악로16길 38\n2서울대입구역 1번 출구에서241m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190928_247%2F1569674409796RkJWi_JPEG%2Ff9dkw6CQ60vrMWLGhKpByalJ.JPG.jpg"
+        },
+        {
+            "name": "로향양꼬치 1호점",
+            "tel": "0507-1303-5918",
+            "star": "4.54/5",
+            "addr": "서울 관악구 관악로16길 35 푸르빌 아파트\n2서울대입구역 1번 출구에서213m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_277%2F1548954857087KHXQx_JPEG%2F20190201_014845.jpg"
+        },
+        {
+            "name": "마차이짬뽕 본사직영점",
+            "tel": "02-873-8886",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로 144 1층\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "중식당",
+            "menu": [
+                "마차이짬뽕",
+                "내맘대로 메뉴 2가지 + 1가지+음료(택1)",
+                "짜장면",
+                "마차이 짜장"
+            ],
+            "price": [
+                "9,000원",
+                "26,000원",
+                "7,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211231_274%2F1640931556514vaQf8_JPEG%2F%25B7%25CE%25B0%25ED_%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25B4%25EB%25C1%25F6_1.jpg"
+        },
+        {
+            "name": "라화쿵부마라탕 서울대샤로수점",
+            "tel": "02-883-5168",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로 174 2층 2호\n2서울대입구역 2번 출구에서11m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190227_122%2F1551233229724WPGeI_JPEG%2FXtr8omqUlY16FCOfeyJidgoi.jpg"
+        },
+        {
+            "name": "외래향 서울대점",
+            "tel": "02-888-1224",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1801 라피스빌딩 2층\n2서울대입구역 5번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_287%2F1575267243159QEHT0_JPEG%2FkFkFdVXXbFhJWHAM7uVAFtoF.jpg"
+        },
+        {
+            "name": "Kitchen& BAR 몽중인",
+            "tel": "02-882-6659",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14가길 13\n2서울대입구역 1번 출구에서516m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190114_125%2F15474707323706Aig1_JPEG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2016-10-08_%25BF%25C0%25C0%25FC_10.42.21_%25BA%25B9%25BB%25E7%25BA%25BB.jpg"
+        },
+        {
+            "name": "성민양꼬치 본점",
+            "tel": "02-888-8665",
+            "star": "4.51/5",
+            "addr": "서울 관악구 관악로16길 38\n2서울대입구역 1번 출구에서241m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190928_247%2F1569674409796RkJWi_JPEG%2Ff9dkw6CQ60vrMWLGhKpByalJ.JPG.jpg"
+        },
+        {
+            "name": "로향양꼬치 1호점",
+            "tel": "0507-1303-5918",
+            "star": "4.54/5",
+            "addr": "서울 관악구 관악로16길 35 푸르빌 아파트\n2서울대입구역 1번 출구에서213m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_277%2F1548954857087KHXQx_JPEG%2F20190201_014845.jpg"
+        },
+        {
+            "name": "마차이짬뽕 본사직영점",
+            "tel": "02-873-8886",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로 144 1층\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "중식당",
+            "menu": [
+                "마차이짬뽕",
+                "내맘대로 메뉴 2가지 + 1가지+음료(택1)",
+                "짜장면",
+                "마차이 짜장"
+            ],
+            "price": [
+                "9,000원",
+                "26,000원",
+                "7,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211231_274%2F1640931556514vaQf8_JPEG%2F%25B7%25CE%25B0%25ED_%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25B4%25EB%25C1%25F6_1.jpg"
+        },
+        {
+            "name": "라화쿵부마라탕 서울대샤로수점",
+            "tel": "02-883-5168",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로 174 2층 2호\n2서울대입구역 2번 출구에서11m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190227_122%2F1551233229724WPGeI_JPEG%2FXtr8omqUlY16FCOfeyJidgoi.jpg"
+        },
+        {
+            "name": "외래향 서울대점",
+            "tel": "02-888-1224",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1801 라피스빌딩 2층\n2서울대입구역 5번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_287%2F1575267243159QEHT0_JPEG%2FkFkFdVXXbFhJWHAM7uVAFtoF.jpg"
+        },
+        {
+            "name": "Kitchen& BAR 몽중인",
+            "tel": "02-882-6659",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14가길 13\n2서울대입구역 1번 출구에서516m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190114_125%2F15474707323706Aig1_JPEG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2016-10-08_%25BF%25C0%25C0%25FC_10.42.21_%25BA%25B9%25BB%25E7%25BA%25BB.jpg"
+        },
+        {
+            "name": "성민양꼬치 본점",
+            "tel": "02-888-8665",
+            "star": "4.51/5",
+            "addr": "서울 관악구 관악로16길 38\n2서울대입구역 1번 출구에서241m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190928_247%2F1569674409796RkJWi_JPEG%2Ff9dkw6CQ60vrMWLGhKpByalJ.JPG.jpg"
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "안암 와인 매장정보": [
+        {
+            "name": "무르무르드구스토",
+            "tel": "02-928-0683",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로 102-2 4층\n6안암역 3번 출구에서103m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191005_167%2F1570258182267f6ITE_JPEG%2FfF-gVTPRE3CfcBlPg1ay5YSX.jpg"
+        },
+        {
+            "name": "팔레트 안암점",
+            "tel": "070-7576-4450",
+            "star": "4.32/5",
+            "addr": "서울 성북구 고려대로26길 42-4 1층 팔레트\n6안암역 3번 출구에서245m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190908_261%2F1567937471396xJSSK_JPEG%2F8BM295YgQfVnTHwIGQtp9m0y.jpeg.jpg"
+        },
+        {
+            "name": "PIKA COFFEE",
+            "tel": "02-6339-3537",
+            "star": "4.38/5",
+            "addr": "서울 성북구 고려대로30길 29 1층 피카\n6안암역 3번 출구에서250m",
+            "foodtype": "주류",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220105_136%2F1641334598450UnlMV_JPEG%2F096E0E2C-53F4-4CDE-A237-47819944DBCA.jpeg"
+        },
+        {
+            "name": "시작이밤이다 안암점",
+            "tel": "0507-1334-4788",
+            "star": "4.69/5",
+            "addr": "서울 성북구 고려대로 114 1층\n6안암역 3번 출구에서221m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190104_246%2F1546572375737yYA9a_JPEG%2F9rRQewsCyHBHEdsftV2RzHkm.jpg"
+        },
+        {
+            "name": "늘,안암",
+            "tel": "0507-1329-1748",
+            "star": "4.7/5",
+            "addr": "서울 성북구 고려대로24가길 13-2 1F\n6안암역 3번 출구에서135m",
+            "foodtype": "술집",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201019_298%2F1603106148670DYMMO_JPEG%2FgbJjSpDvyLMSo-D-U7qiUIuA.jpg"
+        },
+        {
+            "name": "라이아",
+            "tel": "0507-1342-3149",
+            "star": "4.4/5",
+            "addr": "서울 동대문구 제기로 53-16\n6고려대역 4번 출구에서367m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201105_23%2F1604553292292ri7DL_JPEG%2FcOsNTc3tCeY33yHEKb3hwyvo.jpeg.jpg"
+        },
+        {
+            "name": "thehub",
+            "tel": "02-923-7767",
+            "star": "4.45/5",
+            "addr": "서울 성북구 고려대로24가길 8 지하 1층 더허브\n6안암역 3번 출구에서140m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190223_218%2F1550855844471CTFPH_JPEG%2FWY03Nh4PNP4IqhpQ4fqq8v_B.jpg"
+        },
+        {
+            "name": "자갈자갈",
+            "tel": "0507-1458-7962",
+            "star": [],
+            "addr": "서울 성북구 안암로 73-3 1층\n6안암역 4번 출구에서368m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211022_288%2F1634897327165DfEeo_JPEG%2Fh77UCgd6uoXbedYsgxk84bxZ.jpg"
+        },
+        {
+            "name": "안암세계주류 안암스토어",
+            "tel": "010-2739-4996",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 45 1층\n6안암역 3번 출구에서253m",
+            "foodtype": "주류",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210626_70%2F1624648197046tT8Y1_JPEG%2FOVRy-gVWjOJdJn8UhPwwR9Vu.jpg"
+        },
+        {
+            "name": "거품",
+            "tel": "02-922-2009",
+            "star": "4.43/5",
+            "addr": "서울 성북구 개운사길 12\n6안암역 2번 출구에서74m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MjVfMTM0%2FMDAxNTA2MzM2Mzg0MDYy.Z4ct8NJPEdXxG2l88hmaen93Jx12ME3x3W6LEtYw6iIg.Ibu2dBjDL4x0VD2-I1sIpXzrjiK3X17OzAtB8khs0-Eg.JPEG.cherubick%2F20170909_203330.jpg"
+        },
+        {
+            "name": "GS25 뉴고대안암점",
+            "tel": "02-922-2009",
+            "star": "4.63/5",
+            "addr": "서울 성북구 개운사길 15\n6안암역 1번 출구에서121m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 뉴고대우신향점",
+            "tel": "02-922-2009",
+            "star": [],
+            "addr": "서울 성북구 안암로 95-3\n6안암역 3번 출구에서303m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 고대개운점",
+            "tel": "02-929-6720",
+            "star": "4.37/5",
+            "addr": "서울 성북구 개운사길 56\n6안암역 2번 출구에서288m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 고대타운점",
+            "tel": "02-925-5885",
+            "star": "4.4/5",
+            "addr": "서울 성북구 고려대로24가길 7\n6안암역 3번 출구에서139m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "주취자의와인셀러",
+            "tel": "0507-1326-8412",
+            "star": [],
+            "addr": "서울 동대문구 제기로2길 15 1층\n6안암역 3번 출구에서382m",
+            "foodtype": "와인",
+            "menu": [
+                "건강한 라따뚜이 [비건]",
+                "레드페퍼 감바스",
+                "부채살 스테이크",
+                "콩피 문어"
+            ],
+            "price": [
+                "14,000원",
+                "15,500원",
+                "20,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220705_2%2F1656957935252KcVwc_JPEG%2F0EED38D0-4DD3-4A9C-B01D-B2E232FC7B51.jpeg"
+        },
+        {
+            "name": "GS25 S6안암역점",
+            "tel": "02-3291-1008",
+            "star": "4.31/5",
+            "addr": "서울 성북구 안암동5가 101-84\n6안암역 1번 출구에서44m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 뉴고대민주광장점",
+            "tel": "02-3291-1008",
+            "star": [],
+            "addr": "서울 성북구 고려대로 113 B1\n6안암역 2번 출구에서203m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 고대중앙광장점",
+            "tel": "02-925-4001",
+            "star": "4.53/5",
+            "addr": "서울 성북구 안암로 145\n6안암역 2번 출구에서474m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "준 와인샵",
+            "tel": "02-925-4001",
+            "star": [],
+            "addr": "서울 동대문구 회기로 50\n6고려대역 3번 출구에서552m",
+            "foodtype": "주류",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220405_4%2F16491231133733kWfl_JPEG%2F20220402_180156.jpg"
+        },
+        {
+            "name": "TUC",
+            "tel": "0507-1316-3298",
+            "star": "4.77/5",
+            "addr": "서울 동대문구 정릉천동로 155\n6고려대역 5번 출구에서430m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190327_103%2F1553692338515Uj8YE_PNG%2FgmIg7ecrILvmZ1h8FSJ76Qfu.png"
+        },
+        {
+            "name": "히든트랙",
+            "tel": "070-8801-9744",
+            "star": "4.47/5",
+            "addr": "서울 동대문구 약령시로 6\n6안암역 3번 출구에서519m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220416_277%2F1650095251713vBWzD_JPEG%2F%25BC%25BF%25C7%25C1%25C5%25C7.jpg"
+        },
+        {
+            "name": "라비앙꼬숑",
+            "tel": "02-3291-1901",
+            "star": "4.52/5",
+            "addr": "서울 성북구 종암로9길 5 1층\n6고려대역 2번 출구에서639m",
+            "foodtype": "양식",
+            "menu": [
+                "T bone 스테이크 (700g)",
+                "꽃등심 (300g)",
+                "이베리코 스테이크 (400g)",
+                "치즈 슬라이더 한 판(13cm x 13cm)"
+            ],
+            "price": [
+                "90,000원",
+                "39,000원",
+                "39,000원",
+                "12,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210422_179%2F16191011804631D6ME_JPEG%2FLSGm0hL-LINGX2Hp5_WbukJD.jpg"
+        },
+        {
+            "name": "GS25 고려대역점",
+            "tel": "02-924-7862",
+            "star": "4.3/5",
+            "addr": "서울 동대문구 종암로 2\n6고려대역 3번 출구에서9m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 성북동진점",
+            "tel": "02-913-5557",
+            "star": "4.3/5",
+            "addr": "서울 성북구 종암로 54 동진아파트\n6고려대역 3번 출구에서542m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 종암극동점",
+            "tel": "02-926-8288",
+            "star": "4.26/5",
+            "addr": "서울 성북구 종암로9길 25 극동아파트\n6고려대역 2번 출구에서748m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 제기타운점",
+            "tel": "02-959-9599",
+            "star": "4.4/5",
+            "addr": "서울 동대문구 고산자로56길 34\n6고려대역 4번 출구에서345m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 고대으뜸점",
+            "tel": "02-928-6250",
+            "star": "4.27/5",
+            "addr": "서울 동대문구 안암로22길 2\n6고려대역 6번 출구에서149m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 중앙병원점",
+            "tel": "02-924-6298",
+            "star": "4.45/5",
+            "addr": "서울 성북구 종암로 71\n6고려대역 2번 출구에서721m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 고대종암점",
+            "tel": "02-929-0567",
+            "star": "4.45/5",
+            "addr": "서울 성북구 북악산로27길 14 돌채빌딩\n6고려대역 2번 출구에서417m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        },
+        {
+            "name": "GS25 S6고려대역점",
+            "tel": "02-929-3286",
+            "star": "4.21/5",
+            "addr": "서울 성북구 종암로 1 고려대역\n6고려대역 1번 출구에서22m",
+            "foodtype": "편의점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190805_45%2F1564984449061HczMx_JPEG%2FHn0abE32EGOUiJRishjlYsqK.jpg"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "안암 인도 매장정보": [
+        {
+            "name": "베나레스 본점",
+            "tel": "02-921-9982",
+            "star": "4.72/5",
+            "addr": "서울 성북구 고려대로24길 27 2층 베나레스\n6안암역 3번 출구에서170m",
+            "foodtype": "인도음식",
+            "menu": [
+                "베나레스 시그니처 세트",
+                "프라운 마크니",
+                "런치 세트(1인)",
+                "커플 세트(2인)"
+            ],
+            "price": [
+                "22,000원",
+                "9,800원",
+                "9,000원",
+                "24,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220326_279%2F164826836950378YMP_JPEG%2F%25B9%25F6%25C5%25CD%25C4%25A1%25C5%25B2%25BF%25AC%25C3%25E24.jpg"
+        },
+        {
+            "name": "오샬",
+            "tel": "010-4864-3644",
+            "star": "4.55/5",
+            "addr": "서울 성북구 고려대로24길 6 문원빌딩 3층\n6안암역 3번 출구에서59m",
+            "foodtype": "인도음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160929_178%2F1475151012930AqaNS_JPEG%2F176879614032756_0.jpeg"
+        },
+        {
+            "name": "비나레스토랑2호점",
+            "tel": "02-928-5860",
+            "star": "4.63/5",
+            "addr": "서울 성북구 고려대로24길 3-42\n6안암역 3번 출구에서30m",
+            "foodtype": "인도음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190125_28%2F1548426927497jsNRh_JPEG%2FmQRlyOlfPnKTZ8FcKIFntzVP.jpeg.jpg"
+        },
+        {
+            "name": "고고인디안쿠진 본점",
+            "tel": "02-922-0786",
+            "star": "4.56/5",
+            "addr": "서울 성북구 안암로 81-4 지하1층\n6안암역 3번 출구에서323m",
+            "foodtype": "인도음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191122_155%2F1574351991502uJScR_JPEG%2FjMLD6_3yyWh7Hpe7_1zwjODM.jpg"
+        },
+        {
+            "name": "비나레스토랑",
+            "tel": "02-926-5860",
+            "star": "4.61/5",
+            "addr": "서울 동대문구 안암로24길 4\n6고려대역 6번 출구에서114m",
+            "foodtype": "인도음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2F20150601_53%2Fbon_bonn_1433125974463s7cEV_JPEG%2FIMG_1483."
+        }
+    ]
+}

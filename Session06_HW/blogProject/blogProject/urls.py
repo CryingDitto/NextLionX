@@ -22,13 +22,12 @@ from blogApp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     
-    #url name, views내 함수 이름
+    # url name: views내 함수에 전달됨
     path('new', views.new, name='new'),
     path('list', views.list, name='list'),
     # path('category', views.category, name = 'category'),
     path('category/<str:article_category>', views.category, name='category'),
 
-    # path('category/<str:article_category>', views.category, name='category'),
     # / 뒤에 들어오는 값이 article_id라는 이름으로 views.py에 전달됨
     path('detail/<int:article_id>', views.detail, name='detail'),
 ]

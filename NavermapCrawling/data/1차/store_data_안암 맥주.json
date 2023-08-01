@@ -1,0 +1,334 @@
+{
+    "안암 맥주 매장정보": [
+        {
+            "name": "호랑이술상 안암",
+            "tel": "0507-1335-1079",
+            "star": "4.54/5",
+            "addr": "서울 성북구 고려대로26길 55 2층\n6안암역 3번 출구에서277m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190910_46%2F1568042818319Mwfp7_JPEG%2FgXX4fYH1y6hlaftNGIBRM3e6.jpg"
+        },
+        {
+            "name": "안암주점",
+            "tel": "0507-1335-1079",
+            "star": "4.65/5",
+            "addr": "서울 성북구 고려대로24길 11 지하층\n6안암역 3번 출구에서81m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210721_114%2F1626848293741snALH_JPEG%2FA8rJDziBbS7rxZkLt4IsM_fS.jpeg.jpg"
+        },
+        {
+            "name": "쪼끼쪼끼 안암역점",
+            "tel": "02-922-6887",
+            "star": "4.32/5",
+            "addr": "서울 성북구 고려대로24길 3-42\n6안암역 3번 출구에서30m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180406_115%2F1523013235531PQ1qj_JPEG%2FSB5ko7LNNmd7U-cEeCiaP-yp.JPG.jpg"
+        },
+        {
+            "name": "역전할머니맥주 서울고대점",
+            "tel": "02-929-1226",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 14\n6안암역 3번 출구에서86m",
+            "foodtype": "맥주,호프",
+            "menu": [
+                "할맥500cc",
+                "치즈라볶이",
+                "짜빠구리",
+                "튀김범벅세트"
+            ],
+            "price": [
+                "3,700원",
+                "9,000원",
+                "9,000원",
+                "13,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200917_147%2F16003256272946H7N8_JPEG%2F-QhN0o6xQrU5rhQYidJbqeOK.jpg"
+        },
+        {
+            "name": "피쉬홀덤펍",
+            "tel": "0507-1322-6414",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 56 3층\n6안암역 3번 출구에서306m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220718_117%2F1658128463994koVaw_JPEG%2FKakaoTalk_20220718_161358292.jpg"
+        },
+        {
+            "name": "별난주점 고대안암점",
+            "tel": "02-953-7288",
+            "star": "4.4/5",
+            "addr": "서울 성북구 고려대로24길 5\n6안암역 3번 출구에서58m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190119_198%2F1547894430496egNj9_JPEG%2F7Xk6l3Trta6N_lEDs6_Cjv62.jpg"
+        },
+        {
+            "name": "맥주창고",
+            "tel": "02-6225-0629",
+            "star": "4.05/5",
+            "addr": "서울 성북구 고려대로24가길 8 2층\n6안암역 3번 출구에서140m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190125_186%2F1548426576682me1jM_JPEG%2FxR8XTG9UlcAKDfcG2L-9W7hj.jpeg.jpg"
+        },
+        {
+            "name": "38포차",
+            "tel": "010-9431-1452",
+            "star": "4.42/5",
+            "addr": "서울 성북구 고려대로26길 45-5 1층\n6안암역 3번 출구에서244m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjNfMTU4%2FMDAxNjU1OTE0NjUzNTc2.r74v1CHVmpFhdsyiib-xmNz4X74IzLYz-ovHLW6PrxYg.P2s61WbUOocJk17ywIF6iCtUx0OE0wqX-Iqg2bRhvmYg.JPEG.uhmtoto%2FIMG_0495.jpg"
+        },
+        {
+            "name": "마르니",
+            "tel": "0507-1338-3893",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 5 2층\n6안암역 2번 출구에서55m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMTVfMjAw%2FMDAxNTQyMjU4OTIxMzIx.CBR-MFCuf44ZEj60LuERmT4E8aRbAOiLmBwG9JrBbmcg.CG1g7XEBRZXtLO0WNNS_G5W_QZMS-ZNOu7YV_ONnEO8g.JPEG.jojaefilm%2FIMG_3467.jpg"
+        },
+        {
+            "name": "술기로운맥주생활 고대점",
+            "tel": "02-463-2605",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로24길 28\n6안암역 3번 출구에서170m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200424_248%2F1587716230013JQT5P_JPEG%2FpxTjdgMoPIQmjUIhag-1UqTa.jpg"
+        },
+        {
+            "name": "오거리술집",
+            "tel": "0507-1314-7739",
+            "star": "4.14/5",
+            "addr": "서울 성북구 고려대로24길 60 2층\n6안암역 3번 출구에서334m",
+            "foodtype": "맥주,호프",
+            "menu": [
+                "우삼겹탕탕나베",
+                "마늘똥집",
+                "소고기숙주데리야끼",
+                "토마토 카프레제."
+            ],
+            "price": [
+                "13,000원",
+                "13,000원",
+                "13,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180625_84%2F1529863652352UrbHN_JPEG%2F9ESBiG_RRR2765mzM7CDh_rm.jpg"
+        },
+        {
+            "name": "다락",
+            "tel": "0507-1340-5532",
+            "star": "4.55/5",
+            "addr": "서울 성북구 고려대로 95 2층\n6안암역 2번 출구에서25m",
+            "foodtype": "요리주점",
+            "menu": [
+                "라자냐",
+                "(점심)라자냐 정식",
+                "(점심)파스타 정식",
+                "알리오올리오 파스타"
+            ],
+            "price": [
+                "16,500원",
+                "12,000원",
+                "10,000원",
+                "15,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190331_73%2F1553965006286ilpFw_JPEG%2FFjRSqCyUqOkQzzEn43JBMZK-.jpeg.jpg"
+        },
+        {
+            "name": "thehub",
+            "tel": "02-923-7767",
+            "star": "4.45/5",
+            "addr": "서울 성북구 고려대로24가길 8 지하 1층 더허브\n6안암역 3번 출구에서140m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190223_218%2F1550855844471CTFPH_JPEG%2FWY03Nh4PNP4IqhpQ4fqq8v_B.jpg"
+        },
+        {
+            "name": "치폴레옹 고려대점",
+            "tel": "02-6339-8869",
+            "star": "4.65/5",
+            "addr": "서울 성북구 고려대로24길 45 2층\n6안암역 3번 출구에서253m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220202_153%2F1643793780287E5HO6_JPEG%2F1643793727190.jpg"
+        },
+        {
+            "name": "꼬꼬아찌 고대점",
+            "tel": "02-922-2654",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 50 1층\n6안암역 3번 출구에서250m",
+            "foodtype": "치킨,닭강정",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181224_93%2F154560175433873Y9m_JPEG%2Fjqjyq5ScJHTXAH0ugIqB1wjZ.jpeg.jpg"
+        },
+        {
+            "name": "떡뽀이 안암점",
+            "tel": "02-988-1472",
+            "star": "4.33/5",
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "떡볶이",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_27%2F1441102033818dQghQ_JPEG%2F166571607827288_0.jpeg"
+        },
+        {
+            "name": "버블",
+            "tel": "02-924-4325",
+            "star": "4.44/5",
+            "addr": "서울 성북구 고려대로 103\n6안암역 2번 출구에서97m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_160%2F1441012181132OFEjm_JPEG%2F146268564826451_0.jpeg"
+        },
+        {
+            "name": "달링스테이크 고려대가족점",
+            "tel": "02-924-8525",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로27길 9 2층\n6안암역 2번 출구에서78m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180531_282%2F1527721661864ejxip_JPEG%2Fo4oQV6TJsmKYUiak6FOkAkPX.jpg"
+        },
+        {
+            "name": "반지",
+            "tel": "02-925-0867",
+            "star": "4.5/5",
+            "addr": "서울 성북구 고려대로26길 31\n6안암역 3번 출구에서176m",
+            "foodtype": "요리주점",
+            "menu": [
+                "파타야 치킨",
+                "화이트와인 봉골레찜",
+                "파타야 치킨",
+                "화이트와인 봉골레찜"
+            ],
+            "price": [
+                "18,000원",
+                "18,000원",
+                "18,000원",
+                "18,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190125_62%2F1548412036579fEPzw_JPEG%2FXkf1dNiXU392ac0M8W3e7V2U.jpeg.jpg"
+        },
+        {
+            "name": "거품",
+            "tel": "02-922-2009",
+            "star": "4.43/5",
+            "addr": "서울 성북구 개운사길 12\n6안암역 2번 출구에서74m",
+            "foodtype": "요리주점",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MjVfMTM0%2FMDAxNTA2MzM2Mzg0MDYy.Z4ct8NJPEdXxG2l88hmaen93Jx12ME3x3W6LEtYw6iIg.Ibu2dBjDL4x0VD2-I1sIpXzrjiK3X17OzAtB8khs0-Eg.JPEG.cherubick%2F20170909_203330.jpg"
+        },
+        {
+            "name": "히든트랙",
+            "tel": "070-8801-9744",
+            "star": "4.47/5",
+            "addr": "서울 동대문구 약령시로 6\n6안암역 3번 출구에서519m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220416_277%2F1650095251713vBWzD_JPEG%2F%25BC%25BF%25C7%25C1%25C5%25C7.jpg"
+        },
+        {
+            "name": "펀비어킹 성북 종암동점",
+            "tel": "02-921-7938",
+            "star": "4.18/5",
+            "addr": "서울 성북구 종암로21길 3\n6고려대역 2번 출구에서994m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220531_123%2F1653957260589BnNGL_JPEG%2F7_2022%25BF%25A9%25B8%25A7_%25BA%25F1%25BE%25EE%25B6%25F4.jpg"
+        },
+        {
+            "name": "탐스비어 종암점",
+            "tel": "02-929-6926",
+            "star": "4.71/5",
+            "addr": "서울 성북구 종암로9길 86 종암아이파크2차아파트상가동 1층\n6고려대역 2번 출구에서980m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201006_92%2F1601983694340Knwwk_JPEG%2F9XP0Xcerkgw_RzSXYQMlfOd2.jpg"
+        },
+        {
+            "name": "에스키모고대점",
+            "tel": "02-913-9298",
+            "star": "4.62/5",
+            "addr": "서울 성북구 회기로 5\n6고려대역 3번 출구에서152m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_10%2F1441032661664MAg4m_JPEG%2F96561567651041_0.jpg"
+        },
+        {
+            "name": "낙원호프",
+            "tel": "02-969-5150",
+            "star": [],
+            "addr": "서울 동대문구 제기로 73\n6고려대역 4번 출구에서663m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F20873918%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660786986016%26md%3D%252Bs69KGo7acubTzgJFGyj%252BGWsYnY%253D"
+        },
+        {
+            "name": "비에르에프리트",
+            "tel": "02-3291-5111",
+            "star": "4.83/5",
+            "addr": "서울 동대문구 제기로5길 40\n6고려대역 6번 출구에서193m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMTlfMjIg%2FMDAxNjA1Nzc3NTY2NDg1.wJfUtM4vx1AiSYYlTu5T0wnBwIeFmPXWTS3MpmuULhMg.VDIkNPedRHXz-IFI4R8QlobcvIuE97M4kU9wkD14ekkg.JPEG.m047%2FIMG_3924."
+        },
+        {
+            "name": "해피데이호프",
+            "tel": "02-3291-5111",
+            "star": [],
+            "addr": "서울 성북구 종암로 54\n6고려대역 3번 출구에서542m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190119_246%2F1547826544203lzvRP_JPEG%2FWGy-onMXB--3rHDThtH5o0ay.jpg"
+        },
+        {
+            "name": "싸다호프",
+            "tel": "02-3291-5111",
+            "star": [],
+            "addr": "서울 성북구 종암로 89 2층\n6고려대역 2번 출구에서909m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1020490608%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660787347354%26md%3DPzMnRNU8h3ES%252B3JvasZRQujvnOs%253D"
+        },
+        {
+            "name": "캠퍼스",
+            "tel": "02-3291-5111",
+            "star": [],
+            "addr": "서울 동대문구 제기로5길 40\n6고려대역 6번 출구에서193m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F20889163%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660787497194%26md%3DctimIVQx%252Fv7MOSgKdUENBbRfKIk%253D"
+        }
+    ]
+}

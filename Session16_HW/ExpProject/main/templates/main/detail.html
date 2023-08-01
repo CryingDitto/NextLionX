@@ -38,12 +38,12 @@
         <div class="buttonarea">
             <!-- <a href="{% url 'main:home' %}">Home</a> -->
             {% if user.is_authenticated and post.author.pk != user.pk %}
-                <a href="{% url 'register:enroll' post.pk %}">Register</a>
+                <a class="button" href="{% url 'register:enroll' post.pk %}">Register</a>
 
             {% endif %}
             {% if user.is_authenticated and post.author.pk == user.pk %}
-                <a href="{% url 'main:edit' post.pk %}">Edit</a>
-                <a href="{% url 'main:delete' post.pk %}">Delete</a>
+                <a class="button" href="{% url 'main:edit' post.pk %}">Edit</a>
+                <a class="button" href="{% url 'main:delete' post.pk %}">Delete</a>
             {% endif %}
         </div>
 
@@ -91,7 +91,9 @@
         </div>
 
         <div class="enrolls">
+            
             {% if user.is_authenticated and post.author.pk == user.pk %}
+                <div class="post-category">신청 목록</div>
                 {% for enroll in enrolled %}
                     <div class = "person">{{enroll.person}}</div>
 
@@ -111,7 +113,7 @@
                         <div class = "finalTime">Participant is waiting for your confirmation.</div>
                     {% endif %}
 
-                    <a href="{% url 'register:confirm' post.pk enroll.pk %}">Confirm Final Time</a>
+                    <a class="button" href="{% url 'register:confirm' post.pk enroll.pk %}">Confirm Final Time</a>
                 {% endfor %}
             {% endif %}
         </div>

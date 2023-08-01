@@ -1,0 +1,40 @@
+{
+    "서울대입구 네컷사진": {
+        "인생네컷 샤로수길점": {
+            "name": "인생네컷 샤로수길점",
+            "tel": "0507-1355-5852",
+            "star": "4.67/5",
+            "addr": "서울 관악구 남부순환로230길 32 1층 인생네컷 샤로수길점\n2서울대입구역 1번 출구에서383m",
+            "foodtype": "셀프,대여스튜디오",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201220_55%2F1608465302178bRvcv_JPEG%2FSSbeugSC4It8_ku4uWMfqGFd.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%84%A4%EC%BB%B7%EC%82%AC%EC%A7%84/place/1180102316?c=14131685.0713974,4506042.7418509,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "포토그레이 서울샤로수길점": {
+            "name": "포토그레이 서울샤로수길점",
+            "tel": "070-4915-0301",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 22\n2서울대입구역 2번 출구에서286m",
+            "foodtype": "사진,스튜디오",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220707_128%2F1657169851180NLLzY_JPEG%2F%25C6%25F7%25C5%25E4%25B1%25D7%25B7%25B9%25C0%25CC_%25B7%25CE%25B0%25ED.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%84%A4%EC%BB%B7%EC%82%AC%EC%A7%84/place/1534722546?c=14131685.0713974,4506042.7418509,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "포토이즘 박스 샤로수길점": {
+            "name": "포토이즘 박스 샤로수길점",
+            "tel": "070-4915-0301",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 50\n2서울대입구역 1번 출구에서369m",
+            "foodtype": "사진,스튜디오",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201218_18%2F1608280952592a11Tx_PNG%2FKAn7yjeIVJqsVCeU85XlhXFT.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%84%A4%EC%BB%B7%EC%82%AC%EC%A7%84/place/1898547485?c=14131685.0713974,4506042.7418509,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        }
+    }
+}

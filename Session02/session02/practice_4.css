@@ -1,0 +1,31 @@
+.entire {
+    /* flex-direction: column; */
+    display: block;
+    flex-wrap: wrap;
+    width: 300px;
+}
+
+.container1 {
+
+    width: 300px;
+    display: inline-flex;
+    /* flex-direction: row; */
+    justify-content: flex-start;
+}
+
+.container2 {
+
+    width: 300px;
+    display: inline-flex;
+    
+    /* flex-direction: row; */
+    justify-content: flex-end;
+
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(110, 110, 210);
+    border-radius: 5px;
+}

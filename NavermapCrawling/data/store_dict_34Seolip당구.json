@@ -1,0 +1,160 @@
+{
+    "서울대입구 당구": {
+        "서울대아고라": {
+            "name": "서울대아고라",
+            "tel": "0507-1339-8876",
+            "star": "4.89/5",
+            "addr": "서울 관악구 관악로 158 BS타워 지하2층\n2서울대입구역 2번 출구에서215m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220819_100%2F1660841548953sDw93_JPEG%2F20220808_024829.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/1859292369?c=14130478.7911313,4506120.5948414,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "초이스당구장": {
+            "name": "초이스당구장",
+            "tel": "02-873-1237",
+            "star": "4.18/5",
+            "addr": "서울 관악구 관악로 164\n2서울대입구역 2번 출구에서102m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1209594098%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661264701949%26md%3D5rq0PlaTf1hwZjaSsJs5X9dWch0%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/1209594098?c=14130478.7911313,4506120.5948414,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "에버빌리어드 클럽": {
+            "name": "에버빌리어드 클럽",
+            "tel": "0507-1395-2622",
+            "star": [],
+            "addr": "서울 관악구 청림6길 3 아파트상가 401호\n2서울대입구역 7번 출구에서961m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220612_212%2F1655005542914FNdxd_JPEG%2F1654576419477.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/1274822786?c=14131251.7046198,4507288.6274449,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "당구재미": {
+            "name": "당구재미",
+            "tel": "0507-1416-3949",
+            "star": [],
+            "addr": "서울 관악구 청룡1길 42\n2서울대입구역 4번 출구에서366m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200531_247%2F1590919139344yRaMP_JPEG%2Fc-jfaQlEtfS5BP4Mc95BdmmV.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/21387709?c=14129985.3452245,4506348.2094413,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "두바이당구장": {
+            "name": "두바이당구장",
+            "tel": "010-3344-9076",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1797\n2서울대입구역 5번 출구에서226m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F18193768%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661264724419%26md%3DAViCCF42cHeM5dyAA6kCnxGSh0g%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/18193768?c=14129985.3452245,4506348.2094413,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "홍대당구장": {
+            "name": "홍대당구장",
+            "tel": "010-3344-9076",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1874\n2서울대입구역 1번 출구에서472m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F38406735%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661264729677%26md%3DmnIqrcgfeWDTlbiHelIZXdRW7Ew%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/38406735?c=14131009.7071787,4506083.8004641,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "유쾌한캐롬당구장": {
+            "name": "유쾌한캐롬당구장",
+            "tel": "0507-1364-3933",
+            "star": "4.44/5",
+            "addr": "서울 관악구 봉천로 474 유쾌한캐롬당구장\n2서울대입구역 6번 출구에서74m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190905_30%2F1567662484230OcqY0_JPEG%2FeZgrJmB9mkGS41RhYc0Iws38.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/1058178659?c=14130428.6194368,4506494.0868230,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "로얄당구장": {
+            "name": "로얄당구장",
+            "tel": "02-873-3288",
+            "star": [],
+            "addr": "서울 관악구 관악로 210 학산빌딩\n2서울대입구역 7번 출구에서290m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200513_132%2F1589318864305mvTh8_JPEG%2F4FLwUD72kMBQEggqV0cEayHr.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/32250106?c=14130691.4002268,4506681.3778968,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "탑당구장": {
+            "name": "탑당구장",
+            "tel": "02-873-3288",
+            "star": [],
+            "addr": "서울 관악구 관악로15길 6\n2서울대입구역 3번 출구에서107m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F865937853%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661264752116%26md%3DN54Pu2nzzhAlHNUFhjia8DsBkX8%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/865937853?c=14130691.4002268,4506681.3778968,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "B&B당구클럽": {
+            "name": "B&B당구클럽",
+            "tel": "02-888-9908",
+            "star": [],
+            "addr": "서울 관악구 봉천로 455\n2서울대입구역 5번 출구에서293m",
+            "foodtype": "당구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150902_180%2F1441122857180wRUYh_JPEG%2FSUBMIT_1351529355944_31135145.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/31135145?c=14130205.4015938,4506591.2600453,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "골드당구재료상사": {
+            "name": "골드당구재료상사",
+            "tel": "02-887-3949",
+            "star": [],
+            "addr": "서울 관악구 관악로 110-1 한도빌딩\n2서울대입구역 2번 출구에서639m",
+            "foodtype": "당구용품",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F12941170%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661264810262%26md%3D6utWZBJsarbtaJR4WxBCPw6DD50%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/12941170?c=14130492.1494702,4505539.7553304,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "HWD당구재료": {
+            "name": "HWD당구재료",
+            "tel": "02-889-0773",
+            "star": [],
+            "addr": "서울 관악구 봉천로 496-1\n2서울대입구역 7번 출구에서194m",
+            "foodtype": "당구용품",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191011_154%2F1570776277130ne6RP_JPEG%2FhLz5Kgr8bC9pU1DPFuAAyaGW.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/20825302?c=14130492.1494702,4505539.7553304,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "럭키탁구장": {
+            "name": "럭키탁구장",
+            "tel": "02-889-0773",
+            "star": [],
+            "addr": "서울 관악구 관악로30길 15\n2서울대입구역 7번 출구에서810m",
+            "foodtype": "탁구장",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1123157006%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1661264926558%26md%3DoF%252Fy8D6Gd0vbrGlciBjMCofx7%252Bc%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%8B%B9%EA%B5%AC/place/1123157006?c=14131126.8820747,4507156.0104333,14,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        }
+    }
+}

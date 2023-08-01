@@ -1,0 +1,133 @@
+{
+    "서울대입구 베트남": {
+        "분미": {
+            "name": "분미",
+            "tel": "02-875-9196",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 65\n2서울대입구역 1번 출구에서441m",
+            "foodtype": "베트남음식",
+            "menu": [
+                "쌀국수",
+                "비빔쌀국수",
+                "쌀국수",
+                "비빔쌀국수"
+            ],
+            "price": [
+                "9,500원",
+                "13,000원",
+                "9,500원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220317_26%2F1647486127698gpbVH_JPEG%2Fimage.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1312426492?c=14131847.4086108,4506394.7962756,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "포몬스 서울대점": {
+            "name": "포몬스 서울대점",
+            "tel": "02-884-5900",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1852\n2서울대입구역 1번 출구에서245m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_57%2F14410400556332alep_JPEG%2F12930038_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/12930038?c=14131847.4086108,4506394.7962756,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "분짜하노이 서울대입구점": {
+            "name": "분짜하노이 서울대입구점",
+            "tel": "0507-1428-4102",
+            "star": "4.45/5",
+            "addr": "서울 관악구 관악로 154 지하1층\n2서울대입구역 2번 출구에서210m",
+            "foodtype": "베트남음식",
+            "menu": [
+                "매운곱창쌀국수",
+                "반미",
+                "하노이 직화분짜",
+                "하노이 쌀국수(S)"
+            ],
+            "price": [
+                "13,000원",
+                "7,500원",
+                "15,000원",
+                "10,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181227_116%2F1545843776629VIX9e_PNG%2FK8ZPYZT68361EPpY5_FARQBy.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/37625218?c=14131847.4086108,4506394.7962756,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "하노이별 서울대입구역점": {
+            "name": "하노이별 서울대입구역점",
+            "tel": "0507-1355-7470",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로12길 3-14 1층\n2서울대입구역 2번 출구에서250m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190728_111%2F1564320461983aSCVa_JPEG%2F7TsMOfigKyZquCvltsANg06s.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1354356843?c=14131847.4086108,4506394.7962756,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "호아빈 서울대입구역점": {
+            "name": "호아빈 서울대입구역점",
+            "tel": "02-888-1131",
+            "star": "4.26/5",
+            "addr": "서울 관악구 남부순환로 1795\n2서울대입구역 5번 출구에서246m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200423_187%2F1587600920578eQJKN_JPEG%2F-maE5kxCOaDV65EVoKeJp1_s.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1483292357?c=14130776.5819011,4507090.4390749,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "젠": {
+            "name": "젠",
+            "tel": "02-4137-6397",
+            "star": [],
+            "addr": "서울 관악구 청림6길 16\n2서울대입구역 7번 출구에서906m",
+            "foodtype": "베트남음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1146560896%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660981659748%26md%3D3RWuxdwGA91Zat0C4apO5QibR18%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1146560896?c=14132110.4343037,4507207.6934106,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안녕부산": {
+            "name": "안녕부산",
+            "tel": "02-6407-0718",
+            "star": "4.2/5",
+            "addr": "서울 관악구 관악로14길 45 1층\n2서울대입구역 1번 출구에서378m",
+            "foodtype": "곱창,막창,양",
+            "menu": [
+                "양념대창(중-300g)",
+                "불닭대창(중-400g)",
+                "돼지곰탕",
+                "수육백반"
+            ],
+            "price": [
+                "31,000원",
+                "31,000원",
+                "8,000원",
+                "11,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200117_229%2F1579251929417sUeu5_JPEG%2FBuoKd6pTatCn6NEnD4FTS5rp.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1862909287?c=14131632.4618061,4506059.2803027,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "레블코퍼레이션": {
+            "name": "레블코퍼레이션",
+            "tel": "070-4772-6600",
+            "star": [],
+            "addr": "서울 관악구 남부순환로218길 36 문성빌딩 3층\n2서울대입구역 4번 출구에서324m",
+            "foodtype": "애플리케이션개발",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220717_46%2F1657988679054CF9tf_JPEG%2FRebel_Black2.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1456363200?c=14131632.4618061,4506059.2803027,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "온누리": {
+            "name": "온누리",
+            "tel": "010-5777-2421",
+            "star": [],
+            "addr": "서울 관악구 관악로 211\n2서울대입구역 6번 출구에서388m",
+            "foodtype": "결혼정보회사",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1856278213%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660981729454%26md%3DiHCBJ8i%252FKz3ZCTvoufEmxVhq6Tg%253D",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EB%B2%A0%ED%8A%B8%EB%82%A8/place/1856278213?c=14131560.5716789,4506817.8607821,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

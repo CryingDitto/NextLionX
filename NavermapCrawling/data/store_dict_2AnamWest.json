@@ -1,0 +1,110 @@
+{
+    "안암 양식": {
+        "퍽앤어니언": {
+            "name": "퍽앤어니언",
+            "tel": "0507-1429-0423",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 17-3 101호 퍽앤어니언\n6안암역 3번 출구에서166m",
+            "foodtype": "햄버거",
+            "menu": [
+                "ONION DOUBLE(어니언 더블)",
+                "BACON DELUXE(베이컨디럭스)",
+                "HICKORY BBQ BACON",
+                "ONION CHEESE"
+            ],
+            "price": [
+                "8,800원",
+                "7,000원",
+                "6,800원",
+                "5,800원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220713_199%2F1657679772451rhJbo_JPEG%2FIMG_20220711_105817_032.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%96%91%EC%8B%9D/place/1578720380?c=14133563.0312071,4521064.7164537,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "매스플레이트안암본점": {
+            "name": "매스플레이트안암본점",
+            "tel": "010-7419-3339",
+            "star": "4.5/5",
+            "addr": "서울 성북구 개운사길 18 2층\n6안암역 2번 출구에서111m",
+            "foodtype": "이탈리아음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201111_235%2F1605097370307RExWI_JPEG%2FnWvLqRKak_dvta6vE_cauF-1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%96%91%EC%8B%9D/place/37101699?c=14133563.0312071,4521064.7164537,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "무르무르드구스토": {
+            "name": "무르무르드구스토",
+            "tel": "02-928-0683",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로 102-2 4층\n6안암역 3번 출구에서103m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191005_167%2F1570258182267f6ITE_JPEG%2FfF-gVTPRE3CfcBlPg1ay5YSX.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%96%91%EC%8B%9D/place/36733702?c=14133563.0312071,4521064.7164537,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "영철스토리펌": {
+            "name": "영철스토리펌",
+            "tel": "02-922-1668",
+            "star": "4.58/5",
+            "addr": "서울 성북구 안암로9가길 100 1층\n6안암역 4번 출구에서347m",
+            "foodtype": "햄버거",
+            "menu": [
+                "치즈스트리트",
+                "돈마리네",
+                "치킨마리네",
+                "리턴스트리트"
+            ],
+            "price": [
+                "5,000원",
+                "4,900원",
+                "4,900원",
+                "4,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_285%2F1441003542693YMdVf_JPEG%2F11605560_0.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%96%91%EC%8B%9D/place/11605560?c=14133563.0312071,4521064.7164537,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "프로마치": {
+            "name": "프로마치",
+            "tel": "0507-1301-8537",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 13\n6안암역 3번 출구에서140m",
+            "foodtype": "양식",
+            "menu": [
+                "페스토 치킨(샌드위치) Pesto Sandwich",
+                "리코타치즈(200g) & 치아바타 T/O Ricotta",
+                "멕시칸 타코(샌드위치) Mexican Sandwich",
+                "포크 파스트라미(샌드위치) Pork Sandwich"
+            ],
+            "price": [
+                "9,400원",
+                "7,900원",
+                "9,900원",
+                "9,400원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180104_120%2F1515040709647XyTIA_JPEG%2F0cyr5eKjXIsNaK2NQwEzBM9E.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%96%91%EC%8B%9D/place/35597847?c=14133563.0312071,4521064.7164537,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "mychef": {
+            "name": "mychef",
+            "tel": "070-7799-6768",
+            "star": "4.39/5",
+            "addr": "서울 성북구 고려대로24가길 14-1\n6안암역 3번 출구에서166m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [
+                "샐러드",
+                "파스타/리조또",
+                "리조또",
+                "페퍼콘등심스테이크"
+            ],
+            "price": [
+                "7,000원",
+                "13,000원",
+                "13,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170707_191%2F1499402288907ex5Ox_JPEG%2F186656545235095_0.jpeg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EC%96%91%EC%8B%9D/place/751768232?c=14133563.0312071,4521064.7164537,12,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

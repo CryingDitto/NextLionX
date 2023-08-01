@@ -1,0 +1,476 @@
+{
+    "서울대입구 중식": {
+        "로향양꼬치 1호점": {
+            "name": "로향양꼬치 1호점",
+            "tel": "0507-1303-5918",
+            "star": "4.54/5",
+            "addr": "서울 관악구 관악로16길 35 푸르빌 아파트\n2서울대입구역 1번 출구에서213m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190201_277%2F1548954857087KHXQx_JPEG%2F20190201_014845.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/19873105?c=14131587.7670305,4506230.7963872,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "라화쿵부마라탕 서울대샤로수점": {
+            "name": "라화쿵부마라탕 서울대샤로수점",
+            "tel": "02-883-5168",
+            "star": "4.4/5",
+            "addr": "서울 관악구 관악로 174 2층 2호\n2서울대입구역 2번 출구에서11m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190227_122%2F1551233229724WPGeI_JPEG%2FXtr8omqUlY16FCOfeyJidgoi.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1429584629?c=14131587.7670305,4506230.7963872,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마차이짬뽕 본사직영점": {
+            "name": "마차이짬뽕 본사직영점",
+            "tel": "02-873-8886",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로 144 1층\n2서울대입구역 2번 출구에서311m",
+            "foodtype": "중식당",
+            "menu": [
+                "마차이짬뽕",
+                "내맘대로 메뉴 2가지 + 1가지+음료(택1)",
+                "짜장면",
+                "마차이 짜장"
+            ],
+            "price": [
+                "9,000원",
+                "26,000원",
+                "7,000원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211231_274%2F1640931556514vaQf8_JPEG%2F%25B7%25CE%25B0%25ED_%25B9%25E8%25B4%25DE%25C0%25C7%25B9%25CE%25C1%25B7%25BF%25EB_%25B4%25EB%25C1%25F6_1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1396262089?c=14131587.7670305,4506230.7963872,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "Kitchen& BAR 몽중인": {
+            "name": "Kitchen& BAR 몽중인",
+            "tel": "02-882-6659",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14가길 13\n2서울대입구역 1번 출구에서516m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190114_125%2F15474707323706Aig1_JPEG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2016-10-08_%25BF%25C0%25C0%25FC_10.42.21_%25BA%25B9%25BB%25E7%25BA%25BB.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1949341772?c=14131587.7670305,4506230.7963872,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "외래향 서울대점": {
+            "name": "외래향 서울대점",
+            "tel": "02-888-1224",
+            "star": [],
+            "addr": "서울 관악구 남부순환로 1801 라피스빌딩 2층\n2서울대입구역 5번 출구에서182m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_287%2F1575267243159QEHT0_JPEG%2FkFkFdVXXbFhJWHAM7uVAFtoF.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/37770452?c=14130557.6721225,4506410.1990143,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "성민양꼬치 본점": {
+            "name": "성민양꼬치 본점",
+            "tel": "02-888-8665",
+            "star": "4.51/5",
+            "addr": "서울 관악구 관악로16길 38\n2서울대입구역 1번 출구에서241m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190928_247%2F1569674409796RkJWi_JPEG%2Ff9dkw6CQ60vrMWLGhKpByalJ.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/19866795?c=14131603.1402522,4506194.8012029,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "타이펑": {
+            "name": "타이펑",
+            "tel": "02-875-2082",
+            "star": "4.25/5",
+            "addr": "서울 관악구 관악로24길 61\n2서울대입구역 7번 출구에서613m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200112_284%2F1578815452966SFwwa_JPEG%2FP8uw3XNjMDthfzYUipux1QZ-.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/21202803?c=14131868.2142237,4506994.5238153,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마부마라탕 샤로수길점": {
+            "name": "마부마라탕 샤로수길점",
+            "tel": "02-875-0107",
+            "star": "4.87/5",
+            "addr": "서울 관악구 관악로14길 22 2층\n2서울대입구역 2번 출구에서286m",
+            "foodtype": "중식당",
+            "menu": [
+                "[사골육수]마라탕 100g/1800(소 1~인분 590g)",
+                "[사골육수]마라탕 100g/1800(중 2~인분870g)",
+                "[사골육수]마라탕 100g/1800(대 3~인분1200g)",
+                "마라샹궈(麻辣鲜香)100g/3000원(소 기본690g)"
+            ],
+            "price": [
+                "10,000원",
+                "15,000원",
+                "20,000원",
+                "20,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210620_276%2F1624123301817rnl2W_JPEG%2FSsW2NHqDffoisEiCQdXlalMO.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1908071760?c=14131502.6966757,4506086.8023642,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "충칭마라훠궈 2호점": {
+            "name": "충칭마라훠궈 2호점",
+            "tel": "02-889-1188",
+            "star": "4.36/5",
+            "addr": "서울 관악구 관악로16길 46 1층\n2서울대입구역 1번 출구에서269m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181125_130%2F1543132435981xh7ov_JPEG%2Fek7fa6T206WrRJT8Pqrx8uCs.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1025641913?c=14131647.6123888,4506171.4029967,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "춘리마라탕 샤로수길점": {
+            "name": "춘리마라탕 샤로수길점",
+            "tel": "02-3285-6888",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 10 준우지하우스 2층\n2서울대입구역 2번 출구에서230m",
+            "foodtype": "중식당",
+            "menu": [
+                "마라탕(100g)",
+                "마라샹궈(100g)",
+                "꿔바로우(소)",
+                "양저우볶음밥"
+            ],
+            "price": [
+                "1,700원",
+                "3,000원",
+                "11,900원",
+                "7,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211229_237%2F1640750058437qSAiv_JPEG%2F9.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1616772251?c=14131424.9400113,4506103.4811615,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "홍콩반점0410 관악구청점": {
+            "name": "홍콩반점0410 관악구청점",
+            "tel": "02-886-8965",
+            "star": "4.41/5",
+            "addr": "서울 관악구 관악로 152 서량빌딩\n2서울대입구역 2번 출구에서240m",
+            "foodtype": "중식당",
+            "menu": [
+                "식사1인+탕수육",
+                "식사2인 + 탕수육",
+                "해쉬브라운(감자튀김)_소스X(3개)",
+                "식사1인+탕수육"
+            ],
+            "price": [
+                "20,000원",
+                "26,000원",
+                "2,500원",
+                "20,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180403_288%2F1522751067539KtHpK_PNG%2FTimENC9Zp9xN1uSM1_Tr-2TR.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/31044565?c=14131424.9400113,4506103.4811615,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "소백양샤브샤브": {
+            "name": "소백양샤브샤브",
+            "tel": "0507-1321-5188",
+            "star": "4.39/5",
+            "addr": "서울 관악구 봉천로 467 2층\n2서울대입구역 6번 출구에서163m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180321_156%2F1521608702600qnsLE_PNG%2FFRfb_wwX3MoBidFy1bfYd0W3.PNG.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1380479069?c=14131424.9400113,4506103.4811615,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "라공방 서울대 본점": {
+            "name": "라공방 서울대 본점",
+            "tel": "02-878-0588",
+            "star": "4.39/5",
+            "addr": "서울 관악구 관악로 163 1층\n2서울대입구역 3번 출구에서119m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190831_150%2F1567259429172LxIxW_JPEG%2FTixecNXDNAdpXevomm0BNJH4.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1851293284?c=14131424.9400113,4506103.4811615,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "성민양꼬치 2호점": {
+            "name": "성민양꼬치 2호점",
+            "tel": "0507-1348-7877",
+            "star": "4.52/5",
+            "addr": "서울 관악구 관악로14길 15\n2서울대입구역 2번 출구에서260m",
+            "foodtype": "양꼬치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191001_163%2F1569897535508akaX7_JPEG%2FrPz3FB3QxU-lwN_i6LXcrnoX.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/38238508?c=14131424.9400113,4506103.4811615,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "리춘시장 샤로수길점": {
+            "name": "리춘시장 샤로수길점",
+            "tel": "02-6448-0410",
+            "star": "5/5",
+            "addr": "서울 관악구 관악로14길 22 1층\n2서울대입구역 2번 출구에서286m",
+            "foodtype": "중식당",
+            "menu": [
+                "사막깐풍기",
+                "고추듬뿍유린기",
+                "멘바샥",
+                "오아시스 하이볼"
+            ],
+            "price": [
+                "12,900원",
+                "12,900원",
+                "11,900원",
+                "5,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220608_2%2F1654660859826BMj5p_PNG%2F%25B8%25AE%25C3%25E1%25BD%25C3%25C0%25E5_bi_2022_%25B8%25AE%25C3%25E1%25BD%25C3%25C0%25E5_BI_vartical-05.png",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1676614405?c=14131424.9400113,4506103.4811615,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "하이보": {
+            "name": "하이보",
+            "tel": "02-882-8813",
+            "star": "4.34/5",
+            "addr": "서울 관악구 관악로 134 진성빌딩2층\n2서울대입구역 2번 출구에서412m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190305_95%2F15517404890808S2DL_JPEG%2FbkmnDPFe4hOEKfvyJ1CMsxxa.jpeg.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1333550573?c=14131375.8703798,4505837.5493881,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "하우츠마라탕": {
+            "name": "하우츠마라탕",
+            "tel": "02-886-6680",
+            "star": "4.43/5",
+            "addr": "서울 관악구 관악로14길 75\n2서울대입구역 1번 출구에서488m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191127_164%2F1574853129430QCD18_JPEG%2FHmrvk8X3In_xnXEQHg4d6U5-.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1093424966?c=14131375.8703798,4505837.5493881,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "차오멘짬뽕": {
+            "name": "차오멘짬뽕",
+            "tel": "0507-1417-4969",
+            "star": "4.45/5",
+            "addr": "서울 관악구 봉천로 465\n2서울대입구역 6번 출구에서206m",
+            "foodtype": "중식당",
+            "menu": [
+                "해물짬뽕",
+                "찹쌀등심탕수육(소)",
+                "찹쌀등심탕수육(중)",
+                "찹쌀등심탕수육(미니)"
+            ],
+            "price": [
+                "9,000원",
+                "18,000원",
+                "24,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210621_8%2F1624268306903cFlHJ_JPEG%2Fh_Qn5DHZnnnIsRBceWWUs3UI.JPG.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1373030942?c=14131259.9979218,4506575.5764759,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마라공방 마라탕": {
+            "name": "마라공방 마라탕",
+            "tel": "02-882-0808",
+            "star": "4.45/5",
+            "addr": "서울 관악구 봉천로 473 2층\n2서울대입구역 6번 출구에서89m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190916_205%2F1568607927712w7mbl_JPEG%2F13BmoKDMpl5BzlPpFsc2iXAT.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1836240493?c=14131395.8633603,4506558.1814891,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "차이나중화요리": {
+            "name": "차이나중화요리",
+            "tel": "02-873-0201",
+            "star": "4.45/5",
+            "addr": "서울 관악구 관악로 230\n2서울대입구역 7번 출구에서455m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190703_150%2F1562155353129zkpHv_JPEG%2FSozYvD-plPi411g5piYSJXuK.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1897325465?c=14131745.5178809,4506911.3755211,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "안동장": {
+            "name": "안동장",
+            "tel": "0507-1444-1706",
+            "star": "4.21/5",
+            "addr": "서울 관악구 남부순환로 1786 1층 중화요리 안동장\n2서울대입구역 4번 출구에서329m",
+            "foodtype": "중식당",
+            "menu": [
+                "프리미엄새우폭탄삼선짬뽕",
+                "™중화제육면",
+                "탕짜면",
+                "백짬뽕"
+            ],
+            "price": [
+                "13,900원",
+                "9,000원",
+                "12,000원",
+                "11,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fvideo-phinf.pstatic.net%2F20220113_100%2F1642054030557ze5eg_JPEG%2F09fd6fae-7437-11ec-b282-48df37ae3dc4_03.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1049940417?c=14130912.9371454,4506418.2651206,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "다빈": {
+            "name": "다빈",
+            "tel": "02-884-1918",
+            "star": "4.19/5",
+            "addr": "서울 관악구 남부순환로233길 10\n2서울대입구역 8번 출구에서508m",
+            "foodtype": "중식당",
+            "menu": [
+                "1. 유린육+짜장1",
+                "마파두부밥",
+                "탕볶밥",
+                "삼선짬뽕"
+            ],
+            "price": [
+                "20,000원",
+                "9,500원",
+                "11,000원",
+                "10,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151112_248%2F1447296817893haVxw_JPEG%2FSUBMIT_1447296815031_13155805.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/13155805?c=14131978.2758042,4506209.2778171,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "야미마라탕": {
+            "name": "야미마라탕",
+            "tel": "02-6368-1005",
+            "star": "4.52/5",
+            "addr": "서울 관악구 행운1길 132 대진빌딩1층\n2서울대입구역 7번 출구에서475m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190704_42%2F1562249121447yGVyM_JPEG%2Fmm3NxfQ8q6VmemhwLK_UgEjJ.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1696782659?c=14131779.4814576,4506849.2286693,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "하오": {
+            "name": "하오",
+            "tel": "02-878-6568",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 94 1층\n2서울대입구역 1번 출구에서593m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220104_246%2F1641271550500j4OMd_JPEG%2Fimage-88789068475419749.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1618930159?c=14131922.6271908,4505931.6866128,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "동화반점": {
+            "name": "동화반점",
+            "tel": "02-888-0710",
+            "star": "4.23/5",
+            "addr": "서울 관악구 관악로 268 광주약국\n2서울대입구역 7번 출구에서850m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_270%2F1441056272974wS3ph_JPEG%2FSUBMIT_1421401880487_13566227.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/13566227?c=14131995.9756033,4507329.7891436,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "쓰촨마라탕": {
+            "name": "쓰촨마라탕",
+            "tel": "02-6014-1335",
+            "star": "4.47/5",
+            "addr": "서울 관악구 관악로 204\n2서울대입구역 7번 출구에서199m",
+            "foodtype": "중식당",
+            "menu": [
+                "마라탕",
+                "마라샹궈(양고기마라샹궈)",
+                "마라샹궈(소고기마라샹궈)",
+                "꿔바로우(소)"
+            ],
+            "price": [
+                "9,000원",
+                "15,000원",
+                "15,000원",
+                "12,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200515_28%2F1589520759716v4Az0_JPEG%2FC0GoBvQ_qh6h_bzb4B_Ltfd8.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1290419156?c=14131559.4028243,4506647.6677816,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "마라연구소 서울대입구역점": {
+            "name": "마라연구소 서울대입구역점",
+            "tel": "0507-1364-0624",
+            "star": [],
+            "addr": "서울 관악구 관악로 224 2층 마라연구소\n2서울대입구역 7번 출구에서410m",
+            "foodtype": "중식당",
+            "menu": [
+                "마라샤오룽샤",
+                "마라새우",
+                "꿔바로우",
+                "마라샹궈"
+            ],
+            "price": [
+                "35,000원",
+                "25,000원",
+                "9,900원",
+                "15,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220118_115%2F1642501724673AdN2L_JPEG%2Fmmexport1642501672506.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1810085752?c=14131559.4028243,4506647.6677816,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "한성마라탕": {
+            "name": "한성마라탕",
+            "tel": "0507-1333-0969",
+            "star": "4.45/5",
+            "addr": "서울 관악구 중앙1길 12 B1\n2서울대입구역 6번 출구에서329m",
+            "foodtype": "중식당",
+            "menu": [
+                "마라탕",
+                "마라샹궈",
+                "꿔바로우",
+                "중화풍마라깐풍기"
+            ],
+            "price": [
+                "12,000원",
+                "18,000원",
+                "16,000원",
+                "16,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200212_150%2F1581500458445nSPSV_JPEG%2F8vED_7wyiqKlRWw2bcTMByf_.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1870831764?c=14131995.9756033,4507329.7891436,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "오미각": {
+            "name": "오미각",
+            "tel": "02-882-8857",
+            "star": "4.25/5",
+            "addr": "서울 관악구 봉천로53길 7 1층 오미각\n2서울대입구역 7번 출구에서176m",
+            "foodtype": "중식당",
+            "menu": [
+                "사천식 마른고추 닭볶음",
+                "향라오징어",
+                "향라계정",
+                "차돌짬뽕"
+            ],
+            "price": [
+                "12,000원",
+                "12,000원",
+                "12,000원",
+                "9,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210128_220%2F1611821288812RhHNf_JPEG%2F1qHEKpx2E94ssmUkMQjVxMYx.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1080857545?c=14131995.9756033,4507329.7891436,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "만리장성": {
+            "name": "만리장성",
+            "tel": "02-879-2224",
+            "star": [],
+            "addr": "서울 관악구 관악로 146 2,3층 [ 봉천동 -\n2서울대입구역 2번 출구에서303m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDJfMTU2%2FMDAxNjU5NDQwNjkwMTYy.gYbDETVAvWFU-QAAErwGWknJTjYolAZOrv8Nd1GnM8Mg.SyVrmxEyp6O1ZdjzF4fJrbyoYgYnortfj0qXU8BRIPgg.JPEG.jerryterry%2F20220802%25A3%25DF161449.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1655201168?c=14131361.6326169,4505984.9626810,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "홍시원": {
+            "name": "홍시원",
+            "tel": "02-888-8110",
+            "star": "4.34/5",
+            "addr": "서울 관악구 청룡1길 19\n2서울대입구역 4번 출구에서470m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200101_48%2F1577885236820qbPuX_JPEG%2FxHoo5ClP0CPGx0tPSaMHnMWA.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1675322701?c=14131361.6326169,4505984.9626810,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        },
+        "차이나패밀리": {
+            "name": "차이나패밀리",
+            "tel": "0507-1496-0060",
+            "star": "4.56/5",
+            "addr": "서울 관악구 관악로 237 2층\n2서울대입구역 6번 출구에서555m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200108_150%2F1578482273570Fp1jg_JPEG%2FnPhht6q6wxYR3KI2_MZqxrwz.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%EB%8C%80%EC%9E%85%EA%B5%AC%20%EC%A4%91%EC%8B%9D/place/1875126509?c=14131738.7162600,4507045.9815345,15,0,0,0,dh&placePath=%3Fentry%253Dbmp"
+        }
+    }
+}

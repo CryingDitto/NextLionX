@@ -1,0 +1,464 @@
+{
+    "안암 양식 매장정보": [
+        {
+            "name": "퍽앤어니언",
+            "tel": "0507-1429-0423",
+            "star": [],
+            "addr": "서울 성북구 고려대로28길 17-3 101호 퍽앤어니언\n6안암역 3번 출구에서166m",
+            "foodtype": "햄버거",
+            "menu": [
+                "ONION DOUBLE(어니언 더블)",
+                "BACON DELUXE(베이컨디럭스)",
+                "HICKORY BBQ BACON",
+                "ONION CHEESE"
+            ],
+            "price": [
+                "8,800원",
+                "7,000원",
+                "6,800원",
+                "5,800원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220713_199%2F1657679772451rhJbo_JPEG%2FIMG_20220711_105817_032.jpg"
+        },
+        {
+            "name": "무르무르드구스토",
+            "tel": "02-928-0683",
+            "star": "4.37/5",
+            "addr": "서울 성북구 고려대로 102-2 4층\n6안암역 3번 출구에서103m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191005_167%2F1570258182267f6ITE_JPEG%2FfF-gVTPRE3CfcBlPg1ay5YSX.jpg"
+        },
+        {
+            "name": "매스플레이트안암본점",
+            "tel": "010-7419-3339",
+            "star": "4.5/5",
+            "addr": "서울 성북구 개운사길 18 2층\n6안암역 2번 출구에서111m",
+            "foodtype": "이탈리아음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201111_235%2F1605097370307RExWI_JPEG%2FnWvLqRKak_dvta6vE_cauF-1.jpg"
+        },
+        {
+            "name": "프로마치",
+            "tel": "0507-1301-8537",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로24가길 13\n6안암역 3번 출구에서140m",
+            "foodtype": "양식",
+            "menu": [
+                "페스토 치킨(샌드위치) Pesto Sandwich",
+                "리코타치즈(200g) & 치아바타 T/O Ricotta",
+                "멕시칸 타코(샌드위치) Mexican Sandwich",
+                "포크 파스트라미(샌드위치) Pork Sandwich"
+            ],
+            "price": [
+                "9,400원",
+                "7,900원",
+                "9,900원",
+                "9,400원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180104_120%2F1515040709647XyTIA_JPEG%2F0cyr5eKjXIsNaK2NQwEzBM9E.jpeg.jpg"
+        },
+        {
+            "name": "영철스토리펌",
+            "tel": "02-922-1668",
+            "star": "4.58/5",
+            "addr": "서울 성북구 안암로9가길 100 1층\n6안암역 4번 출구에서347m",
+            "foodtype": "햄버거",
+            "menu": [
+                "치즈스트리트",
+                "돈마리네",
+                "치킨마리네",
+                "리턴스트리트"
+            ],
+            "price": [
+                "5,000원",
+                "4,900원",
+                "4,900원",
+                "4,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_285%2F1441003542693YMdVf_JPEG%2F11605560_0.jpg"
+        },
+        {
+            "name": "맥도날드 안암점",
+            "tel": "070-7017-0367",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로24길 42 방주빌딩\n6안암역 4번 출구에서254m",
+            "foodtype": "햄버거",
+            "menu": [
+                "빅맥® 세트",
+                "맥스파이시® 상하이 버거 세트",
+                "1955 버거™ 세트",
+                "불고기 버거 세트"
+            ],
+            "price": [
+                "변동",
+                "변동",
+                "변동",
+                "변동"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_2%2F1441044307761hgU3e_GIF%2F11807368_0.g"
+        },
+        {
+            "name": "밀플랜비 고려대점",
+            "tel": "0507-1347-0773",
+            "star": "4.54/5",
+            "addr": "서울 성북구 개운사길 52 1층\n6안암역 2번 출구에서281m",
+            "foodtype": "핫도그",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190513_131%2F1557731096365r84DV_JPEG%2FHCx4MNE-rfk6-eVxuzY81tFf.jpg"
+        },
+        {
+            "name": "mychef",
+            "tel": "070-7799-6768",
+            "star": "4.39/5",
+            "addr": "서울 성북구 고려대로24가길 14-1\n6안암역 3번 출구에서166m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [
+                "샐러드",
+                "파스타/리조또",
+                "리조또",
+                "페퍼콘등심스테이크"
+            ],
+            "price": [
+                "7,000원",
+                "13,000원",
+                "13,000원",
+                "28,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170707_191%2F1499402288907ex5Ox_JPEG%2F186656545235095_0.jpeg"
+        },
+        {
+            "name": "효이당",
+            "tel": "0507-1343-6839",
+            "star": "4.51/5",
+            "addr": "서울 성북구 고려대로27길 30-2\n6안암역 2번 출구에서203m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210206_234%2F1612623348581XHzlV_JPEG%2FRfXZmjaMDXy-RLYRq61Eeew6.jpg"
+        },
+        {
+            "name": "샐러드로우 앤 트라타 고대본점",
+            "tel": "02-921-0901",
+            "star": "4.53/5",
+            "addr": "서울 성북구 고려대로28길 14\n6안암역 3번 출구에서128m",
+            "foodtype": "멕시코,남미음식",
+            "menu": [
+                "부리또(비프/피쉬/트라타)",
+                "타코(포크/치킨/베지테리언)",
+                "타코(비프/쉬림프/피쉬)",
+                "부리또(포크/치킨/베지테리언)"
+            ],
+            "price": [
+                "9,000원",
+                "7,500원",
+                "8,500원",
+                "8,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220725_80%2F1658692430048yVBgQ_JPEG%2F%25B7%25CE%25B0%25ED.jpg"
+        },
+        {
+            "name": "어흥식당",
+            "tel": "0507-1352-0426",
+            "star": "4.59/5",
+            "addr": "서울 성북구 고려대로27길 40\n6안암역 2번 출구에서246m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190907_11%2F1567793414049SogDW_JPEG%2F3DPqk2Df5vCZxsQ6JMwXdQKo.jpg"
+        },
+        {
+            "name": "치폴레옹 고려대점",
+            "tel": "02-6339-8869",
+            "star": "4.65/5",
+            "addr": "서울 성북구 고려대로24길 45 2층\n6안암역 3번 출구에서253m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220202_153%2F1643793780287E5HO6_JPEG%2F1643793727190.jpg"
+        },
+        {
+            "name": "히포크라테스 스프",
+            "tel": "02-923-3932",
+            "star": "4.71/5",
+            "addr": "서울 성북구 고려대로28길 12-3\n6안암역 3번 출구에서101m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200317_3%2F1584417471372EeUBU_JPEG%2FRIcG5OtkaV0XH2gKvDy46rfy.jpg"
+        },
+        {
+            "name": "위치앤샐러",
+            "tel": "0507-1407-2534",
+            "star": [],
+            "addr": "서울 성북구 개운사길 90 1층 101호\n6안암역 2번 출구에서483m",
+            "foodtype": "샌드위치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211008_180%2F1633652941372yVa4t_JPEG%2Fimage.jpg"
+        },
+        {
+            "name": "반미362 고대안암점",
+            "tel": "02-928-0362",
+            "star": [],
+            "addr": "서울 성북구 개운사길 22-6\n6안암역 2번 출구에서173m",
+            "foodtype": "샌드위치",
+            "menu": [
+                "야채 반미",
+                "오믈렛 반미",
+                "에그프라이 반미",
+                "햄소세지 반미"
+            ],
+            "price": [
+                "4,400원",
+                "6,300원",
+                "5,000원",
+                "6,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211123_280%2F163764939981162yQ0_JPEG%2F1.jpg"
+        },
+        {
+            "name": "빨간모자피자 고대점",
+            "tel": "02-921-7900",
+            "star": "4.38/5",
+            "addr": "서울 성북구 안암로 91\n6안암역 3번 출구에서311m",
+            "foodtype": "피자",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220114_133%2F1642134842725mcGs5_JPEG%2F1203.jpg"
+        },
+        {
+            "name": "고피자 고대안암점",
+            "tel": "0507-1481-9981",
+            "star": "4.14/5",
+            "addr": "서울 성북구 고려대로27길 24-2 1층\n6안암역 2번 출구에서175m",
+            "foodtype": "피자",
+            "menu": [
+                "콘소메 치킨 피자",
+                "콘케이노 치킨 피자",
+                "마르게리타 피자",
+                "부라타 치즈 피자"
+            ],
+            "price": [
+                "9,400원",
+                "9,400원",
+                "7,500원",
+                "11,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191011_172%2F1570778348513uqoQF_JPEG%2FH8ooGK4niCJALyUPKJWkke_h.jpg"
+        },
+        {
+            "name": "프랭크버거 고대안암점",
+            "tel": "02-928-6289",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 37 1층\n6안암역 3번 출구에서219m",
+            "foodtype": "햄버거",
+            "menu": [
+                "프랭크버거(R)",
+                "[New]쉬림프버거",
+                "치즈버거세트(L)",
+                "베이컨치즈버거세트(L)"
+            ],
+            "price": [
+                "4,300원",
+                "4,500원",
+                "9,900원",
+                "11,200원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220127_178%2F1643245206890AQPiC_JPEG%2F%25C7%25C1%25B7%25A9%25C5%25A9%25B9%25F6%25B0%25C5_CI%2528%25BB%25E7%25B0%25A2.2%25C2%25F7%25BA%25AF%25B0%25E6%2529.jpg"
+        },
+        {
+            "name": "노브랜드버거 고려대점",
+            "tel": "02-921-6251",
+            "star": "4.49/5",
+            "addr": "서울 성북구 고려대로24길 51\n6안암역 3번 출구에서292m",
+            "foodtype": "햄버거",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220419_179%2F1650370603081Cnv0y_PNG%2F200409-NBB-%25BF%25A5%25BA%25ED%25B7%25B3-%25B1%25E2%25BA%25BB%25C7%25FC-%25B3%25EB%25B6%25F5%25BB%25F6-%25C3%25D6%25C1%25BE.png"
+        },
+        {
+            "name": "모이리타",
+            "tel": "02-922-2292",
+            "star": "4.44/5",
+            "addr": "서울 성북구 고려대로24길 20 2층\n6안암역 3번 출구에서141m",
+            "foodtype": "이탈리아음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180324_222%2F1521898332853RB35J_JPEG%2FJpu_VIUCqIUxUNVpHfGJ70CO.jpg"
+        },
+        {
+            "name": "KFC 고대안암",
+            "tel": "02-923-8162",
+            "star": "4.37/5",
+            "addr": "서울 성북구 개운사길 5\n6안암역 1번 출구에서71m",
+            "foodtype": "햄버거",
+            "menu": [
+                "스모키마운틴바베큐블랙라벨치킨 8조각",
+                "스모키마운틴바베큐블랙라벨치킨 5조각",
+                "스모키마운틴바베큐블랙라벨치킨 3조각",
+                "스모키마운틴바베큐블랙라벨치킨 1조각"
+            ],
+            "price": [
+                "26,000원",
+                "16,700원",
+                "10,200원",
+                "3,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220508_34%2F1652020018166SHr5p_JPEG%2F20190531092835_1333864_652_489.jpg"
+        },
+        {
+            "name": "달링스테이크 고려대가족점",
+            "tel": "02-924-8525",
+            "star": "4.52/5",
+            "addr": "서울 성북구 고려대로27길 9 2층\n6안암역 2번 출구에서78m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180531_282%2F1527721661864ejxip_JPEG%2Fo4oQV6TJsmKYUiak6FOkAkPX.jpg"
+        },
+        {
+            "name": "버거킹 안암오거리점",
+            "tel": "02-922-0332",
+            "star": "4.4/5",
+            "addr": "서울 성북구 안암로 73\n6안암역 4번 출구에서373m",
+            "foodtype": "햄버거",
+            "menu": [
+                "텍사스칠리와퍼 팩1",
+                "텍사스칠리와퍼 팩2",
+                "텍사스칠리와퍼 팩3",
+                "텍사스칠리와퍼 팩4"
+            ],
+            "price": [
+                "20,000원",
+                "20,000원",
+                "20,000원",
+                "20,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170407_204%2F1491528367970hs0qS_JPEG%2F186357505627_0.jpg"
+        },
+        {
+            "name": "바겟버거 고려대학교 현대자동차경영관점",
+            "tel": "02-953-2019",
+            "star": [],
+            "addr": "서울 성북구 안암로 145 고려대학교 현대자동차경영관 지하1층\n6고려대역 2번 출구에서355m",
+            "foodtype": "햄버거",
+            "menu": [
+                "시크릿바겟 SET",
+                "클래식치즈버거 SET",
+                "오리지널바겟 SET",
+                "핫)어메이징치킨버거 SET"
+            ],
+            "price": [
+                "6,700원",
+                "6,200원",
+                "6,700원",
+                "7,300원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210510_4%2F16206298791371msQg_PNG%2FSE8Nhb-IChnvjNlCL4akhuf7.png"
+        },
+        {
+            "name": "버거킹 고대중앙광장점",
+            "tel": "070-7462-8772",
+            "star": "4.46/5",
+            "addr": "서울 성북구 안암로 145 버거킹 고대중앙광장점(지하)\n6고려대역 1번 출구에서290m",
+            "foodtype": "햄버거",
+            "menu": [
+                "통새우와퍼주니어세트",
+                "통새우와퍼세트",
+                "와퍼세트",
+                "콰트로치즈와퍼세트"
+            ],
+            "price": [
+                "7,200원",
+                "9,700원",
+                "8,900원",
+                "9,700원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAzMTZfMTc5%2FMDAxNDg5NjYxMjQ3MTUx.eTmbcazpNoP3LCLKneErNk255TwPUfiGctowDGcnLa4g.u44hyUmkshznWEI9ngloizN1H3qzSI5aCcdxTfPyHy0g.JPEG.lindamaam%2FIMG_5235.jpg"
+        },
+        {
+            "name": "정상호프 방원점",
+            "tel": "02-921-4284",
+            "star": "4.56/5",
+            "addr": "서울 성북구 개운사길 2\n6안암역 2번 출구에서31m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191226_160%2F1577330715632OQaed_JPEG%2F6Fu3I9UScMVdzORpLe7GK5eb.jpg"
+        },
+        {
+            "name": "샌드프레소 고대 하나사이언스파크점",
+            "tel": "02-926-5613",
+            "star": "4.49/5",
+            "addr": "서울 성북구 안암동 126-3\n6안암역 1번 출구에서488m",
+            "foodtype": "샌드위치",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200207_61%2F158107341860325jkP_JPEG%2FoHMzKittdU0D5YNkE-0qi0Rp.jpg"
+        },
+        {
+            "name": "정다래함박스텍 안암점",
+            "tel": "02-928-7558",
+            "star": "4.3/5",
+            "addr": "서울 성북구 안암로9가길 91\n6안암역 4번 출구에서389m",
+            "foodtype": "스테이크,립",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190125_125%2F1548423622304SEoOJ_JPEG%2FSy-JvsiMax17K0pRmlgtQF3M.JPG.jpg"
+        },
+        {
+            "name": "도로시파스타연정 성북점",
+            "tel": "0507-1391-3721",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 30-2 3층\n6안암역 2번 출구에서203m",
+            "foodtype": "스파게티,파스타전문",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1110360190%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660760012201%26md%3DO%252BKL14UjI%252FEUc2eDQSr%252BVL7IRmE%253D"
+        },
+        {
+            "name": "한국맥도날드",
+            "tel": "070-7017-0357",
+            "star": "4.49/5",
+            "addr": "서울 성북구 고려대로24길 42\n6안암역 4번 출구에서254m",
+            "foodtype": "햄버거",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220512_214%2F16523610344922DdjL_JPEG%2Fimages.jpeg"
+        },
+        {
+            "name": "안암동양식당",
+            "tel": "070-7017-0357",
+            "star": "4.33/5",
+            "addr": "서울 성북구 고려대로28길 2\n6안암역 3번 출구에서60m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210521_173%2F1621594108046iF6ci_JPEG%2FNgn2VR73ra0MkLW7fElqj8ON.jpg"
+        },
+        {
+            "name": "아시안콘티낸탈쿠진",
+            "tel": "02-927-0786",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 9\n6안암역 2번 출구에서78m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MjJfMjE1%2FMDAxNjU4NDI5MTIyMTE5.RdaEVmL3EAM8YtKNiDmFbyWZbyl8w7s7QDgAYIMjB4Qg.ZjNSlnIbCkfAV8dPditX19gT-zQ_PFiHlGpby4GmwBQg.JPEG.fszntszo%2F20210818%25A3%25DF174541.jpg"
+        },
+        {
+            "name": "엠소사이어티",
+            "tel": "02-927-0786",
+            "star": [],
+            "addr": "서울 성북구 고려대로27길 40 (안암동5가) 지층\n6안암역 2번 출구에서246m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fapis.naver.com%2Fplace%2Fpanorama%2Fthumbnail%2F1643894893%2F0%3Fwidth%3D800%26height%3D400%26msgpad%3D1660760050576%26md%3D%252Fk%252BzDdsBeBHWGOBkyQWZ1FYoJ7E%253D"
+        }
+    ]
+}

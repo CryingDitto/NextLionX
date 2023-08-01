@@ -1,0 +1,40 @@
+{
+    "안암 네컷사진": {
+        "인생사진": {
+            "name": "인생사진",
+            "tel": "02-5553-7943",
+            "star": [],
+            "addr": "서울 성북구 고려대로24길 39 인생사진\n6안암역 3번 출구에서225m",
+            "foodtype": "셀프,대여스튜디오",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210919_106%2F16320310676081Cuy4_JPEG%2FIopcaOkqrU676iQhUJabrDAe.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%84%A4%EC%BB%B7%EC%82%AC%EC%A7%84/place/1727600161?c=14140399.0720811,4520888.3355826,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "포토이즘 박스 고대안암점": {
+            "name": "포토이즘 박스 고대안암점",
+            "tel": "02-5553-7943",
+            "star": [],
+            "addr": "서울 성북구 고려대로26길 5\n6안암역 3번 출구에서51m",
+            "foodtype": "사진,스튜디오",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220728_62%2F1659005356444y3KHW_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%84%A4%EC%BB%B7%EC%82%AC%EC%A7%84/place/1061346168?c=14139932.0868172,4520888.3496300,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        },
+        "포토이즘박스 종암점": {
+            "name": "포토이즘박스 종암점",
+            "tel": "02-5553-7943",
+            "star": [],
+            "addr": "서울 성북구 종암로18길 3-4 103호\n6고려대역 3번 출구에서984m",
+            "foodtype": "사진,스튜디오",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220704_202%2F1656922607053OPRPc_JPEG%2F1.jpg",
+            "url": "https://map.naver.com/v5/search/%EC%95%88%EC%95%94%20%EB%84%A4%EC%BB%B7%EC%82%AC%EC%A7%84/place/1212859255?c=14138624.8620369,4521941.5235660,15,0,0,0,dh&placePath=%3Fentry%253Dbmp",
+            "franchise": 0
+        }
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "서울대입구 와인 매장정보": [
+        {
+            "name": "와인창고잡",
+            "tel": "02-876-4416",
+            "star": "4.4/5",
+            "addr": "서울 관악구 남부순환로226길 31\n2서울대입구역 1번 출구에서260m",
+            "foodtype": "와인",
+            "menu": [
+                "프리미엄 등심스테이크(250g)",
+                "청양오일파스타",
+                "하몽메론",
+                "마르게리따 피자"
+            ],
+            "price": [
+                "29,000원",
+                "13,000원",
+                "17,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220804_10%2F1659593626947uVxqy_JPEG%2F-_%25284%2529."
+        },
+        {
+            "name": "모힝",
+            "tel": "02-873-5164",
+            "star": "4.57/5",
+            "addr": "서울 관악구 남부순환로226길 36 2층\n2서울대입구역 2번 출구에서282m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "지글지글 게살 치즈 크림 파스타",
+                "비프 플렛 브레드",
+                "보글보글 뚝배기 파스타",
+                "해산물오일파스타 spicy"
+            ],
+            "price": [
+                "16,000원",
+                "23,000원",
+                "16,000원",
+                "16,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191015_288%2F15711320846597nvpz_JPEG%2F1.jpg"
+        },
+        {
+            "name": "모즈타파스라운지",
+            "tel": "0507-1406-8910",
+            "star": "4.64/5",
+            "addr": "서울 관악구 남부순환로226길 36 지하 모즈타파스라운지\n2서울대입구역 2번 출구에서282m",
+            "foodtype": "스페인음식",
+            "menu": [
+                "모즈 믹스타 빠에야",
+                "감바스 알아히요",
+                "핀초",
+                "감바스 피칸테"
+            ],
+            "price": [
+                "26,000원",
+                "13,000원",
+                "13,000원",
+                "13,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181117_125%2F1542393077028gdpzs_JPEG%2FAWTuvLCTNYAflNh0G1AMlJwU.jpg"
+        },
+        {
+            "name": "바닐라스카이 라운지",
+            "tel": "02-6276-8654",
+            "star": "4.53/5",
+            "addr": "서울 관악구 남부순환로 1820\n2서울대입구역 4번 출구에서15m",
+            "foodtype": "바(BAR)",
+            "menu": [
+                "칵테일",
+                "와인류",
+                "커피",
+                "맥주"
+            ],
+            "price": [
+                "10,000원",
+                "39,000원",
+                "7,000원",
+                "6,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200520_120%2F1589986104751QiKsi_JPEG%2FfyKRJJ967Rx_yUzQLVtRyJlC.jpg"
+        },
+        {
+            "name": "인파밀리아",
+            "tel": "0507-1369-1640",
+            "star": [],
+            "addr": "서울 관악구 남부순환로234길 31 B1\n2서울대입구역 1번 출구에서537m",
+            "foodtype": "와인",
+            "menu": [
+                "안심 스테이크",
+                "항정 스테이크",
+                "통삼겹스테이크",
+                "뽈뽀 아라가예가"
+            ],
+            "price": [
+                "19,000원",
+                "19,000원",
+                "19,000원",
+                "19,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220621_191%2F1655799068067mslQQ_JPEG%2F1655797882339-1.jpg"
+        },
+        {
+            "name": "아비정전",
+            "tel": "0507-1302-0416",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 65 2층\n2서울대입구역 1번 출구에서441m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201209_299%2F1607452494007iOPvx_JPEG%2F5JVDaqgZg3HWeUJwGI-pfvXM.jpg"
+        },
+        {
+            "name": "축상",
+            "tel": "02-882-7500",
+            "star": "4.66/5",
+            "addr": "서울 관악구 남부순환로 1848-6 지하 1층\n2서울대입구역 1번 출구에서231m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190520_278%2F1558319652882OlshW_JPEG%2F6PRaw2ui43A7zqHp6U90F80o.jpg"
+        },
+        {
+            "name": "서랍",
+            "tel": "0507-1335-7075",
+            "star": "4.87/5",
+            "addr": "서울 관악구 청룡1길 19 3층 (왼쪽) 301호\n2서울대입구역 4번 출구에서470m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210421_268%2F16189431458184oqKE_JPEG%2F123115023_118636663352531_3032654417252770266_n.jpg"
+        },
+        {
+            "name": "투머트",
+            "tel": "0507-1372-5116",
+            "star": "4.87/5",
+            "addr": "서울 관악구 남부순환로226길 42 1층\n2서울대입구역 2번 출구에서318m",
+            "foodtype": "와인",
+            "menu": [
+                "프랜치랙",
+                "청양고추 파스타",
+                "들기름 카펠리니",
+                "단새우 뵈흐블랑"
+            ],
+            "price": [
+                "38,000원",
+                "18,000원",
+                "19,000원",
+                "25,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220309_131%2F16467979209139xnDq_JPEG%2F43BE2D36-D17C-469A-AE2D-0BEACC12196C.jpeg"
+        },
+        {
+            "name": "뮤트",
+            "tel": "010-5561-5066",
+            "star": [],
+            "addr": "서울 관악구 남부순환로228길 45 뮤트\n2서울대입구역 2번 출구에서497m",
+            "foodtype": "와인",
+            "menu": [
+                "커피&에이드",
+                "글라스와인(R/W)",
+                "포트와인",
+                "화이트와인"
+            ],
+            "price": [
+                "3,800원",
+                "6,000원",
+                "50,000원",
+                "29,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220312_15%2F1647082424392sK74f_JPEG%2FKakaoTalk_20220310_213850171_06.jpg"
+        },
+        {
+            "name": "참작",
+            "tel": "0507-1341-5822",
+            "star": "4.92/5",
+            "addr": "서울 관악구 관악로12길 11 지하 1층\n2서울대입구역 2번 출구에서347m",
+            "foodtype": "와인",
+            "menu": [
+                "글라스 차지 (1인)",
+                "음식물 반입 (1인)",
+                "마츠",
+                "콥케 포트와인"
+            ],
+            "price": [
+                "5,000원",
+                "2,000원",
+                "25,000원",
+                "23,500원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220211_18%2F1644571706654sgRhx_JPEG%2FIMG_8042.jpg"
+        },
+        {
+            "name": "오늘와인한잔 서울대역1번출구점",
+            "tel": "02-883-1587",
+            "star": "4.36/5",
+            "addr": "서울 관악구 남부순환로234길 18\n2서울대입구역 1번 출구에서484m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180227_182%2F1519716691987bDAiK_JPEG%2Fdugfv23jJxm0I7fj7M6mCm6N.jpg"
+        },
+        {
+            "name": "스월링",
+            "tel": "02-885-0576",
+            "star": "4.31/5",
+            "addr": "서울 관악구 관악로16길 28\n2서울대입구역 1번 출구에서171m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180903_200%2F1535964990295q2aaX_JPEG%2FsFrtCCgxnymyX_y17blue6vJ.jpeg.jpg"
+        },
+        {
+            "name": "베라노",
+            "tel": "010-6530-2153",
+            "star": [],
+            "addr": "서울 관악구 행운1길 108 1층\n2서울대입구역 7번 출구에서430m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211024_73%2F16350773477114lt9F_JPEG%2FABzTdOf1tHwQO1qL0m2tSo6H.jpg"
+        },
+        {
+            "name": "이트리 더푸드랩",
+            "tel": "0507-1359-1430",
+            "star": [],
+            "addr": "서울 관악구 관악로 105 지하1층 B2호\n2서울대입구역 3번 출구에서698m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211005_150%2F1633423459623kzSgf_JPEG%2FSdAHQCZwglcJkgsr_SDfmSfL.jpg"
+        },
+        {
+            "name": "허니자",
+            "tel": "010-3153-2730",
+            "star": [],
+            "addr": "서울 관악구 남부순환로234길 35\n2서울대입구역 1번 출구에서565m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200401_132%2F1585728490162JBKm4_JPEG%2FjXvS-qq5tNKJt0au4F0TKRsc.jpeg.jpg"
+        },
+        {
+            "name": "라오",
+            "tel": "02-3215-7956",
+            "star": [],
+            "addr": "서울 관악구 쑥고개로 110\n2서울대입구역 3번 출구에서573m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=w750&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171127_62%2F1511758006644wuKuz_JPEG%2F1445332918309_4570_REPR.jpg"
+        },
+        {
+            "name": "와인바 플란타",
+            "tel": "0507-1361-8606",
+            "star": [],
+            "addr": "서울 관악구 관악로28길 2 오아크\n2서울대입구역 7번 출구에서515m",
+            "foodtype": "와인",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220815_74%2F1660564325075xUUHi_JPEG%2F15.jpg"
+        },
+        {
+            "name": "파고",
+            "tel": "0507-1337-2249",
+            "star": "4.6/5",
+            "addr": "서울 관악구 행운1길 40 신화로즈빌 1층 105호\n2서울대입구역 8번 출구에서438m",
+            "foodtype": "양식",
+            "menu": [
+                "파고 피자",
+                "풍기 피자",
+                "판체타 까르보",
+                "라구 파스타"
+            ],
+            "price": [
+                "17,000원",
+                "17,000원",
+                "16,000원",
+                "17,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191103_95%2F1572781368198b19YL_JPEG%2F2Mvr8iLvc7WG7CBSVvm5593s.jpg"
+        },
+        {
+            "name": "프랑스홍합집",
+            "tel": "0507-1315-1705",
+            "star": "4.46/5",
+            "addr": "서울 관악구 관악로14길 22\n2서울대입구역 2번 출구에서286m",
+            "foodtype": "프랑스음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190927_244%2F1569519868214AyVvL_JPEG%2F%25B8%25DE%25C0%25CE.jpg"
+        },
+        {
+            "name": "서울테이블",
+            "tel": "02-889-5526",
+            "star": [],
+            "addr": "서울 관악구 관악로14길 28 2층\n2서울대입구역 2번 출구에서329m",
+            "foodtype": "양식",
+            "menu": [
+                "감자뇨끼",
+                "통베이컨스크램블(lunch)",
+                "프렌치토스트(lunch)",
+                "당근라페파스타(dinner)"
+            ],
+            "price": [
+                "17,000원",
+                "12,000원",
+                "11,000원",
+                "14,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170902_155%2F1504362572656r5k6A_JPEG%2Fp67XfTHOeQIAFfBA3Tf01fCS.jpg"
+        },
+        {
+            "name": "음주가의책방",
+            "tel": "0507-1387-3092",
+            "star": "4.97/5",
+            "addr": "서울 관악구 관악로12길 3-14 지하1층\n2서울대입구역 2번 출구에서250m",
+            "foodtype": "바(BAR)",
+            "menu": [
+                "소세지퐁듀",
+                "잠봉 슬라이스",
+                "바질카나페",
+                "과카몰리"
+            ],
+            "price": [
+                "15,800원",
+                "9,900원",
+                "8,900원",
+                "10,900원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210804_216%2F1628076537447NfrJa_JPEG%2FH8H5sdSs3P41Iu_tFyQ5vENW.jpg"
+        },
+        {
+            "name": "Kitchen& BAR 몽중인",
+            "tel": "02-882-6659",
+            "star": "4.5/5",
+            "addr": "서울 관악구 관악로14가길 13\n2서울대입구역 1번 출구에서516m",
+            "foodtype": "중식당",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190114_125%2F15474707323706Aig1_JPEG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2016-10-08_%25BF%25C0%25C0%25FC_10.42.21_%25BA%25B9%25BB%25E7%25BA%25BB.jpg"
+        },
+        {
+            "name": "맨프롬오키나와",
+            "tel": "010-9239-7135",
+            "star": "4.44/5",
+            "addr": "서울 관악구 관악로12길 30 1층\n2서울대입구역 2번 출구에서464m",
+            "foodtype": "바(BAR)",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191103_54%2F1572788092503CDvNI_JPEG%2F7hAc2TxQM_1veFi86XHbjspF.jpg"
+        },
+        {
+            "name": "미스터하이볼",
+            "tel": "010-9512-3397",
+            "star": "4.69/5",
+            "addr": "서울 관악구 봉천로 473-9 2층 미스터하이볼\n2서울대입구역 6번 출구에서163m",
+            "foodtype": "바(BAR)",
+            "menu": [
+                "연어 카르파치오",
+                "버크셔 탕수육",
+                "클래식 칵테일",
+                "페스카도 프리토"
+            ],
+            "price": [
+                "25,000원",
+                "20,000원",
+                "12,000~14,000",
+                "23,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210505_145%2F1620195881350atzMw_JPEG%2Fdl2gMcwgpHfSFloByDKcdUj1.jpg"
+        },
+        {
+            "name": "토끼네마굿간",
+            "tel": "02-879-0911",
+            "star": "4.59/5",
+            "addr": "서울 관악구 남부순환로230길 28 2층\n2서울대입구역 1번 출구에서361m",
+            "foodtype": "이탈리아음식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220514_79%2F1652522746711W31nl_JPEG%2Fimage.jpg"
+        },
+        {
+            "name": "라페리체",
+            "tel": "070-8773-1001",
+            "star": "4.34/5",
+            "addr": "서울 관악구 관악로14길 34 지하 1층 (봉천동)\n2서울대입구역 2번 출구에서340m",
+            "foodtype": "이탈리아음식",
+            "menu": [
+                "파스타 or 리소토 코스",
+                "스테이크 코스",
+                "브런치/파스타 or 리소토 코스",
+                "브런치/브런치 플래터"
+            ],
+            "price": [
+                "35,000원",
+                "45,000원",
+                "16,000원",
+                "16,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171220_204%2F1513741807287gMfRX_JPEG%2FkrPUgjkiI970cUqLvDcfKrcW.jpg"
+        },
+        {
+            "name": "WHERE ARE WE in blue",
+            "tel": "0507-1312-6696",
+            "star": "4.56/5",
+            "addr": "서울 관악구 쑥고개로 123 상가 1층 107호 웨어아위인블루\n2서울대입구역 3번 출구에서382m",
+            "foodtype": "양식",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181006_236%2F1538823265621Tx79X_JPEG%2Fin-0g0va7HAQp_Myo5Nx37Xh.jpeg.jpg"
+        },
+        {
+            "name": "민혁이네외국포차 서울대입구역점",
+            "tel": "0507-1390-2019",
+            "star": "4.46/5",
+            "addr": "서울 관악구 남부순환로230길 11\n2서울대입구역 1번 출구에서270m",
+            "foodtype": "민혁이네외국포차",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180620_72%2F1529482214027Nljoh_JPEG%2FHd8kNgNgjxNpuP-rCvhDLPD0.jpg"
+        },
+        {
+            "name": "그물에걸리지않는바람처럼",
+            "tel": "0507-1300-8674",
+            "star": "4.98/5",
+            "addr": "서울 관악구 봉천로 469-11 1층\n2서울대입구역 6번 출구에서176m",
+            "foodtype": "맥주,호프",
+            "menu": [],
+            "price": [],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210905_272%2F1630831801038iNw3y_JPEG%2Fg2BojZ0dHp-JDvvCMBc0IC-9.jpg"
+        },
+        {
+            "name": "올바른덮밥",
+            "tel": "0507-1359-2677",
+            "star": [],
+            "addr": "서울 관악구 관악로 266 1층 올바른덮밥\n2서울대입구역 7번 출구에서812m",
+            "foodtype": "한식",
+            "menu": [
+                "소불고기 덮밥(일반)",
+                "동남아'st 비건 덮밥",
+                "치킨마요덮밥",
+                "소불고기 덮밥(일반)"
+            ],
+            "price": [
+                "9,000원",
+                "10,000원",
+                "8,000원",
+                "9,000원"
+            ],
+            "thumb": "https://search.pstatic.net/common/?autoRotate=true&type=w560_sharpen&src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjNfMTEw%2FMDAxNjU1OTY4Mzg4MjU2.jfWGM0T6is-pIV_3dGjK9liUjkbEH7GmcRTNzG8ic5Ag.rLUYR7zTbOnUVfMU_zzrCRNWIO0JZT0OnbcZssjpEe8g.JPEG.hyejini0321%2F20220621%25A3%25DF155722.jpg"
+        }
+    ]
+}
